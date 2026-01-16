@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>세계 경제 뉴스 (5분 자동 갱신)</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header>
+    <h1>세계 경제 뉴스</h1>
+    <div class="meta">
+      마지막 데이터 갱신(UTC): <span id="updated">-</span>
+    </div>
+  </header>
+
+  <main>
+    <table>
+      <thead>
+        <tr>
+          <th class="col-source">출처</th>
+          <th>제목</th>
+          <th class="col-time">발행/갱신(UTC)</th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>
