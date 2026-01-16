@@ -7,24 +7,43 @@
   <link rel="stylesheet" href="./style.css" />
 </head>
 <body>
-  <header>
+  <header class="wrap">
     <h1>세계 경제 뉴스</h1>
+
     <div class="meta">
-      마지막 데이터 갱신(UTC): <span id="updated">-</span>
+      데이터 생성(UTC): <span id="updated">-</span>
+      <span class="sep">·</span>
+      조회 범위: 최근 <span id="lookback">24</span>시간
+      <span class="sep">·</span>
+      표시: 최대 20개
+    </div>
+
+    <div class="controls">
+      <input id="q" type="search" placeholder="검색: 제목/출처 키워드" />
+      <div id="chips" class="chips"></div>
     </div>
   </header>
 
-  <main>
+  <main class="wrap">
+    <div class="summary">
+      <span id="count">0</span>개 표시 중
+    </div>
+
     <table>
       <thead>
         <tr>
           <th class="col-source">출처</th>
           <th>제목</th>
-          <th class="col-time">발행/갱신(UTC)</th>
+          <th class="col-cat">카테고리</th>
+          <th class="col-time">발행(UTC)</th>
         </tr>
       </thead>
       <tbody id="rows"></tbody>
     </table>
+
+    <p class="hint">
+      화면은 60초마다 갱신됩니다(데이터는 GitHub Actions가 5분 단위로 업데이트).
+    </p>
   </main>
 
   <script src="./app.js"></script>
