@@ -27,11 +27,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedparser
 
-      - name: Update news json + debug
+      - name: Build latest_news.json + debug
         run: |
           python docs/scripts/update_news.py
-          echo "=== latest_news.json ==="
-          cat docs/data/latest_news.json || true
+          echo "=== latest_news.json (head) ==="
+          head -n 80 docs/data/latest_news.json || true
           echo "=== git status ==="
           git status --porcelain
 
