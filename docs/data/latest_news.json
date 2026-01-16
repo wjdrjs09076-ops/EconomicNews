@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-01-16T15:57:33+00:00",
+  "generated_at_utc": "2026-01-16T16:58:34+00:00",
   "lookback_hours": 24,
   "items": [
     {
@@ -19,15 +19,6 @@
       "published_utc": "2026-01-16T10:00:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board issues enforcement action with former employee of PrimeLending",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260115a.htm",
-      "published_utc": "2026-01-15T16:00:00+00:00",
-      "categories": [
         "institutions"
       ]
     },
@@ -182,6 +173,15 @@
       "title": "IMF / World Economic Outlook October 2025 Update\">",
       "source": "IMF",
       "link": "https://mediacenter.imf.org/news/imf---world-economic-outlook-october-2025-update/s/8c410ec9-2166-400b-ba22-46c5849b4881",
+      "published_utc": null,
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "IMF/WB Annual Meetings 2025 B-Roll\">",
+      "source": "IMF",
+      "link": "https://mediacenter.imf.org/news/imf-wb-annual-meetings-2025-b-roll/s/a70cad0e-e6f8-43f5-8df6-c8b41bfa1adf",
       "published_utc": null,
       "categories": [
         "institutions"
