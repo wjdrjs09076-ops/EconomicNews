@@ -1,35 +1,5 @@
 {
-  "generated_at_utc": "2026-01-16T15:39:36+00:00",
-  "items": [
-    {
-      "title": "IMF / Senegal, Sri Lanka, India, Argentina\">",
-      "source": "IMF",
-      "link": "https://mediacenter.imf.org/news/imf---senegal--sri-lanka--india--argentina/s/a8e39f2c-e077-430a-9147-bae324d18bc9",
-      "published_utc": null
-    },
-    {
-      "title": "IMF / Senegal, Jamaica\">",
-      "source": "IMF",
-      "link": "https://mediacenter.imf.org/news/imf---senegal--jamaica/s/72d78d77-1c74-4fd8-9f95-e2ffb3f203f5",
-      "published_utc": null
-    },
-    {
-      "title": "IMF / Senegal, Syria, Hurricane Melissa\">",
-      "source": "IMF",
-      "link": "https://mediacenter.imf.org/news/imf---senegal--syria--hurricane-melissa/s/4060a20f-acb6-4e15-9c87-9be91f557001",
-      "published_utc": null
-    },
-    {
-      "title": "IMF / Western Hemisphere Department Press Briefing\">",
-      "source": "IMF",
-      "link": "https://mediacenter.imf.org/news/imf---western-hemisphere-department-press-briefing/s/6857cda6-33ba-4e2e-a31f-05505a11ffd1",
-      "published_utc": null
-    },
-    {
-      "title": "IMF / IMFC Press Briefing\">",
-      "source": "IMF",
-      "link": "https://mediacenter.imf.org/news/imf---imfc-press-briefing/s/87455709-c475-47e2-aff1-6d9f6bb5daee",
-      "published_utc": null
-    }
-  ]
+  "generated_at_utc": "-",
+  "lookback_hours": 24,
+  "items": []
 }
