@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-01-17T13:57:29+00:00",
+  "generated_at_utc": "2026-01-17T14:39:28+00:00",
   "lookback_hours": 24,
   "items": [
     {
@@ -8,16 +8,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
       "published_utc": "2026-01-16T18:45:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Product innovation in the UK mortgage market: the case of green mortgages",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/product-innovation-in-the-uk-mortgage-market-the-case-of-green-mortgages",
-      "published_utc": "2026-01-16T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     },
@@ -181,6 +171,15 @@
       "title": "IMF/WB Annual Meetings 2025 B-Roll\">",
       "source": "IMF",
       "link": "https://mediacenter.imf.org/news/imf-wb-annual-meetings-2025-b-roll/s/a70cad0e-e6f8-43f5-8df6-c8b41bfa1adf",
+      "published_utc": null,
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "IMF / World Economic Outlook July 2025\">",
+      "source": "IMF",
+      "link": "https://mediacenter.imf.org/news/imf---world-economic-outlook-july-2025/s/c7789a59-7b0e-4158-a2df-cb96b75b7bd5",
       "published_utc": null,
       "categories": [
         "institutions"
