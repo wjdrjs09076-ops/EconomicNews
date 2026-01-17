@@ -1,16 +1,7 @@
 {
-  "generated_at_utc": "2026-01-17T17:58:46+00:00",
+  "generated_at_utc": "2026-01-17T18:52:42+00:00",
   "lookback_hours": 24,
   "items": [
-    {
-      "title": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
-      "published_utc": "2026-01-16T18:45:00+00:00",
-      "categories": [
-        "institutions"
-      ]
-    },
     {
       "title": "IMF / Senegal, Sri Lanka, India, Argentina\">",
       "source": "IMF",
@@ -180,6 +171,15 @@
       "title": "IMF / World Economic Outlook July 2025\">",
       "source": "IMF",
       "link": "https://mediacenter.imf.org/news/imf---world-economic-outlook-july-2025/s/c7789a59-7b0e-4158-a2df-cb96b75b7bd5",
+      "published_utc": null,
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "IMF update",
+      "source": "IMF",
+      "link": "https://mediacenter.imf.org/news/imf-ukraine---senegal---japan---ghana/s/7ec27ef8-b581-493b-9b60-5da0f8406c4b",
       "published_utc": null,
       "categories": [
         "institutions"
