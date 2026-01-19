@@ -8,7 +8,7 @@ import feedparser
 
 OUT_PATH = "docs/data/latest_news.json"
 MAX_ITEMS = 20
-LOOKBACK_HOURS = 12
+LOOKBACK_HOURS = 72
 TIMEOUT_SEC = 25
 
 SOURCES = {
