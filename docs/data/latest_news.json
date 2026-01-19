@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-01-19T09:59:48+00:00",
+  "generated_at_utc": "2026-01-19T10:57:34+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -16,16 +16,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/working-paper/2026/product-innovation-in-the-uk-mortgage-market-the-case-of-green-mortgages",
       "published_utc": "2026-01-16T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Global imbalances in a more fragmented world – remarks by Andrew Bailey",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/january/andrew-bailey-meeting-of-the-bellagio-group-2026-at-the-boe",
-      "published_utc": "2026-01-16T10:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
