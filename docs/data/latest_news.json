@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-01-19T13:57:19+00:00",
+  "generated_at_utc": "2026-01-19T14:57:21+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -8,16 +8,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
       "published_utc": "2026-01-16T18:45:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Product innovation in the UK mortgage market: the case of green mortgages",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/product-innovation-in-the-uk-mortgage-market-the-case-of-green-mortgages",
-      "published_utc": "2026-01-16T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
