@@ -8,7 +8,7 @@ import feedparser
 
 OUT_PATH = "docs/data/latest_news.json"
 MAX_ITEMS = 20
-LOOKBACK_HOURS = 24
+LOOKBACK_HOURS = 12
 TIMEOUT_SEC = 25
 
 SOURCES = {
@@ -274,7 +274,7 @@ def main():
             unknown_time.append(it)
 
     recent.sort(key=lambda x: x[0], reverse=True)
-    sorted_items = [it for _, it in recent] + unknown_time
+    sorted_items = [it for _, it in recent]
 
     # 3) 최대 20개
     out = {
