@@ -1,15 +1,5 @@
 {
-  "generated_at_utc": "2026-01-19T17:57:54+00:00",
+  "generated_at_utc": "2026-01-19T18:58:45+00:00",
   "lookback_hours": 72,
-  "items": [
-    {
-      "title": "Federal Reserve Board announces approval of application by Banco Inter, S.A.",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260116a.htm",
-      "published_utc": "2026-01-16T18:45:00+00:00",
-      "categories": [
-        "institutions"
-      ]
-    }
-  ]
+  "items": []
 }
