@@ -1,7 +1,37 @@
 {
-  "generated_at_utc": "2026-01-23T08:59:04+00:00",
+  "generated_at_utc": "2026-01-23T09:54:06+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Forecast Evaluation Report – January 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/forecast-evaluation-report-january-2026",
+      "published_utc": "2026-01-23T09:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Learning from forecast errors: the Bank’s enhanced approach to forecast evaluation",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/macro-technical-paper/2026/learning-from-forecast-errors-the-banks-enhanced-approach-to-forecast-evaluation",
+      "published_utc": "2026-01-23T09:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Megan Greene: Speech at the Resolution Foundation ‘The forks in the curve’ (to be published at 9.30am)",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/january/megan-greene-speech-at-the-resolution-foundation-worlds-apart",
+      "published_utc": "2026-01-23T09:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England Weekly Report 21 January 2026",
       "source": "Bank of England",
