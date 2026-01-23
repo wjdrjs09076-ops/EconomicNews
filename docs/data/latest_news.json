@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-01-23T09:54:06+00:00",
+  "generated_at_utc": "2026-01-23T10:54:17+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -23,11 +23,12 @@
       ]
     },
     {
-      "title": "Megan Greene: Speech at the Resolution Foundation ‘The forks in the curve’ (to be published at 9.30am)",
+      "title": "Forks in the Curve: whether and how to respond to monetary policy divergence - speech by Megan Greene",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/speech/2026/january/megan-greene-speech-at-the-resolution-foundation-worlds-apart",
       "published_utc": "2026-01-23T09:30:00+00:00",
       "categories": [
+        "rates",
         "financial_stability",
         "institutions"
       ]
