@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-01-25T14:59:12+00:00",
+  "generated_at_utc": "2026-01-25T15:38:56+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -51,16 +51,6 @@
       "published_utc": "2026-01-23T09:30:00+00:00",
       "categories": [
         "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England Weekly Report 21 January 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/21-january-2026",
-      "published_utc": "2026-01-22T15:00:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
