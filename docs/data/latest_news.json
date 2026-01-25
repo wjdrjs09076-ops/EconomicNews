@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-01-25T21:33:55+00:00",
+  "generated_at_utc": "2026-01-25T21:47:29+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -25,9 +25,9 @@
       ]
     },
     {
-      "title": "Forecast Evaluation Report – January 2026",
+      "title": "Learning from forecast errors: the Bank’s enhanced approach to forecast evaluation",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/forecast-evaluation-report-january-2026",
+      "link": "https://www.bankofengland.co.uk/macro-technical-paper/2026/learning-from-forecast-errors-the-banks-enhanced-approach-to-forecast-evaluation",
       "published_utc": "2026-01-23T09:30:00+00:00",
       "categories": [
         "financial_stability",
@@ -35,9 +35,9 @@
       ]
     },
     {
-      "title": "Learning from forecast errors: the Bank’s enhanced approach to forecast evaluation",
+      "title": "Forecast Evaluation Report – January 2026",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/macro-technical-paper/2026/learning-from-forecast-errors-the-banks-enhanced-approach-to-forecast-evaluation",
+      "link": "https://www.bankofengland.co.uk/paper/2026/forecast-evaluation-report-january-2026",
       "published_utc": "2026-01-23T09:30:00+00:00",
       "categories": [
         "financial_stability",
