@@ -1,28 +1,5 @@
 {
-  "generated_at_utc": "2026-01-26T13:56:58+00:00",
+  "generated_at_utc": "2026-01-26T14:58:56+00:00",
   "lookback_hours": 72,
-  "items": [
-    {
-      "title": "House price expectations and inflation expectations: evidence from survey data",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/house-price-expectations-inflation-expectations-evidence-from-survey-data",
-      "published_utc": "2026-01-23T14:01:00+00:00",
-      "categories": [
-        "inflation",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Solvency and systemic risk of European life insurers",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/solvency-and-systemic-risk-of-european-life-insurers",
-      "published_utc": "2026-01-23T14:00:00+00:00",
-      "categories": [
-        "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    }
-  ]
+  "items": []
 }
