@@ -1,5 +1,25 @@
 {
-  "generated_at_utc": "2026-01-28T17:50:31+00:00",
+  "generated_at_utc": "2026-01-28T19:03:49+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm",
+      "published_utc": "2026-01-28T19:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Open Market Committee reaffirms its \"Statement on Longer-Run Goals and Monetary Policy Strategy\"",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128b.htm",
+      "published_utc": "2026-01-28T19:00:00+00:00",
+      "categories": [
+        "rates",
+        "institutions"
+      ]
+    }
+  ]
 }
