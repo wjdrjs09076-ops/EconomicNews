@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-01-29T14:11:11+00:00",
+  "generated_at_utc": "2026-01-29T15:58:25+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England Weekly Report 28 January 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/28-january-2026",
+      "published_utc": "2026-01-29T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "The sky’s the limit: shaping the UK’s digital financial future - speech by Sasha Mills",
       "source": "Bank of England",
