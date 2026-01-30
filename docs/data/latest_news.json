@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-01-30T20:57:50+00:00",
+  "generated_at_utc": "2026-01-30T21:52:59+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces approval of application by Cornerstone Capital Bancorp, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260130a.htm",
+      "published_utc": "2026-01-30T21:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)",
       "source": "Federal Reserve",
