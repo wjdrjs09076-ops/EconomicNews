@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-01T14:54:50+00:00",
+  "generated_at_utc": "2026-02-01T15:48:55+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -17,16 +17,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260129a.htm",
       "published_utc": "2026-01-29T18:30:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England Weekly Report 28 January 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/28-january-2026",
-      "published_utc": "2026-01-29T15:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
