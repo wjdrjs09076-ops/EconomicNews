@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-01T17:52:53+00:00",
+  "generated_at_utc": "2026-02-01T19:03:43+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -7,15 +7,6 @@
       "source": "Federal Reserve",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260130a.htm",
       "published_utc": "2026-01-30T21:00:00+00:00",
-      "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces appointment of seven members, including four new members, to its Insurance Policy Advisory Committee (IPAC)",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260129a.htm",
-      "published_utc": "2026-01-29T18:30:00+00:00",
       "categories": [
         "institutions"
       ]
