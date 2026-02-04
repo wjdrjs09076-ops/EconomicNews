@@ -1,7 +1,18 @@
 {
-  "generated_at_utc": "2026-02-04T11:48:52+00:00",
+  "generated_at_utc": "2026-02-04T14:28:05+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Results of the Foreign Exchange Joint Standing Committee (FXJSC) Turnover Survey for October 2025",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-october-2025",
+      "published_utc": "2026-02-04T14:00:00+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Regulators announce first firms to join Scale-up Unit",
       "source": "Bank of England",
