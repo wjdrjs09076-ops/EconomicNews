@@ -1,7 +1,49 @@
 {
-  "generated_at_utc": "2026-02-05T11:52:30+00:00",
+  "generated_at_utc": "2026-02-05T14:32:25+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Monthly Decision Maker Panel data - January 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/january-2026",
+      "published_utc": "2026-02-05T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank Rate maintained at 3.75% - February 2026 Monetary Policy Summary and Minutes",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/february-2026",
+      "published_utc": "2026-02-05T12:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Agents' summary of business conditions - February 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/agents-summary/2026/february-2026",
+      "published_utc": "2026-02-05T12:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Monetary Policy Report - February 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-report/2026/february-2026",
+      "published_utc": "2026-02-05T12:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
       "source": "Federal Reserve",
@@ -13,7 +55,7 @@
       ]
     },
     {
-      "title": "Results of the Foreign Exchange Joint Standing Committee (FXJSC) Turnover Survey for October 2025",
+      "title": "Results of the Semi-Annual FX Turnover Surveys in October 2025",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-october-2025",
       "published_utc": "2026-02-04T14:00:00+00:00",
@@ -38,16 +80,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/letter/2026/letter-from-ruth-smith-on-firms-preparations-for-the-third-raf-assessment",
       "published_utc": "2026-02-02T15:59:33+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Frenemies at the gates − speech by Rebecca Jackson",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/february/rebecca-jackson-speech-on-intraday-risk-management-and-principal-trading",
-      "published_utc": "2026-02-02T13:15:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
