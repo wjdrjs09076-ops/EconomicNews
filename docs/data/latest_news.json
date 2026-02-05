@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-05T10:09:08+00:00",
+  "generated_at_utc": "2026-02-05T11:52:30+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -48,16 +48,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/speech/2026/february/rebecca-jackson-speech-on-intraday-risk-management-and-principal-trading",
       "published_utc": "2026-02-02T13:15:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Talking ’bout next generation − speech by Sarah Breeden",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/february/sarah-breeden-keynote-speech-at-the-city-financial-annual-payments-regulation-and-innovation-summit",
-      "published_utc": "2026-02-02T11:45:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
