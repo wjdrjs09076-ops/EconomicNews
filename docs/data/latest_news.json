@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-02-05T14:32:25+00:00",
+  "generated_at_utc": "2026-02-05T17:31:43+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England Weekly Report 4 February 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/4-february-2026",
+      "published_utc": "2026-02-05T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Monthly Decision Maker Panel data - January 2026",
       "source": "Bank of England",
@@ -70,16 +80,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/news/2026/february/regulators-announce-first-firms-to-join-scale-up-unit",
       "published_utc": "2026-02-03T10:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Letter from Ruth Smith on firms’ preparations for the third Resolvability Assessment Framework (RAF) assessment",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/letter/2026/letter-from-ruth-smith-on-firms-preparations-for-the-third-raf-assessment",
-      "published_utc": "2026-02-02T15:59:33+00:00",
       "categories": [
         "financial_stability",
         "institutions"
