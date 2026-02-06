@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-02-06T11:49:42+00:00",
+  "generated_at_utc": "2026-02-06T14:26:08+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Market Participants Survey results - February 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-february-2026",
+      "published_utc": "2026-02-06T12:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Update on changes to country groupings for International Banking Statistics",
       "source": "Bank of England",
