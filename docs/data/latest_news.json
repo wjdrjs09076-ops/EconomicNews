@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-02-06T07:52:20+00:00",
+  "generated_at_utc": "2026-02-06T10:05:17+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Update on changes to country groupings for International Banking Statistics",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/statistics/articles/2026/update-on-changes-to-country-groupings-for-international-banking-statistics",
+      "published_utc": "2026-02-06T09:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England Weekly Report 4 February 2026",
       "source": "Bank of England",
@@ -71,16 +81,6 @@
       "published_utc": "2026-02-04T14:00:00+00:00",
       "categories": [
         "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Regulators announce first firms to join Scale-up Unit",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/february/regulators-announce-first-firms-to-join-scale-up-unit",
-      "published_utc": "2026-02-03T10:00:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
