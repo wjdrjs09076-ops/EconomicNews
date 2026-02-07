@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-07T13:54:49+00:00",
+  "generated_at_utc": "2026-02-07T14:56:03+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -80,17 +80,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm",
       "published_utc": "2026-02-04T21:30:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Results of the Semi-Annual FX Turnover Surveys in October 2025",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/markets/london-foreign-exchange-joint-standing-committee/results-of-the-semi-annual-fx-turnover-survey-october-2025",
-      "published_utc": "2026-02-04T14:00:00+00:00",
-      "categories": [
-        "fx",
         "financial_stability",
         "institutions"
       ]
