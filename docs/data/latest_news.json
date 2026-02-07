@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-07T20:55:59+00:00",
+  "generated_at_utc": "2026-02-07T21:52:31+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -70,16 +70,6 @@
       "published_utc": "2026-02-05T12:00:00+00:00",
       "categories": [
         "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board finalizes hypothetical scenarios for its annual stress test and votes to maintain the current stress test-related capital requirements until public feedback can be considered",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260204a.htm",
-      "published_utc": "2026-02-04T21:30:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
