@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-08T14:57:54+00:00",
+  "generated_at_utc": "2026-02-08T15:52:29+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -27,16 +27,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/statistics/articles/2026/update-on-changes-to-country-groupings-for-international-banking-statistics",
       "published_utc": "2026-02-06T09:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England Weekly Report 4 February 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/4-february-2026",
-      "published_utc": "2026-02-05T15:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
