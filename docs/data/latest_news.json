@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-02-08T05:18:33+00:00",
+  "generated_at_utc": "2026-02-08T07:29:34+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "The world today – remarks by Andrew Bailey",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/february/andrew-bailey-speech-at-the-imf-saudi-ministry-of-finance",
+      "published_utc": "2026-02-08T06:40:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Market Participants Survey results - February 2026",
       "source": "Bank of England",
