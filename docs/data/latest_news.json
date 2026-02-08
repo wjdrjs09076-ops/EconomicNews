@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-08T13:57:12+00:00",
+  "generated_at_utc": "2026-02-08T14:57:54+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -37,16 +37,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/4-february-2026",
       "published_utc": "2026-02-05T15:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Monthly Decision Maker Panel data - January 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/january-2026",
-      "published_utc": "2026-02-05T14:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
