@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-02-09T08:04:06+00:00",
+  "generated_at_utc": "2026-02-09T11:12:26+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Green notice 2026/01",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-01",
+      "published_utc": "2026-02-09T09:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "The world today – remarks by Andrew Bailey",
       "source": "Bank of England",
@@ -17,16 +27,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-february-2026",
       "published_utc": "2026-02-06T12:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Update on changes to country groupings for International Banking Statistics",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/statistics/articles/2026/update-on-changes-to-country-groupings-for-international-banking-statistics",
-      "published_utc": "2026-02-06T09:30:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
