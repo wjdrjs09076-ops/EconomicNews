@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-02-09T11:12:26+00:00",
+  "generated_at_utc": "2026-02-09T14:38:33+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Statement by Pablo Hernández de Cos, BIS General Manager, on François Villeroy de Galhau",
+      "source": "BIS",
+      "link": "https://www.bis.org/press/p260209.htm",
+      "published_utc": "2026-02-09T14:05:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Foreign Currency Reserves 2026 – Market Notice 9 February 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/february/foreign-currency-reserves-9-february-2026",
+      "published_utc": "2026-02-09T12:30:00+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Green notice 2026/01",
       "source": "Bank of England",
@@ -17,16 +37,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/speech/2026/february/andrew-bailey-speech-at-the-imf-saudi-ministry-of-finance",
       "published_utc": "2026-02-08T06:40:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Market Participants Survey results - February 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-february-2026",
-      "published_utc": "2026-02-06T12:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
