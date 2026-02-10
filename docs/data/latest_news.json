@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-02-10T11:15:40+00:00",
+  "generated_at_utc": "2026-02-10T14:46:28+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Asset Purchase Facility Quarterly Report - 2025 Q4",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2025/2025-q4",
+      "published_utc": "2026-02-10T12:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Statement by Pablo Hernández de Cos, BIS General Manager, on François Villeroy de Galhau",
       "source": "BIS",
