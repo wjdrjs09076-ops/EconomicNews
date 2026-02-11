@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-11T05:45:45+00:00",
+  "generated_at_utc": "2026-02-11T08:03:48+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -48,16 +48,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-01",
       "published_utc": "2026-02-09T09:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The world today – remarks by Andrew Bailey",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/february/andrew-bailey-speech-at-the-imf-saudi-ministry-of-finance",
-      "published_utc": "2026-02-08T06:40:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
