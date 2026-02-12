@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-02-12T15:30:45+00:00",
+  "generated_at_utc": "2026-02-12T16:31:57+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260212a.htm",
+      "published_utc": "2026-02-12T16:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England Weekly Report 11 February 2026",
       "source": "Bank of England",
