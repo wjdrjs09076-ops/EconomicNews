@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-02-13T11:50:24+00:00",
+  "generated_at_utc": "2026-02-13T12:25:21+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Slides from Huw Pill’s fireside chat at Santander UK’s macroeconomic event",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/february/slides-from-huw-pill-fireside-chat-at-santander-event",
+      "published_utc": "2026-02-13T12:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the Market Participants Group meeting – 12 February 2026",
       "source": "Bank of England",
@@ -69,16 +79,6 @@
       "published_utc": "2026-02-10T16:30:00+00:00",
       "categories": [
         "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Asset Purchase Facility Quarterly Report - 2025 Q4",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2025/2025-q4",
-      "published_utc": "2026-02-10T12:00:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
