@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-15T14:56:09+00:00",
+  "generated_at_utc": "2026-02-15T15:17:15+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -59,16 +59,6 @@
       "source": "Federal Reserve",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260212a.htm",
       "published_utc": "2026-02-12T16:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England Weekly Report 11 February 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/11-february-2026",
-      "published_utc": "2026-02-12T15:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
