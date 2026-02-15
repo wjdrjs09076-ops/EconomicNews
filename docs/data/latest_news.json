@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-15T09:58:06+00:00",
+  "generated_at_utc": "2026-02-15T10:49:53+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -69,16 +69,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/11-february-2026",
       "published_utc": "2026-02-12T15:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank Resolution Standards Instrument: The Technical Standards (COREP13) Instrument 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/ps/bank-resolution-standards-instrument-the-technical-standards-corep13-instrument-2026",
-      "published_utc": "2026-02-12T10:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
