@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-15T20:46:13+00:00",
+  "generated_at_utc": "2026-02-15T21:00:56+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -39,16 +39,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/minutes/2026/february/market-participants-group-meeting-12-february-2026",
       "published_utc": "2026-02-13T07:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces approval of application by Cooperativa de Ahorro y Credito Elga, Ltda.",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260212a.htm",
-      "published_utc": "2026-02-12T21:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
