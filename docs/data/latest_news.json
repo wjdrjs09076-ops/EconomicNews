@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-16T13:23:04+00:00",
+  "generated_at_utc": "2026-02-16T14:13:09+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -8,28 +8,6 @@
       "link": "https://www.bankofengland.co.uk/minutes/2026/february/summary-of-ai-roundtables-feb-2026",
       "published_utc": "2026-02-16T10:00:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Productivity implications of the move to net zero",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/productivity-implications-of-the-move-to-net-zero",
-      "published_utc": "2026-02-13T14:01:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Persistent and transitory inflation in the euro area: insights from global and domestic shocks",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/persistent-transitory-inflation-euro-area-insights-from-global-domestic-shocks",
-      "published_utc": "2026-02-13T14:00:00+00:00",
-      "categories": [
-        "inflation",
-        "fx",
         "financial_stability",
         "institutions"
       ]
