@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-16T11:37:04+00:00",
+  "generated_at_utc": "2026-02-16T12:03:14+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -30,16 +30,6 @@
       "categories": [
         "inflation",
         "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Slides from Huw Pill’s fireside chat at Santander UK’s macroeconomic event",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/february/slides-from-huw-pill-fireside-chat-at-santander-event",
-      "published_utc": "2026-02-13T12:00:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
