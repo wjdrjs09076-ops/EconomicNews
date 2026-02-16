@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-02-16T09:02:13+00:00",
+  "generated_at_utc": "2026-02-16T10:02:47+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Summary of AI roundtables - February 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/february/summary-of-ai-roundtables-feb-2026",
+      "published_utc": "2026-02-16T10:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Productivity implications of the move to net zero",
       "source": "Bank of England",
