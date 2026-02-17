@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-02-17T08:39:01+00:00",
+  "generated_at_utc": "2026-02-17T09:29:54+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Basel Committee publishes analysis of synthetic risk transfers",
+      "source": "BIS",
+      "link": "https://www.bis.org/press/p260217.htm",
+      "published_utc": "2026-02-17T13:47:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Summary of AI roundtables - February 2026",
       "source": "Bank of England",
