@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-02-18T18:09:06+00:00",
+  "generated_at_utc": "2026-02-18T19:11:45+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes of the Federal Open Market Committee, January 27–28, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260218a.htm",
+      "published_utc": "2026-02-18T19:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Basel Committee publishes analysis of synthetic risk transfers",
       "source": "BIS",
