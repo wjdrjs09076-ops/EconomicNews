@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-02-19T14:37:23+00:00",
+  "generated_at_utc": "2026-02-19T15:27:11+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England Weekly Report 18 February 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/18-february-2026",
+      "published_utc": "2026-02-19T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "The Bank of England’s fees regime for financial market infrastructure supervision 2025/26",
       "source": "Bank of England",
