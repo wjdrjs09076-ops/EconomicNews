@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-02-19T11:52:46+00:00",
+  "generated_at_utc": "2026-02-19T12:30:45+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "The Bank of England’s fees regime for financial market infrastructure supervision 2025/26",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-fees-regime-for-fmi-supervision-2025-26",
+      "published_utc": "2026-02-19T12:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the Federal Open Market Committee, January 27–28, 2026",
       "source": "Federal Reserve",
