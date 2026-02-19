@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-02-19T19:37:52+00:00",
+  "generated_at_utc": "2026-02-19T20:02:11+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces it will hold a hybrid public outreach meeting on Thursday, March 26, as part of its review of regulations under the Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA)",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260219a.htm",
+      "published_utc": "2026-02-19T20:00:00+00:00",
+      "categories": [
+        "growth",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England Weekly Report 18 February 2026",
       "source": "Bank of England",
