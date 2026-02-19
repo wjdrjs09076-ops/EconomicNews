@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-02-19T21:02:58+00:00",
+  "generated_at_utc": "2026-02-19T21:42:03+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces approval of application by Fulton Financial Corporation",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260219a.htm",
+      "published_utc": "2026-02-19T21:30:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces it will hold a hybrid public outreach meeting on Thursday, March 26, as part of its review of regulations under the Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA)",
       "source": "Federal Reserve",
