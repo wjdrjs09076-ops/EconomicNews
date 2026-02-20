@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-20T12:45:51+00:00",
+  "generated_at_utc": "2026-02-20T13:47:37+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -46,15 +46,6 @@
       "source": "Federal Reserve",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260218a.htm",
       "published_utc": "2026-02-18T19:00:00+00:00",
-      "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Basel Committee publishes analysis of synthetic risk transfers",
-      "source": "BIS",
-      "link": "https://www.bis.org/press/p260217.htm",
-      "published_utc": "2026-02-17T13:47:00+00:00",
       "categories": [
         "institutions"
       ]
