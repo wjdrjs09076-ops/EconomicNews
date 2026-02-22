@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-22T19:55:06+00:00",
+  "generated_at_utc": "2026-02-22T20:13:36+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -8,16 +8,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260219a.htm",
       "published_utc": "2026-02-19T21:30:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces it will hold a hybrid public outreach meeting on Thursday, March 26, as part of its review of regulations under the Economic Growth and Regulatory Paperwork Reduction Act (EGRPRA)",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260219a.htm",
-      "published_utc": "2026-02-19T20:00:00+00:00",
-      "categories": [
-        "growth",
         "institutions"
       ]
     }
