@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-22T14:58:51+00:00",
+  "generated_at_utc": "2026-02-22T15:23:55+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -18,16 +18,6 @@
       "published_utc": "2026-02-19T20:00:00+00:00",
       "categories": [
         "growth",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England Weekly Report 18 February 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/18-february-2026",
-      "published_utc": "2026-02-19T15:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
