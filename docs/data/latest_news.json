@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-02-25T15:45:10+00:00",
+  "generated_at_utc": "2026-02-25T16:49:13+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Basel Committee discusses recent market developments and targeted review of cryptoasset standard",
+      "source": "BIS",
+      "link": "https://www.bis.org/press/p260225.htm",
+      "published_utc": "2026-02-25T16:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the Board's discount rate meetings on January 20 and 28, 2026",
       "source": "Federal Reserve",
