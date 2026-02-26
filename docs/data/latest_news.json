@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-02-26T08:06:35+00:00",
+  "generated_at_utc": "2026-02-26T09:01:27+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Basel Committee issues a consolidated version of its guidelines",
+      "source": "BIS",
+      "link": "https://www.bis.org/press/p260226.htm",
+      "published_utc": "2026-02-26T10:20:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Basel Committee discusses recent market developments and targeted review of cryptoasset standard",
       "source": "BIS",
