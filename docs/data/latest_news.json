@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-26T21:48:53+00:00",
+  "generated_at_utc": "2026-02-26T22:17:03+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -75,16 +75,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/paper/2026/ps/extending-rtgs-and-chaps-settlement-hours-early-morning-extension",
       "published_utc": "2026-02-24T10:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Following earlier actions to remove reputation risk from its supervision of banks, Federal Reserve Board requests comment on proposal to codify that removal",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260223a.htm",
-      "published_utc": "2026-02-23T22:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
