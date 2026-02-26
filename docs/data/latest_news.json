@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-02-26T13:00:44+00:00",
+  "generated_at_utc": "2026-02-26T14:11:22+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Court minutes from 2023 that were previously redacted",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2023/february/court-redactions-from-2023",
+      "published_utc": "2026-02-26T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Minutes of the Meeting of the Court of Directors held on 9 December 2025",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/february/court-minutes-9-december-2025",
+      "published_utc": "2026-02-26T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Basel Committee issues a consolidated version of its guidelines",
       "source": "BIS",
