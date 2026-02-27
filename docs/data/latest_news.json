@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-27T09:27:14+00:00",
+  "generated_at_utc": "2026-02-27T10:04:17+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -65,16 +65,6 @@
       "source": "Federal Reserve",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260224a.htm",
       "published_utc": "2026-02-24T16:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Extending RTGS and CHAPS settlement hours – early morning extension",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/ps/extending-rtgs-and-chaps-settlement-hours-early-morning-extension",
-      "published_utc": "2026-02-24T10:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
