@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-02-27T15:56:39+00:00",
+  "generated_at_utc": "2026-02-27T16:32:36+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -100,16 +100,6 @@
       "published_utc": "2026-02-24T19:00:00+00:00",
       "categories": [
         "rates",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260224a.htm",
-      "published_utc": "2026-02-24T16:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
