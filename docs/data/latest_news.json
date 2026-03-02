@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-02T13:18:38+00:00",
+  "generated_at_utc": "2026-03-02T14:09:02+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -7,39 +7,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/speech/2026/march/speech-by-alan-taylor-getting-the-right-directions",
       "published_utc": "2026-03-02T12:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "A model of monetary singleness",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/a-model-of-monetary-singleness",
-      "published_utc": "2026-02-27T14:02:00+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "How do interest rates affect consumption? Household debt and the role of asset prices",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/how-do-interest-rates-affect-consumption-household-debt-and-the-role-of-asset-prices",
-      "published_utc": "2026-02-27T14:01:00+00:00",
-      "categories": [
-        "rates",
-        "inflation",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The economic effects of changes to bank capital regulation: evidence from the United Kingdom",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/the-economic-effects-of-changes-to-bank-capital-regulation-evidence-from-the-uk",
-      "published_utc": "2026-02-27T14:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
