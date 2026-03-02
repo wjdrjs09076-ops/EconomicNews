@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-03-02T12:02:26+00:00",
+  "generated_at_utc": "2026-03-02T13:18:38+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Getting the right directions − speech by Alan Taylor",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/march/speech-by-alan-taylor-getting-the-right-directions",
+      "published_utc": "2026-03-02T12:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "A model of monetary singleness",
       "source": "Bank of England",
@@ -30,16 +40,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/working-paper/2026/the-economic-effects-of-changes-to-bank-capital-regulation-evidence-from-the-uk",
       "published_utc": "2026-02-27T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Braddick to take the helm at the UK’s banking watchdog",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/february/braddick-to-take-the-helm-at-the-uks-banking-watchdog",
-      "published_utc": "2026-02-27T13:08:26+00:00",
       "categories": [
         "financial_stability",
         "institutions"
