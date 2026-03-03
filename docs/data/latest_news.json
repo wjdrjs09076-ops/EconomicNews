@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-03-03T09:03:44+00:00",
+  "generated_at_utc": "2026-03-03T09:55:57+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Statistical Notice 2026/02 - BEEDS user acceptance testing (UAT) environment – Statistical taxonomy v1.3.1 FINAL",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-02",
+      "published_utc": "2026-03-03T09:15:50+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Getting the right directions − speech by Alan Taylor",
       "source": "Bank of England",
