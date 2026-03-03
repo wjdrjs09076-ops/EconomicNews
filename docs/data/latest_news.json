@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-03-03T15:39:09+00:00",
+  "generated_at_utc": "2026-03-03T16:26:34+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board issues enforcement actions with former employee of East Cambridge Savings Bank and former employee of United Bank",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260303a.htm",
+      "published_utc": "2026-03-03T16:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Statistical Notice 2026/02 - BEEDS user acceptance testing (UAT) environment – Statistical taxonomy v1.3.1 FINAL",
       "source": "Bank of England",
