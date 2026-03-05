@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-03-05T20:02:36+00:00",
+  "generated_at_utc": "2026-03-05T20:47:34+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Agencies clarify the capital treatment of tokenized securities",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260305a.htm",
+      "published_utc": "2026-03-05T20:30:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces termination of enforcement action with Wells Fargo",
       "source": "Federal Reserve",
