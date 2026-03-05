@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-03-05T15:10:38+00:00",
+  "generated_at_utc": "2026-03-05T16:00:51+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces termination of enforcement action with Wells Fargo",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260305a.htm",
+      "published_utc": "2026-03-05T16:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England Weekly Report 4 March 2026",
       "source": "Bank of England",
