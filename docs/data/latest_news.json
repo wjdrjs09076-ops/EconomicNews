@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-06T09:04:42+00:00",
+  "generated_at_utc": "2026-03-06T09:52:27+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -55,16 +55,6 @@
       "source": "Federal Reserve",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260303a.htm",
       "published_utc": "2026-03-03T16:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Statistical Notice 2026/02 - BEEDS user acceptance testing (UAT) environment – Statistical taxonomy v1.3.1 FINAL",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-02",
-      "published_utc": "2026-03-03T09:15:50+00:00",
       "categories": [
         "financial_stability",
         "institutions"
