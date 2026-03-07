@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-07T09:58:17+00:00",
+  "generated_at_utc": "2026-03-07T10:20:47+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -35,16 +35,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/february-2026",
       "published_utc": "2026-03-05T09:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The Bank of England’s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/cp/boe-approach-to-using-requirements-and-permissions-powers-to-facilitate-mobilisation-of-new-ccps",
-      "published_utc": "2026-03-04T10:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
