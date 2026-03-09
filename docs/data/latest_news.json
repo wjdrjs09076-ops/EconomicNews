@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-03-09T20:23:48+00:00",
+  "generated_at_utc": "2026-03-09T20:55:07+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces approval of notice by CBS Banc-Corp.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260309a.htm",
+      "published_utc": "2026-03-09T20:45:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Governors and Heads of Supervision welcome progress to implement Basel III and discuss elements of the Basel Committee's work programme",
       "source": "BIS",
