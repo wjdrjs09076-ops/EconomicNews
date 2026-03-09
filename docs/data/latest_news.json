@@ -1,5 +1,15 @@
 {
-  "generated_at_utc": "2026-03-09T17:57:05+00:00",
+  "generated_at_utc": "2026-03-09T18:42:24+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Governors and Heads of Supervision welcome progress to implement Basel III and discuss elements of the Basel Committee's work programme",
+      "source": "BIS",
+      "link": "https://www.bis.org/press/p260309.htm",
+      "published_utc": "2026-03-09T17:31:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    }
+  ]
 }
