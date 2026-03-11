@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-03-11T09:55:16+00:00",
+  "generated_at_utc": "2026-03-11T10:28:18+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "PRA fines U K Insurance Limited £10,625,000",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/march/pra-fines-uk-insurance-limited",
+      "published_utc": "2026-03-11T10:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Wildlife to feature on next series of Bank of England banknotes",
       "source": "Bank of England",
