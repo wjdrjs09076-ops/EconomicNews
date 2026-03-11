@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-03-11T00:01:22+00:00",
+  "generated_at_utc": "2026-03-11T02:29:33+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Wildlife to feature on next series of Bank of England banknotes",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/march/wildlife-feature-on-next-series-of-banknotes",
+      "published_utc": "2026-03-11T00:01:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces termination of enforcement actions with Industrial and Commercial Bank of China Ltd., Industrial and Commercial Bank of China Ltd., New York Branch, Standard Chartered PLC, and Standard Chartered Bank",
       "source": "Federal Reserve",
