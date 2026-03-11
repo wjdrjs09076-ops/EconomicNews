@@ -1,7 +1,25 @@
 {
-  "generated_at_utc": "2026-03-11T21:49:09+00:00",
+  "generated_at_utc": "2026-03-11T22:01:51+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces approval of application by Associated Banc-Corp",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260311b.htm",
+      "published_utc": "2026-03-11T22:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board announces approval of application by FirstSun Capital Bancorp",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260311a.htm",
+      "published_utc": "2026-03-11T22:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "PRA fines U K Insurance Limited £10,625,000",
       "source": "Bank of England",
