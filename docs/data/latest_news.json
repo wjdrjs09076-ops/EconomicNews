@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-03-12T14:34:08+00:00",
+  "generated_at_utc": "2026-03-12T15:33:31+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England Weekly Report 11 March 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/11-march-2026",
+      "published_utc": "2026-03-12T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Data as a dialogue – speech by Vicky White",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/march/vicky-white-speech-at-connect-global-group-4th-annual-treasury-and-capital-markets-forum",
+      "published_utc": "2026-03-12T14:40:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Reforming cross-border payments – speech by Andrew Bailey",
       "source": "Bank of England",
