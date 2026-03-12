@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-03-12T09:05:45+00:00",
+  "generated_at_utc": "2026-03-12T09:57:04+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Reforming cross-border payments – speech by Andrew Bailey",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/march/andrew-bailey-opening-remarks-at-financial-stability-board-payments-summit",
+      "published_utc": "2026-03-12T09:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces approval of application by Associated Banc-Corp",
       "source": "Federal Reserve",
