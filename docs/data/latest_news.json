@@ -1,7 +1,18 @@
 {
-  "generated_at_utc": "2026-03-13T09:02:14+00:00",
+  "generated_at_utc": "2026-03-13T09:50:30+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England/Ipsos Inflation Attitudes Survey - February 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/february-2026",
+      "published_utc": "2026-03-13T09:30:00+00:00",
+      "categories": [
+        "inflation",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces approval of application by Home BancShares",
       "source": "Federal Reserve",
