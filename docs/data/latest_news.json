@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-13T23:54:30+00:00",
+  "generated_at_utc": "2026-03-14T00:55:51+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -85,16 +85,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/news/2026/march/pra-fines-uk-insurance-limited",
       "published_utc": "2026-03-11T10:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Wildlife to feature on next series of Bank of England banknotes",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/march/wildlife-feature-on-next-series-of-banknotes",
-      "published_utc": "2026-03-11T00:01:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
