@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-14T09:59:12+00:00",
+  "generated_at_utc": "2026-03-14T10:28:19+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -77,16 +77,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260311a.htm",
       "published_utc": "2026-03-11T22:00:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "PRA fines U K Insurance Limited £10,625,000",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/march/pra-fines-uk-insurance-limited",
-      "published_utc": "2026-03-11T10:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
