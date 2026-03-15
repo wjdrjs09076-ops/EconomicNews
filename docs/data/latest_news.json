@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-15T20:19:08+00:00",
+  "generated_at_utc": "2026-03-15T20:48:09+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -20,15 +20,6 @@
       "categories": [
         "inflation",
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces approval of application by Home BancShares",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260312a.htm",
-      "published_utc": "2026-03-12T20:30:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
