@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-16T08:40:02+00:00",
+  "generated_at_utc": "2026-03-16T09:44:52+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -8,17 +8,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm",
       "published_utc": "2026-03-13T15:00:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England/Ipsos Inflation Attitudes Survey - February 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/february-2026",
-      "published_utc": "2026-03-13T09:30:00+00:00",
-      "categories": [
-        "inflation",
         "financial_stability",
         "institutions"
       ]
