@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-16T14:48:32+00:00",
+  "generated_at_utc": "2026-03-16T15:47:19+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -9,16 +9,6 @@
       "published_utc": "2026-03-16T13:00:00+00:00",
       "categories": [
         "rates",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Equity Bank and former employee of First State Bank of Dongola",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260313a.htm",
-      "published_utc": "2026-03-13T15:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
