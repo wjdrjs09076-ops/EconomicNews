@@ -1,7 +1,25 @@
 {
-  "generated_at_utc": "2026-03-18T17:45:56+00:00",
+  "generated_at_utc": "2026-03-18T18:37:41+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm",
+      "published_utc": "2026-03-18T18:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the March 17-18 FOMC meeting",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318b.htm",
+      "published_utc": "2026-03-18T18:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Updated outsourcing and third-party risk management: recognised payment system operators and specified service providers",
       "source": "Bank of England",
