@@ -1,7 +1,28 @@
 {
-  "generated_at_utc": "2026-03-19T11:36:12+00:00",
+  "generated_at_utc": "2026-03-19T12:01:08+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank Rate maintained at 3.75% - March 2026 Monetary Policy Summary and Minutes",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/march-2026",
+      "published_utc": "2026-03-19T12:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Agent's summary of business conditions - March 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/agents-summary/2026/march-2026",
+      "published_utc": "2026-03-19T12:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve issues FOMC statement",
       "source": "Federal Reserve",
