@@ -1,7 +1,29 @@
 {
-  "generated_at_utc": "2026-03-20T13:45:14+00:00",
+  "generated_at_utc": "2026-03-20T14:29:18+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Interest-rate fee substitution: credit facilitation in segmented markets",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/interest-rate-fee-substitution-credit-facilitation-in-segmented-markets",
+      "published_utc": "2026-03-20T14:01:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Targeting inflation expectations?",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/targeting-inflation-expectations",
+      "published_utc": "2026-03-20T14:00:00+00:00",
+      "categories": [
+        "inflation",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Market Participants Survey results - March 2026",
       "source": "Bank of England",
