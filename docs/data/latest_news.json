@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-03-20T11:56:29+00:00",
+  "generated_at_utc": "2026-03-20T12:39:55+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Market Participants Survey results - March 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-march-2026",
+      "published_utc": "2026-03-20T12:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Agencies request comment on proposals to modernize the regulatory capital framework and maintain the strength of the banking system",
       "source": "Federal Reserve",
