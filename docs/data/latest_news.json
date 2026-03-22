@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-22T11:59:11+00:00",
+  "generated_at_utc": "2026-03-22T12:51:44+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -79,27 +79,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/18-march-2026",
       "published_utc": "2026-03-19T15:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank Rate maintained at 3.75% - March 2026 Monetary Policy Summary and Minutes",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/march-2026",
-      "published_utc": "2026-03-19T12:00:00+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Agents' summary of business conditions - March 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/agents-summary/2026/march-2026",
-      "published_utc": "2026-03-19T12:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
