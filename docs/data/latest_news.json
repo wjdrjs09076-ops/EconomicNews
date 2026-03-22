@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-22T16:26:53+00:00",
+  "generated_at_utc": "2026-03-22T16:53:06+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -59,16 +59,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-march-2026",
       "published_utc": "2026-03-20T12:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Agencies request comment on proposals to modernize the regulatory capital framework and maintain the strength of the banking system",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260319a.htm",
-      "published_utc": "2026-03-19T16:30:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
