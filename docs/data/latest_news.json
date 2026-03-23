@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-03-23T09:10:28+00:00",
+  "generated_at_utc": "2026-03-23T10:12:15+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Rethinking global imbalances: drivers, risks, and policy priorities",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/rethinking-global-imbalances",
+      "published_utc": "2026-03-23T09:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Statement on the nomination of Hyun Song Shin as Governor of the Bank of Korea",
       "source": "BIS",
