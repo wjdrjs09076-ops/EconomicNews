@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-23T11:52:10+00:00",
+  "generated_at_utc": "2026-03-23T12:33:54+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -60,16 +60,6 @@
       "published_utc": "2026-03-20T14:00:00+00:00",
       "categories": [
         "inflation",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Market Participants Survey results - March 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-march-2026",
-      "published_utc": "2026-03-20T12:00:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
