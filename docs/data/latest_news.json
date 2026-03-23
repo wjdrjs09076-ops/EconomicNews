@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-23T14:49:53+00:00",
+  "generated_at_utc": "2026-03-23T15:45:28+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -27,16 +27,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/march/apf-gilt-sales-market-notice-20-march-2026",
       "published_utc": "2026-03-20T16:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Ally Bank and former employee of Regions Bank",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260320a.htm",
-      "published_utc": "2026-03-20T15:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
