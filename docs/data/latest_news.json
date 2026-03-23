@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-23T15:45:28+00:00",
+  "generated_at_utc": "2026-03-23T16:36:19+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -17,16 +17,6 @@
       "source": "BIS",
       "link": "https://www.bis.org/press/p260322.htm",
       "published_utc": "2026-03-22T12:08:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 20 March 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/march/apf-gilt-sales-market-notice-20-march-2026",
-      "published_utc": "2026-03-20T16:30:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
