@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-23T13:56:40+00:00",
+  "generated_at_utc": "2026-03-23T14:49:53+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -38,28 +38,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260320a.htm",
       "published_utc": "2026-03-20T15:00:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Interest-rate fee substitution: credit facilitation in segmented markets",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/interest-rate-fee-substitution-credit-facilitation-in-segmented-markets",
-      "published_utc": "2026-03-20T14:01:00+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Targeting inflation expectations?",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/targeting-inflation-expectations",
-      "published_utc": "2026-03-20T14:00:00+00:00",
-      "categories": [
-        "inflation",
         "financial_stability",
         "institutions"
       ]
