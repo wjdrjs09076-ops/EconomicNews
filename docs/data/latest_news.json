@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-03-24T09:13:28+00:00",
+  "generated_at_utc": "2026-03-24T10:09:27+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Basel III liquidity indicators increase slightly while risk-based capital and leverage ratios are stable for large internationally active banks, latest Basel III monitoring exercise shows",
+      "source": "BIS",
+      "link": "https://www.bis.org/press/p260324.htm",
+      "published_utc": "2026-03-24T10:11:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "PRA fines The Bank of London and its parent company Oplyse Holdings Limited £2m for failing to act with integrity and misleading the PRA over their capital position",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/march/pra-fines-bol-and-oplyse-holdings",
+      "published_utc": "2026-03-24T10:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Rethinking global imbalances: drivers, risks, and policy priorities",
       "source": "Bank of England",
