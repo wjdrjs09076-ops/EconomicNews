@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-03-25T15:55:27+00:00",
+  "generated_at_utc": "2026-03-25T16:53:03+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board releases annual audited financial statements",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260325a.htm",
+      "published_utc": "2026-03-25T16:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Robustness - speech by Huw Pill",
       "source": "Bank of England",
