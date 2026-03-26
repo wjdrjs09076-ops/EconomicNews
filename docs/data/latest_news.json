@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-03-26T09:33:10+00:00",
+  "generated_at_utc": "2026-03-26T10:30:10+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England streamlines reporting and disclosure requirements for bank failure regime",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/march/boe-streamlines-reporting-and-disclosure-requirements-for-bank-failure-regime",
+      "published_utc": "2026-03-26T10:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board releases annual audited financial statements",
       "source": "Federal Reserve",
