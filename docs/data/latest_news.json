@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-26T08:29:05+00:00",
+  "generated_at_utc": "2026-03-26T09:33:10+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -36,16 +36,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/news/2026/march/pra-fines-bol-and-oplyse-holdings",
       "published_utc": "2026-03-24T10:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Rethinking global imbalances: drivers, risks, and policy priorities",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/rethinking-global-imbalances",
-      "published_utc": "2026-03-23T09:30:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
