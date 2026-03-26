@@ -1,7 +1,18 @@
 {
-  "generated_at_utc": "2026-03-26T20:53:48+00:00",
+  "generated_at_utc": "2026-03-26T21:19:20+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces it has made the joint findings with the Office of the Comptroller of the Currency required for the OCC to approve a request by Morgan Stanley Bank, N.A., for an exemption under section 23A of the Federal Reserve Act",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260326a.htm",
+      "published_utc": "2026-03-26T21:00:00+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Stopping for gas − speech by Alan Taylor",
       "source": "Bank of England",
