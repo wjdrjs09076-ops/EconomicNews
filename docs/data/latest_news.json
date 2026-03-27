@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-03-27T08:55:36+00:00",
+  "generated_at_utc": "2026-03-27T09:43:51+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "BIS extends term for John Williams as Chair of the Markets Committee",
+      "source": "BIS",
+      "link": "https://www.bis.org/press/p260327.htm",
+      "published_utc": "2026-03-27T09:03:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Update to Discount Window Facility pricing – Market Notice 27 March 2026",
       "source": "Bank of England",
