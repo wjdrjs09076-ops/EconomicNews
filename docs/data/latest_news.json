@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-03-27T06:59:29+00:00",
+  "generated_at_utc": "2026-03-27T07:59:48+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Update to Discount Window Facility pricing – Market Notice 27 March 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/march/update-to-discount-window-facility-pricing-market-notice-27-march-2026",
+      "published_utc": "2026-03-27T07:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces it has made the joint findings with the Office of the Comptroller of the Currency required for the OCC to approve a request by Morgan Stanley Bank, N.A., for an exemption under section 23A of the Federal Reserve Act",
       "source": "Federal Reserve",
