@@ -1,7 +1,28 @@
 {
-  "generated_at_utc": "2026-03-27T13:05:54+00:00",
+  "generated_at_utc": "2026-03-27T14:15:23+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "A simulation framework for sterling money market funds: estimating redemption capacity and evaluating liquidity requirements",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/a-simulation-framework-for-sterling-money-market-funds",
+      "published_utc": "2026-03-27T14:00:00+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "A UK-HANK model",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/macro-technical-paper/2026/a-uk-hank-model",
+      "published_utc": "2026-03-27T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "BIS extends term for John Williams as Chair of the Markets Committee",
       "source": "BIS",
@@ -68,16 +89,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260325a.htm",
       "published_utc": "2026-03-25T16:00:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Robustness - speech by Huw Pill",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/march/huw-pill-speech-at-national-bank-of-the-republic-of-north-macedonia-and-suerf-conference",
-      "published_utc": "2026-03-24T13:30:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
