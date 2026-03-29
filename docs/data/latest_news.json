@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-29T15:58:40+00:00",
+  "generated_at_utc": "2026-03-29T16:33:48+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -49,16 +49,6 @@
       "published_utc": "2026-03-26T21:00:00+00:00",
       "categories": [
         "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Stopping for gas − speech by Alan Taylor",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/march/alan-taylor-exante-datas-10-year-anniversary-macro-conference",
-      "published_utc": "2026-03-26T16:00:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
