@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-29T09:56:52+00:00",
+  "generated_at_utc": "2026-03-29T10:25:15+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -68,16 +68,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/25-march-2026",
       "published_utc": "2026-03-26T15:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England streamlines reporting and disclosure requirements for bank failure regime",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/march/boe-streamlines-reporting-and-disclosure-requirements-for-bank-failure-regime",
-      "published_utc": "2026-03-26T10:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
