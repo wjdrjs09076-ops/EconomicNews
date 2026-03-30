@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-30T06:59:47+00:00",
+  "generated_at_utc": "2026-03-30T08:21:31+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -29,16 +29,6 @@
       "link": "https://www.bis.org/press/p260327.htm",
       "published_utc": "2026-03-27T09:03:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Update to Discount Window Facility pricing – Market Notice 27 March 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/march/update-to-discount-window-facility-pricing-market-notice-27-march-2026",
-      "published_utc": "2026-03-27T07:30:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
