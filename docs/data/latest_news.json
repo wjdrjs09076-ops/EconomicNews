@@ -1,27 +1,5 @@
 {
-  "generated_at_utc": "2026-03-30T12:39:19+00:00",
+  "generated_at_utc": "2026-03-30T14:08:48+00:00",
   "lookback_hours": 72,
-  "items": [
-    {
-      "title": "A simulation framework for sterling money market funds: estimating redemption capacity and evaluating liquidity requirements",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/a-simulation-framework-for-sterling-money-market-funds",
-      "published_utc": "2026-03-27T14:00:00+00:00",
-      "categories": [
-        "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "A UK-HANK model",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/macro-technical-paper/2026/a-uk-hank-model",
-      "published_utc": "2026-03-27T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    }
-  ]
+  "items": []
 }
