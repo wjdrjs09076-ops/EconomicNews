@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-30T08:21:31+00:00",
+  "generated_at_utc": "2026-03-30T09:50:07+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -20,15 +20,6 @@
       "published_utc": "2026-03-27T14:00:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "BIS extends term for John Williams as Chair of the Markets Committee",
-      "source": "BIS",
-      "link": "https://www.bis.org/press/p260327.htm",
-      "published_utc": "2026-03-27T09:03:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
