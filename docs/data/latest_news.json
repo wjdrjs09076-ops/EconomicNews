@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-04-01T10:36:55+00:00",
+  "generated_at_utc": "2026-04-01T11:31:57+00:00",
   "lookback_hours": 72,
   "items": [
     {
-      "title": "Financial Policy Committee Record – April 2026",
+      "title": "The Bank and the PRA’s response to HMT, DSIT and DBT on AI in financial services",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/april-2026",
+      "link": "https://www.bankofengland.co.uk/letter/2026/letter-from-sarah-breeden-sam-woods-to-chancellor",
       "published_utc": "2026-04-01T09:30:00+00:00",
       "categories": [
         "financial_stability",
@@ -13,9 +13,9 @@
       ]
     },
     {
-      "title": "The Bank and the PRA’s response to HMT, DSIT and DBT on AI in financial services",
+      "title": "Financial Policy Committee Record – April 2026",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/letter/2026/letter-from-sarah-breeden-sam-woods-to-chancellor",
+      "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/april-2026",
       "published_utc": "2026-04-01T09:30:00+00:00",
       "categories": [
         "financial_stability",
