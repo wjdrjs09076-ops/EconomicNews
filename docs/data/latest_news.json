@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-01T09:37:05+00:00",
+  "generated_at_utc": "2026-04-01T10:36:55+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -23,9 +23,9 @@
       ]
     },
     {
-      "title": "Systemic Risk Survey Results - 2026 H1",
+      "title": "Enhancing the resilience of the gilt repo market – discussion paper feedback statement",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/systemic-risk-survey/2026/2026-h1",
+      "link": "https://www.bankofengland.co.uk/paper/2026/discussion-paper/enhancing-the-resilience-of-the-gilt-repo-market-discussion-paper-feedback-statement",
       "published_utc": "2026-04-01T09:30:00+00:00",
       "categories": [
         "financial_stability",
@@ -33,9 +33,9 @@
       ]
     },
     {
-      "title": "Enhancing the resilience of the gilt repo market – discussion paper feedback statement",
+      "title": "Systemic Risk Survey Results - 2026 H1",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/discussion-paper/enhancing-the-resilience-of-the-gilt-repo-market-discussion-paper-feedback-statement",
+      "link": "https://www.bankofengland.co.uk/systemic-risk-survey/2026/2026-h1",
       "published_utc": "2026-04-01T09:30:00+00:00",
       "categories": [
         "financial_stability",
