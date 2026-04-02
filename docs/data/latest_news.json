@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-04-02T12:03:10+00:00",
+  "generated_at_utc": "2026-04-02T13:47:43+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes: CBDC Academic Advisory Group - January 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/january/cbdc-academic-advisory-group-january-2026",
+      "published_utc": "2026-04-02T13:05:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Out of work, out of the labour force? Attachment, search effort and participation flows",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/out-of-work-out-of-the-labour-force",
+      "published_utc": "2026-04-02T13:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the Money Market Committee meeting – March 2026",
       "source": "Bank of England",
