@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-04-02T07:50:07+00:00",
+  "generated_at_utc": "2026-04-02T08:40:18+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Changes to publication dates of the Decision Maker Panel data and Agents’ summary of business conditions",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/april/changes-to-publication-dates-of-the-decision-maker-panel-data-and-agents-summary",
+      "published_utc": "2026-04-02T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Monthly Decision Maker Panel data - March 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/march-2026",
+      "published_utc": "2026-04-02T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "The Bank and the PRA’s response to HMT, DSIT and DBT on AI in financial services",
       "source": "Bank of England",
