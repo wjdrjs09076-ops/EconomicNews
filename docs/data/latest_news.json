@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-04-02T11:26:10+00:00",
+  "generated_at_utc": "2026-04-02T12:03:10+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes of the Money Market Committee meeting – March 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/march/money-markets-committee-minutes-march-2026",
+      "published_utc": "2026-04-02T11:39:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Changes to publication dates of the Decision Maker Panel data and Agents’ summary of business conditions",
       "source": "Bank of England",
