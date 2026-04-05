@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-05T11:38:47+00:00",
+  "generated_at_utc": "2026-04-05T11:57:34+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -37,16 +37,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/working-paper/2026/out-of-work-out-of-the-labour-force",
       "published_utc": "2026-04-02T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the Money Market Committee meeting – March 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/march/money-markets-committee-minutes-march-2026",
-      "published_utc": "2026-04-02T11:39:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
