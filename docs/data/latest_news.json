@@ -1,16 +1,5 @@
 {
-  "generated_at_utc": "2026-04-06T14:33:02+00:00",
+  "generated_at_utc": "2026-04-06T15:25:47+00:00",
   "lookback_hours": 72,
-  "items": [
-    {
-      "title": "Federal Reserve Board issues enforcement action with former employee of United Bank",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260403a.htm",
-      "published_utc": "2026-04-03T15:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    }
-  ]
+  "items": []
 }
