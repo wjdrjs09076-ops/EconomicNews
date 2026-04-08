@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-04-08T17:33:17+00:00",
+  "generated_at_utc": "2026-04-08T18:48:28+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes of the Federal Open Market Committee, March 17–18, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm",
+      "published_utc": "2026-04-08T18:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board invites public comment on proposal that would allow U.S. banks and credit unions to use intermediaries to transfer funds through the FedNow Service",
       "source": "Federal Reserve",
