@@ -1,5 +1,16 @@
 {
-  "generated_at_utc": "2026-04-08T15:01:34+00:00",
+  "generated_at_utc": "2026-04-08T16:17:12+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Federal Reserve Board invites public comment on proposal that would allow U.S. banks and credit unions to use intermediaries to transfer funds through the FedNow Service",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm",
+      "published_utc": "2026-04-08T15:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    }
+  ]
 }
