@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-04-09T08:11:51+00:00",
+  "generated_at_utc": "2026-04-09T09:39:06+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank Liabilities Survey - 2026 Q1",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/bank-liabilities-survey/2026/2026-q1",
+      "published_utc": "2026-04-09T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Credit Conditions Survey - 2026 Q1",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-q1",
+      "published_utc": "2026-04-09T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the Federal Open Market Committee, March 17–18, 2026",
       "source": "Federal Reserve",
