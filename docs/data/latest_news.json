@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-04-10T20:00:45+00:00",
+  "generated_at_utc": "2026-04-10T20:43:20+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces approval of application by Burke & Herbert Financial Services Corp.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm",
+      "published_utc": "2026-04-10T20:15:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Real domestic effects of banks’ cross-border lending",
       "source": "Bank of England",
