@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-12T14:51:59+00:00",
+  "generated_at_utc": "2026-04-12T15:23:23+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -17,17 +17,6 @@
       "link": "https://www.bankofengland.co.uk/working-paper/2026/real-domestic-effects-of-banks-cross-border-lending",
       "published_utc": "2026-04-10T13:00:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces termination of enforcement actions with Crédit Agricole S.A. and Crédit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Ltd, and the Goldman Sachs Group, Inc.",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm",
-      "published_utc": "2026-04-09T15:00:00+00:00",
-      "categories": [
-        "rates",
         "financial_stability",
         "institutions"
       ]
