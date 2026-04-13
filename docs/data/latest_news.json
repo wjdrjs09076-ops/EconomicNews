@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-04-13T17:17:10+00:00",
+  "generated_at_utc": "2026-04-13T18:17:16+00:00",
   "lookback_hours": 72,
   "items": [
     {
-      "title": "FXJSC Combined Operations and Legal Sub-Committee Meeting",
+      "title": "Minutes of the London FXJSC Main Committee Meeting – 27 November 2025",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2025/november/minutes",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/november/fxjsc-main-committee-meeting-24-november-2025",
       "published_utc": "2026-04-13T14:15:00+00:00",
       "categories": [
         "fx",
@@ -14,9 +14,9 @@
       ]
     },
     {
-      "title": "Minutes of the London FXJSC Main Committee Meeting – 27 November 2025",
+      "title": "FXJSC Combined Operations and Legal Sub-Committee Meeting",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2025/november/fxjsc-main-committee-meeting-24-november-2025",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/november/minutes",
       "published_utc": "2026-04-13T14:15:00+00:00",
       "categories": [
         "fx",
