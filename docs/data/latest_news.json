@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-04-13T11:58:32+00:00",
+  "generated_at_utc": "2026-04-13T13:21:57+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Two-way street − speech by Alan Taylor",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/april/alan-taylor-at-a-joint-conference-at-the-banque-de-france",
+      "published_utc": "2026-04-13T13:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England enhances resolution readiness with updated operational guides",
       "source": "Bank of England",
@@ -38,16 +48,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm",
       "published_utc": "2026-04-10T20:15:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Real domestic effects of banks’ cross-border lending",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/real-domestic-effects-of-banks-cross-border-lending",
-      "published_utc": "2026-04-10T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
