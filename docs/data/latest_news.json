@@ -1,7 +1,37 @@
 {
-  "generated_at_utc": "2026-04-13T09:14:45+00:00",
+  "generated_at_utc": "2026-04-13T10:55:36+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England enhances resolution readiness with updated operational guides",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/april/boe-enhances-resolution-readiness-with-updated-operational-guides",
+      "published_utc": "2026-04-13T10:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Operational guide to transfer resolution",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-transfer-resolution",
+      "published_utc": "2026-04-13T10:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Operational guide to bail-in resolution",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-bail-in-resolution",
+      "published_utc": "2026-04-13T10:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces approval of application by Burke & Herbert Financial Services Corp.",
       "source": "Federal Reserve",
