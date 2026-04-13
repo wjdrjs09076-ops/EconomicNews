@@ -1,7 +1,29 @@
 {
-  "generated_at_utc": "2026-04-13T13:21:57+00:00",
+  "generated_at_utc": "2026-04-13T14:57:15+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes of the London FXJSC Main Committee Meeting – 27 November 2025",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/november/fxjsc-main-committee-meeting-24-november-2025",
+      "published_utc": "2026-04-13T14:15:00+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "FXJSC Combined Operations and Legal Sub-Committee Meeting",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/november/minutes",
+      "published_utc": "2026-04-13T14:15:00+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Two-way street − speech by Alan Taylor",
       "source": "Bank of England",
