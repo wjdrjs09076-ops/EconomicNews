@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-04-14T17:50:36+00:00",
+  "generated_at_utc": "2026-04-14T18:51:06+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm",
+      "published_utc": "2026-04-14T18:00:00+00:00",
+      "categories": [
+        "rates",
+        "institutions"
+      ]
+    },
     {
       "title": "Central Bank Independence – in need of further thinking - Speech by Andrew Bailey",
       "source": "Bank of England",
