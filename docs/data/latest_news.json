@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-16T09:42:56+00:00",
+  "generated_at_utc": "2026-04-16T10:47:28+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -78,36 +78,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/speech/2026/april/alan-taylor-at-a-joint-conference-at-the-banque-de-france",
       "published_utc": "2026-04-13T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England enhances resolution readiness with updated operational guides",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/april/boe-enhances-resolution-readiness-with-updated-operational-guides",
-      "published_utc": "2026-04-13T10:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Operational guide to transfer resolution",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-transfer-resolution",
-      "published_utc": "2026-04-13T10:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Operational guide to bail-in resolution",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/operational-guide-to-bail-in-resolution",
-      "published_utc": "2026-04-13T10:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
