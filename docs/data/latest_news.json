@@ -1,13 +1,33 @@
 {
-  "generated_at_utc": "2026-04-16T12:48:35+00:00",
+  "generated_at_utc": "2026-04-16T14:25:53+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England Weekly Report 15 April 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/15-april-2026",
+      "published_utc": "2026-04-16T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "CPMI-IOSCO assesses that the United Kingdom has implemented the Principles for financial market infrastructures for two FMI types, but recommends some improvements",
       "source": "BIS",
       "link": "https://www.bis.org/press/p260416.htm",
       "published_utc": "2026-04-16T12:47:00+00:00",
       "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Artificial Intelligence Consortium minutes – February 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/february/ai-consortium-minutes-9-february-2026",
+      "published_utc": "2026-04-16T09:24:13+00:00",
+      "categories": [
+        "financial_stability",
         "institutions"
       ]
     },
@@ -46,38 +66,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/speech/2026/april/andrew-bailey-panellist-at-columbia-university-new-york",
       "published_utc": "2026-04-14T16:05:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "FXJSC Combined Operations and Legal Sub-Committee Meeting",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2025/november/minutes",
-      "published_utc": "2026-04-13T14:15:00+00:00",
-      "categories": [
-        "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the London FXJSC Main Committee Meeting – 27 November 2025",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2025/november/fxjsc-main-committee-meeting-24-november-2025",
-      "published_utc": "2026-04-13T14:15:00+00:00",
-      "categories": [
-        "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Two-way street − speech by Alan Taylor",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/april/alan-taylor-at-a-joint-conference-at-the-banque-de-france",
-      "published_utc": "2026-04-13T13:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
