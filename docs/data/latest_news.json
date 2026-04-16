@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-16T08:03:44+00:00",
+  "generated_at_utc": "2026-04-16T09:42:56+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -8,6 +8,26 @@
       "link": "https://www.bis.org/press/p260416.htm",
       "published_utc": "2026-04-16T12:47:00+00:00",
       "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Report on the exercise of relevant sub-delegated powers for the financial year ending 28 February 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/financial-stability/resolution/report-on-the-exercise-of-relevant-sub-delegated-powers-for-fin-year-ending-28-feb-2026",
+      "published_utc": "2026-04-16T09:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "External minimum requirements for own funds and eligible liabilities (MRELs) – 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/financial-stability/resolution/mrels-2026",
+      "published_utc": "2026-04-16T09:00:00+00:00",
+      "categories": [
+        "financial_stability",
         "institutions"
       ]
     },
