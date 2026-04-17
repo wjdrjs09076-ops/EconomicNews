@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-04-17T15:07:35+00:00",
+  "generated_at_utc": "2026-04-17T16:10:25+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes of the SONIA Stakeholder Advisory Group - 24 March 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/march/sonia-stakeholder-advisory-group-24-march-2026",
+      "published_utc": "2026-04-17T15:20:02+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Banknotes imagery advisory group minutes - August 2025",
       "source": "Bank of England",
@@ -108,16 +118,6 @@
       "published_utc": "2026-04-14T18:00:00+00:00",
       "categories": [
         "rates",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Central Bank Independence – in need of further thinking - Speech by Andrew Bailey",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/april/andrew-bailey-panellist-at-columbia-university-new-york",
-      "published_utc": "2026-04-14T16:05:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
