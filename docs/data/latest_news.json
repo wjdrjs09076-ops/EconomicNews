@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-19T11:59:55+00:00",
+  "generated_at_utc": "2026-04-19T13:05:13+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -69,15 +69,6 @@
       "published_utc": "2026-04-16T14:00:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "CPMI-IOSCO assesses that the United Kingdom has implemented the Principles for financial market infrastructures for two FMI types, but recommends some improvements",
-      "source": "BIS",
-      "link": "https://www.bis.org/press/p260416.htm",
-      "published_utc": "2026-04-16T12:47:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
