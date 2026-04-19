@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-19T08:49:15+00:00",
+  "generated_at_utc": "2026-04-19T09:33:44+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -13,9 +13,9 @@
       ]
     },
     {
-      "title": "Banknote imagery advisory group minutes - October 2025",
+      "title": "Banknotes imagery advisory group minutes - August 2025",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2025/october/banknote-advisory-group-14october",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/august/banknote-advisory-minutes",
       "published_utc": "2026-04-17T12:15:00+00:00",
       "categories": [
         "financial_stability",
@@ -23,9 +23,9 @@
       ]
     },
     {
-      "title": "Banknotes imagery advisory group minutes - August 2025",
+      "title": "Banknote imagery advisory group minutes - October 2025",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2025/august/banknote-advisory-minutes",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/october/banknote-advisory-group-14october",
       "published_utc": "2026-04-17T12:15:00+00:00",
       "categories": [
         "financial_stability",
@@ -78,36 +78,6 @@
       "link": "https://www.bis.org/press/p260416.htm",
       "published_utc": "2026-04-16T12:47:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Artificial Intelligence Consortium minutes – February 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/february/ai-consortium-minutes-9-february-2026",
-      "published_utc": "2026-04-16T09:24:13+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Report on the exercise of relevant sub-delegated powers for the financial year ending 28 February 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/financial-stability/resolution/report-on-the-exercise-of-relevant-sub-delegated-powers-for-fin-year-ending-28-feb-2026",
-      "published_utc": "2026-04-16T09:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "External minimum requirements for own funds and eligible liabilities (MRELs) – 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/financial-stability/resolution/mrels-2026",
-      "published_utc": "2026-04-16T09:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
