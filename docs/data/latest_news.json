@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-19T14:51:34+00:00",
+  "generated_at_utc": "2026-04-19T15:25:11+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -47,16 +47,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/speech/2026/april/sarah-breeden-at-the-program-on-international-financial-systems-and-harvard-law-school",
       "published_utc": "2026-04-17T09:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board issues enforcement action with Community Bankshares, Inc.",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260416a.htm",
-      "published_utc": "2026-04-16T15:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
