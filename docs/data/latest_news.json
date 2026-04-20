@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-20T11:44:05+00:00",
+  "generated_at_utc": "2026-04-20T12:49:41+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -17,26 +17,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/minutes/2026/march/sonia-stakeholder-advisory-group-24-march-2026",
       "published_utc": "2026-04-17T15:20:02+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Banknote imagery advisory group minutes - October 2025",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2025/october/banknote-advisory-group-14october",
-      "published_utc": "2026-04-17T12:15:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Banknotes imagery advisory group minutes - August 2025",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2025/august/banknote-advisory-minutes",
-      "published_utc": "2026-04-17T12:15:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
