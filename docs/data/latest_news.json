@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-20T14:24:52+00:00",
+  "generated_at_utc": "2026-04-20T15:49:28+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -17,16 +17,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/news/2026/april/fpc-preview-of-uk-bank-capital-summary-of-stakeholder-evidence-gathering-event",
       "published_utc": "2026-04-20T09:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the SONIA Stakeholder Advisory Group - 24 March 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/march/sonia-stakeholder-advisory-group-24-march-2026",
-      "published_utc": "2026-04-17T15:20:02+00:00",
       "categories": [
         "financial_stability",
         "institutions"
