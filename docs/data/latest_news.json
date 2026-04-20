@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-20T10:17:56+00:00",
+  "generated_at_utc": "2026-04-20T11:44:05+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -37,16 +37,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/minutes/2025/august/banknote-advisory-minutes",
       "published_utc": "2026-04-17T12:15:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The Bank of England's fees regime for financial market infrastructure supervision 2026/27",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/cp/the-boes-fees-regime-for-financial-market-infrastructure-supervision-2026-27",
-      "published_utc": "2026-04-17T11:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
