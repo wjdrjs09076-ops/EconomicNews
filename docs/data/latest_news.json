@@ -1,22 +1,22 @@
 {
-  "generated_at_utc": "2026-04-20T08:33:31+00:00",
+  "generated_at_utc": "2026-04-20T10:17:56+00:00",
   "lookback_hours": 72,
   "items": [
     {
-      "title": "Minutes of the SONIA Stakeholder Advisory Group - 24 March 2026",
+      "title": "FPC review of UK bank capital – summary of stakeholder evidence gathering event",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/march/sonia-stakeholder-advisory-group-24-march-2026",
-      "published_utc": "2026-04-17T15:20:02+00:00",
+      "link": "https://www.bankofengland.co.uk/news/2026/april/fpc-preview-of-uk-bank-capital-summary-of-stakeholder-evidence-gathering-event",
+      "published_utc": "2026-04-20T09:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
       ]
     },
     {
-      "title": "Banknotes imagery advisory group minutes - August 2025",
+      "title": "Minutes of the SONIA Stakeholder Advisory Group - 24 March 2026",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2025/august/banknote-advisory-minutes",
-      "published_utc": "2026-04-17T12:15:00+00:00",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/march/sonia-stakeholder-advisory-group-24-march-2026",
+      "published_utc": "2026-04-17T15:20:02+00:00",
       "categories": [
         "financial_stability",
         "institutions"
@@ -33,20 +33,20 @@
       ]
     },
     {
-      "title": "The Bank of England's fees regime for financial market infrastructure supervision 2026/27",
+      "title": "Banknotes imagery advisory group minutes - August 2025",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/cp/the-boes-fees-regime-for-financial-market-infrastructure-supervision-2026-27",
-      "published_utc": "2026-04-17T11:00:00+00:00",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/august/banknote-advisory-minutes",
+      "published_utc": "2026-04-17T12:15:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
       ]
     },
     {
-      "title": "This time is different? Speech by Sarah Breeden",
+      "title": "The Bank of England's fees regime for financial market infrastructure supervision 2026/27",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/april/sarah-breeden-at-the-program-on-international-financial-systems-and-harvard-law-school",
-      "published_utc": "2026-04-17T09:00:00+00:00",
+      "link": "https://www.bankofengland.co.uk/paper/2026/cp/the-boes-fees-regime-for-financial-market-infrastructure-supervision-2026-27",
+      "published_utc": "2026-04-17T11:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
