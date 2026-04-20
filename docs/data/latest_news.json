@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-04-20T12:49:41+00:00",
+  "generated_at_utc": "2026-04-20T14:24:52+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Statement on the appointment of Hyun Song Shin as Governor of the Bank of Korea",
+      "source": "BIS",
+      "link": "https://www.bis.org/press/p260416a.htm",
+      "published_utc": "2026-04-20T16:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "FPC review of UK bank capital – summary of stakeholder evidence gathering event",
       "source": "Bank of England",
