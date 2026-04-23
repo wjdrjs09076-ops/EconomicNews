@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-23T14:07:33+00:00",
+  "generated_at_utc": "2026-04-23T16:04:10+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -29,16 +29,6 @@
       "published_utc": "2026-04-22T09:00:00+00:00",
       "categories": [
         "growth",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Statement on the appointment of Hyun Song Shin as Governor of the Bank of Korea",
-      "source": "BIS",
-      "link": "https://www.bis.org/press/p260416a.htm",
-      "published_utc": "2026-04-20T16:00:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
