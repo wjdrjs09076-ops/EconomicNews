@@ -1,7 +1,26 @@
 {
-  "generated_at_utc": "2026-04-24T19:38:08+00:00",
+  "generated_at_utc": "2026-04-24T20:25:57+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces approval of application by OceanFirst Financial Corp.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424a.htm",
+      "published_utc": "2026-04-24T20:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board announces approval of application by Banco de Credito del Peru",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424b.htm",
+      "published_utc": "2026-04-24T20:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Substitution between RTGS and instant payment schemes: the impact of the 2022 Faster Payments transaction limit increase on CHAPS",
       "source": "Bank of England",
