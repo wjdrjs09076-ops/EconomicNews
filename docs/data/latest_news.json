@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-04-24T08:25:39+00:00",
+  "generated_at_utc": "2026-04-24T09:59:08+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Agents' summary of business conditions - April 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/agents-summary/2026/april-2026",
+      "published_utc": "2026-04-24T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Monthly Decision Maker Panel data - April 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/april-2026",
+      "published_utc": "2026-04-24T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Agencies finalize changes to enhance community bank leverage ratio",
       "source": "Federal Reserve",
