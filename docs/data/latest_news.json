@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-24T15:00:28+00:00",
+  "generated_at_utc": "2026-04-24T16:06:00+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -13,9 +13,9 @@
       ]
     },
     {
-      "title": "Agents' summary of business conditions - April 2026",
+      "title": "Monthly Decision Maker Panel data - April 2026",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/agents-summary/2026/april-2026",
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/april-2026",
       "published_utc": "2026-04-24T08:30:00+00:00",
       "categories": [
         "financial_stability",
@@ -23,9 +23,9 @@
       ]
     },
     {
-      "title": "Monthly Decision Maker Panel data - April 2026",
+      "title": "Agents' summary of business conditions - April 2026",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/april-2026",
+      "link": "https://www.bankofengland.co.uk/agents-summary/2026/april-2026",
       "published_utc": "2026-04-24T08:30:00+00:00",
       "categories": [
         "financial_stability",
