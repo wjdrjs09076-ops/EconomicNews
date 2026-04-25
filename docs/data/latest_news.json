@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-25T08:34:03+00:00",
+  "generated_at_utc": "2026-04-25T09:30:49+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -77,17 +77,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260422a.htm",
       "published_utc": "2026-04-22T15:00:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "FCA and PRA confirm changes to streamline senior manager accountability and boost growth",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/april/fca-and-pra-confirm-changes-to-streamline-senior-manager-accountability-and-boost-growth",
-      "published_utc": "2026-04-22T09:00:00+00:00",
-      "categories": [
-        "growth",
         "financial_stability",
         "institutions"
       ]
