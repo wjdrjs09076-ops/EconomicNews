@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-26T18:34:58+00:00",
+  "generated_at_utc": "2026-04-26T19:30:41+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -46,16 +46,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/april-2026",
       "published_utc": "2026-04-24T08:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Agencies finalize changes to enhance community bank leverage ratio",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260423a.htm",
-      "published_utc": "2026-04-23T19:30:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
