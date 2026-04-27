@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-27T07:19:57+00:00",
+  "generated_at_utc": "2026-04-27T09:32:12+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -26,26 +26,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/working-paper/2026/substitution-between-rtgs-and-instant-payment-schemes",
       "published_utc": "2026-04-24T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Monthly Decision Maker Panel data - April 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/april-2026",
-      "published_utc": "2026-04-24T08:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Agents' summary of business conditions - April 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/agents-summary/2026/april-2026",
-      "published_utc": "2026-04-24T08:30:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
