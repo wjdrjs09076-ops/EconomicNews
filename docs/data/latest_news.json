@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-27T12:55:29+00:00",
+  "generated_at_utc": "2026-04-27T14:55:41+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -16,16 +16,6 @@
       "source": "Federal Reserve",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260424b.htm",
       "published_utc": "2026-04-24T20:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Substitution between RTGS and instant payment schemes: the impact of the 2022 Faster Payments transaction limit increase on CHAPS",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/substitution-between-rtgs-and-instant-payment-schemes",
-      "published_utc": "2026-04-24T13:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
