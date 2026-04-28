@@ -1,5 +1,16 @@
 {
-  "generated_at_utc": "2026-04-28T10:05:24+00:00",
+  "generated_at_utc": "2026-04-28T11:57:21+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Building a banking regime for the future - speech by David Bailey",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/april/david-bailey-speech-jp-morgan-uk-banks-asset-and-liability-mgmt-conference",
+      "published_utc": "2026-04-28T10:45:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    }
+  ]
 }
