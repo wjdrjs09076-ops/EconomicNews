@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-04-28T11:57:21+00:00",
+  "generated_at_utc": "2026-04-28T16:02:18+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Statistical Notice 2026/03 - Bank of England Levy: request for contact details",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-03",
+      "published_utc": "2026-04-28T12:40:43+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Building a banking regime for the future - speech by David Bailey",
       "source": "Bank of England",
