@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-02T07:10:54+00:00",
+  "generated_at_utc": "2026-05-02T08:42:42+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -70,36 +70,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
       "published_utc": "2026-04-29T18:00:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "PRA publishes plans to support resilience in the life insurance industry",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/april/pra-publishes-plans-to-support-resilience-in-the-life-insurance-industry",
-      "published_utc": "2026-04-29T08:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The Bank of England's approach to cost benefit analysis",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2024/sop/the-bank-of-englands-approach-to-cost-benefit-analysis",
-      "published_utc": "2026-04-29T08:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Innovation and Resilience in the BPA Sector – speech by Gareth Truran",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/april/gareth-truran-the-23rd-conference-on-bulk-annuities",
-      "published_utc": "2026-04-29T08:30:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
