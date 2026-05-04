@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-04T10:22:37+00:00",
+  "generated_at_utc": "2026-05-04T12:07:13+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -8,16 +8,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260501a.htm",
       "published_utc": "2026-05-01T15:00:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Market Participants Survey results - April 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-april-2026",
-      "published_utc": "2026-05-01T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
