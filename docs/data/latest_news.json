@@ -1,5 +1,26 @@
 {
-  "generated_at_utc": "2026-05-05T10:20:54+00:00",
+  "generated_at_utc": "2026-05-05T11:42:16+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - May 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-may-2026",
+      "published_utc": "2026-05-05T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Asset Purchase Facility Quarterly Report - 2026 Q1",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q1",
+      "published_utc": "2026-05-05T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    }
+  ]
 }
