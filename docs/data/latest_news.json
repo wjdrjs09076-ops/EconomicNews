@@ -1,7 +1,18 @@
 {
-  "generated_at_utc": "2026-05-08T12:58:21+00:00",
+  "generated_at_utc": "2026-05-08T14:48:53+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Trade in services under regulatory barriers: evidence from UK banking",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/trade-in-services-under-regulatory-barriers-evidence-from-uk-banking",
+      "published_utc": "2026-05-08T13:00:00+00:00",
+      "categories": [
+        "trade",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the Market Participants Group meeting – 7 May 2026",
       "source": "Bank of England",
@@ -38,6 +49,16 @@
       "link": "https://www.bis.org/press/p260506.htm",
       "published_utc": "2026-05-06T13:25:00+00:00",
       "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "consumer prices oecd updated 6 may 2026.html",
+      "source": "OECD",
+      "link": "https://www.oecd.org/en/data/insights/statistical-releases/2026/05/consumer-prices-oecd-updated-6-may-2026.html",
+      "published_utc": "2026-05-06T00:00:00+00:00",
+      "categories": [
+        "inflation",
         "institutions"
       ]
     }
