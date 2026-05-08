@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-05-08T20:01:07+00:00",
+  "generated_at_utc": "2026-05-08T21:06:36+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces approval of related applications by Columbia Bank MHC, and Columbia Financial, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm",
+      "published_utc": "2026-05-08T21:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Trade in services under regulatory barriers: evidence from UK banking",
       "source": "Bank of England",
