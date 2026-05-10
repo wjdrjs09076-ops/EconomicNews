@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-10T12:35:50+00:00",
+  "generated_at_utc": "2026-05-10T14:02:19+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -28,26 +28,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/minutes/2026/may/market-participants-group-meeting-7-may-2026",
       "published_utc": "2026-05-08T06:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England Weekly Report 6 May 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/6-may-2026",
-      "published_utc": "2026-05-07T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the Meeting of the Court of Directors held on 12 February 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/may/court-minutes-12-february-2026",
-      "published_utc": "2026-05-07T13:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
