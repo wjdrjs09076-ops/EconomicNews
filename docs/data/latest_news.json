@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-11T11:46:04+00:00",
+  "generated_at_utc": "2026-05-11T14:09:33+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -8,17 +8,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260508a.htm",
       "published_utc": "2026-05-08T21:00:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Trade in services under regulatory barriers: evidence from UK banking",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/trade-in-services-under-regulatory-barriers-evidence-from-uk-banking",
-      "published_utc": "2026-05-08T13:00:00+00:00",
-      "categories": [
-        "trade",
         "financial_stability",
         "institutions"
       ]
