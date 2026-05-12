@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-05-12T14:45:48+00:00",
+  "generated_at_utc": "2026-05-12T16:57:12+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces termination of enforcement actions with F & M Holding Company, Inc. and Thread Bancorp, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm",
+      "published_utc": "2026-05-12T15:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "DLT Innovation Challenge 2025: Final Report",
       "source": "Bank of England",
