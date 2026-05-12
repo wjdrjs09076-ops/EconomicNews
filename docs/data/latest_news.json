@@ -1,5 +1,26 @@
 {
-  "generated_at_utc": "2026-05-12T07:32:35+00:00",
+  "generated_at_utc": "2026-05-12T10:06:52+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Your voice 2026: insights from the Bank of England’s outreach programmes",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/about/get-involved/citizens-panels/your-voice-2026-insights-from-the-boe-outreach-programmes",
+      "published_utc": "2026-05-12T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Central bank Governors appointed to lead BIS Board and key groups",
+      "source": "BIS",
+      "link": "https://www.bis.org/press/p260512.htm",
+      "published_utc": "2026-05-12T08:29:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    }
+  ]
 }
