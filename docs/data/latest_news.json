@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-05-12T16:57:12+00:00",
+  "generated_at_utc": "2026-05-12T18:52:42+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Clinical supervision − speech by Sam Woods",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/may/sam-woods-speech-at-the-henry-thornton-lecture-bayes-business-school",
+      "published_utc": "2026-05-12T17:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces termination of enforcement actions with F & M Holding Company, Inc. and Thread Bancorp, Inc.",
       "source": "Federal Reserve",
