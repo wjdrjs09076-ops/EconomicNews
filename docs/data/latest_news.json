@@ -1,7 +1,38 @@
 {
-  "generated_at_utc": "2026-05-14T13:12:51+00:00",
+  "generated_at_utc": "2026-05-14T15:30:33+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Slides from Huw Pill’s fireside chat at NatWest",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/may/slides-from-huw-pill-fireside-chat-at-natwest",
+      "published_utc": "2026-05-14T15:10:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514a.htm",
+      "published_utc": "2026-05-14T14:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank of England Weekly Report 13 May 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/13-may-2026",
+      "published_utc": "2026-05-14T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Operational resilience in a rapidly changing world − speech by Liz Oakes",
       "source": "Bank of England",
