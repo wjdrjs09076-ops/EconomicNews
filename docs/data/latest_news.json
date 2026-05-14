@@ -1,7 +1,28 @@
 {
-  "generated_at_utc": "2026-05-14T11:28:08+00:00",
+  "generated_at_utc": "2026-05-14T13:12:51+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Operational resilience in a rapidly changing world − speech by Liz Oakes",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/may/liz-oakes-speech-and-panel-at-the-kpmg-and-fitch-ratings-london-banking-summit",
+      "published_utc": "2026-05-14T13:10:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "The Importance of Choice in Payments − speech by Victoria Cleland",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/may/victoria-cleland-fireside-chat-at-the-currency-research-banknote-conference",
+      "published_utc": "2026-05-14T13:00:00+00:00",
+      "categories": [
+        "trade",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board issues Economic Well-Being of U.S. Households in 2025 report",
       "source": "Federal Reserve",
