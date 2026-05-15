@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-05-15T12:18:38+00:00",
+  "generated_at_utc": "2026-05-15T14:38:36+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "BoE, FCA and HM Treasury joint statement on Frontier AI models and cyber resilience",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/may/boe-fca-and-hm-treasury-joint-statement-on-frontier-ai-models-and-cyber-resilience",
+      "published_utc": "2026-05-15T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
       "source": "Federal Reserve",
@@ -99,16 +109,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm",
       "published_utc": "2026-05-12T15:00:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "DLT Innovation Challenge 2025: Final Report",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/research/fintech/dlt-innovation-challenge-2025",
-      "published_utc": "2026-05-12T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
