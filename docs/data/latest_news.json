@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-15T16:21:47+00:00",
+  "generated_at_utc": "2026-05-15T17:55:16+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -99,16 +99,6 @@
       "published_utc": "2026-05-13T14:00:00+00:00",
       "categories": [
         "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Clinical supervision − speech by Sam Woods",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/may/sam-woods-speech-at-the-henry-thornton-lecture-bayes-business-school",
-      "published_utc": "2026-05-12T17:30:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
