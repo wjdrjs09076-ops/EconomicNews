@@ -1,9 +1,19 @@
 {
-  "generated_at_utc": "2026-05-15T14:38:36+00:00",
+  "generated_at_utc": "2026-05-15T16:21:47+00:00",
   "lookback_hours": 72,
   "items": [
     {
-      "title": "BoE, FCA and HM Treasury joint statement on Frontier AI models and cyber resilience",
+      "title": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm",
+      "published_utc": "2026-05-15T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "The Bank, FCA and HM Treasury joint statement on Frontier AI models and cyber resilience",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/news/2026/may/boe-fca-and-hm-treasury-joint-statement-on-frontier-ai-models-and-cyber-resilience",
       "published_utc": "2026-05-15T14:00:00+00:00",
@@ -100,15 +110,6 @@
       "published_utc": "2026-05-12T17:30:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces termination of enforcement actions with F & M Holding Company, Inc. and Thread Bancorp, Inc.",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm",
-      "published_utc": "2026-05-12T15:00:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
