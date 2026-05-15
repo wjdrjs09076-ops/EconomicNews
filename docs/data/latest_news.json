@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-05-15T19:14:09+00:00",
+  "generated_at_utc": "2026-05-15T20:34:32+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm",
+      "published_utc": "2026-05-15T20:30:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller of the Currency",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515b.htm",
+      "published_utc": "2026-05-15T20:30:00+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
       "source": "Federal Reserve",
