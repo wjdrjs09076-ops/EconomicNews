@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-16T13:50:37+00:00",
+  "generated_at_utc": "2026-05-16T14:43:40+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -118,17 +118,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm",
       "published_utc": "2026-05-13T15:30:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Old exposures, new actors: implications for monetary policy of the UK’s external imbalances − speech by Catherine L. Mann",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/may/catherine-l-mann-speech-at-the-london-school-of-economics",
-      "published_utc": "2026-05-13T14:00:00+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
         "institutions"
       ]
     }
