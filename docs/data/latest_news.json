@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-16T14:43:40+00:00",
+  "generated_at_utc": "2026-05-16T15:40:05+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -109,15 +109,6 @@
       "categories": [
         "trade",
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board issues Economic Well-Being of U.S. Households in 2025 report",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm",
-      "published_utc": "2026-05-13T15:30:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
