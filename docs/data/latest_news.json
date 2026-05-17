@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-17T14:08:07+00:00",
+  "generated_at_utc": "2026-05-17T15:13:16+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -57,16 +57,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
       "published_utc": "2026-05-14T18:00:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Slides from Huw Pill’s fireside chat at NatWest",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/may/slides-from-huw-pill-fireside-chat-at-natwest",
-      "published_utc": "2026-05-14T15:10:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
