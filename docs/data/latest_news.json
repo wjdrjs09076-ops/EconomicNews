@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-17T17:11:25+00:00",
+  "generated_at_utc": "2026-05-17T18:08:25+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -48,15 +48,6 @@
       "published_utc": "2026-05-15T14:00:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
-      "published_utc": "2026-05-14T18:00:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
