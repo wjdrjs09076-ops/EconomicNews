@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-18T20:44:35+00:00",
+  "generated_at_utc": "2026-05-18T21:51:01+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -29,15 +29,6 @@
       "published_utc": "2026-05-17T23:00:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
-      "published_utc": "2026-05-15T21:00:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
