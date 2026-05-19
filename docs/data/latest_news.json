@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-05-19T05:45:48+00:00",
+  "generated_at_utc": "2026-05-19T08:47:14+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Modernising money and markets − speech by Sarah Breeden",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/may/sarah-breeden-speech-at-city-week-the-future-of-money-in-a-digital-world",
+      "published_utc": "2026-05-19T08:10:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Tenth edition of the Regulatory Initiatives Grid",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/report/2026/tenth-edition-of-the-regulatory-initiatives-grid",
+      "published_utc": "2026-05-19T06:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "FCA and Bank of England set out shared vision for tokenisation in UK wholesale markets",
       "source": "Bank of England",
