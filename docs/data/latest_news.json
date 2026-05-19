@@ -1,7 +1,18 @@
 {
-  "generated_at_utc": "2026-05-19T08:47:14+00:00",
+  "generated_at_utc": "2026-05-19T11:46:02+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Central counterparty resolution execution and resolvability outcomes",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/discussion-paper/central-counterparty-resolution-execution-and-resolvability-outcomes",
+      "published_utc": "2026-05-19T09:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Modernising money and markets − speech by Sarah Breeden",
       "source": "Bank of England",
