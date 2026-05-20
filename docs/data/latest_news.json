@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-05-20T16:40:02+00:00",
+  "generated_at_utc": "2026-05-20T19:03:26+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
+      "published_utc": "2026-05-20T18:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Basel Committee agrees to publish report on information and communication technology risk management, progresses cryptoasset targeted review, considers targeted updates on liquidity risk principles",
       "source": "BIS",
