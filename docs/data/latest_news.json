@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-20T22:39:03+00:00",
+  "generated_at_utc": "2026-05-20T23:51:22+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -76,16 +76,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/paper/2026/cp/extending-rtgs-and-chaps-settlement-hours-next-steps",
       "published_utc": "2026-05-18T08:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "PRA announces ring-fence change to reduce costs",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/may/pra-announces-ring-fence-change-to-reduce-costs",
-      "published_utc": "2026-05-17T23:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
