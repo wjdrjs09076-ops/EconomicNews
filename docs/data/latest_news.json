@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-05-20T19:03:26+00:00",
+  "generated_at_utc": "2026-05-20T21:04:32+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board requests public comment on a proposal to establish a \"payment account,\" which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm",
+      "published_utc": "2026-05-20T20:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
       "source": "Federal Reserve",
