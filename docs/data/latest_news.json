@@ -1,7 +1,38 @@
 {
-  "generated_at_utc": "2026-05-21T11:58:32+00:00",
+  "generated_at_utc": "2026-05-21T15:18:55+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260521a.htm",
+      "published_utc": "2026-05-21T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Can AI make cutlery? - speech by Andrew Bailey",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/may/andrew-bailey-speech-at-cutlers-feast-sheffield",
+      "published_utc": "2026-05-21T15:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank of England Weekly Report 20 May 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/20-may-2026",
+      "published_utc": "2026-05-21T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board requests public comment on a proposal to establish a \"payment account,\" which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments",
       "source": "Federal Reserve",
