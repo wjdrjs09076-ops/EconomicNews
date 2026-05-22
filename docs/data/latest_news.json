@@ -1,7 +1,26 @@
 {
-  "generated_at_utc": "2026-05-22T19:43:59+00:00",
+  "generated_at_utc": "2026-05-22T20:59:47+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm",
+      "published_utc": "2026-05-22T20:15:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Agencies publish resolution plan feedback letters for certain domestic and foreign banking organizations",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260522a.htm",
+      "published_utc": "2026-05-22T20:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Digital renaissance amidst crisis: impact of digitalisation on firm performance during the pandemic",
       "source": "Bank of England",
