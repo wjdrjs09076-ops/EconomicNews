@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-22T08:38:49+00:00",
+  "generated_at_utc": "2026-05-22T11:27:51+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -57,17 +57,6 @@
       "link": "https://www.bis.org/press/p260520.htm",
       "published_utc": "2026-05-20T15:00:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Central counterparty resolution execution and resolvability outcomes",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/discussion-paper/central-counterparty-resolution-execution-and-resolvability-outcomes",
-      "published_utc": "2026-05-19T09:00:00+00:00",
-      "categories": [
-        "rates",
         "financial_stability",
         "institutions"
       ]
