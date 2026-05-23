@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-23T14:11:25+00:00",
+  "generated_at_utc": "2026-05-23T15:17:26+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -99,16 +99,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
       "published_utc": "2026-05-20T18:00:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Basel Committee agrees to publish report on information and communication technology risk management, progresses cryptoasset targeted review, considers targeted updates on liquidity risk principles",
-      "source": "BIS",
-      "link": "https://www.bis.org/press/p260520.htm",
-      "published_utc": "2026-05-20T15:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
