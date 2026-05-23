@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-23T19:36:04+00:00",
+  "generated_at_utc": "2026-05-23T20:27:32+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -81,15 +81,6 @@
       "published_utc": "2026-05-21T14:00:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board requests public comment on a proposal to establish a \"payment account,\" which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm",
-      "published_utc": "2026-05-20T20:00:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
