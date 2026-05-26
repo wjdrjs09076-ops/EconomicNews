@@ -1,5 +1,16 @@
 {
-  "generated_at_utc": "2026-05-26T14:25:11+00:00",
+  "generated_at_utc": "2026-05-26T17:39:12+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Statistical Notice 2026/04 - BEEDS User Acceptance Testing (UAT) Environment – Statistical Taxonomy v1.3.1 FINAL",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-04",
+      "published_utc": "2026-05-26T13:03:58+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    }
+  ]
 }
