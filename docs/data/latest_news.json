@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-05-27T10:13:45+00:00",
+  "generated_at_utc": "2026-05-27T13:47:47+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Project Agorá shows how tokenisation can improve wholesale cross-border payments; work will advance to real-value testing",
+      "source": "BIS",
+      "link": "https://www.bis.org/press/p260527.htm",
+      "published_utc": "2026-05-27T13:42:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the Board's discount rate meeting on April 20 and 29, 2026",
       "source": "Federal Reserve",
