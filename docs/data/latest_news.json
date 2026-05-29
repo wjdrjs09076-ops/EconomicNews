@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-29T16:57:38+00:00",
+  "generated_at_utc": "2026-05-29T19:30:14+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -50,16 +50,6 @@
       "link": "https://www.bis.org/press/p260527.htm",
       "published_utc": "2026-05-27T13:42:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the Board's discount rate meeting on April 20 and 29, 2026",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm",
-      "published_utc": "2026-05-26T18:00:00+00:00",
-      "categories": [
-        "rates",
         "institutions"
       ]
     }
