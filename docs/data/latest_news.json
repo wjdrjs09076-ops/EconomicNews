@@ -1,7 +1,18 @@
 {
-  "generated_at_utc": "2026-05-29T10:13:53+00:00",
+  "generated_at_utc": "2026-05-29T13:32:12+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Are the effects of quantitative easing and tightening state contingent?",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/are-the-effects-of-qe-and-tightening-state-contingent",
+      "published_utc": "2026-05-29T13:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey",
       "source": "Bank of England",
@@ -49,16 +60,6 @@
       "published_utc": "2026-05-26T18:00:00+00:00",
       "categories": [
         "rates",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Statistical Notice 2026/04 - BEEDS User Acceptance Testing (UAT) Environment – Statistical Taxonomy v1.3.1 FINAL",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-04",
-      "published_utc": "2026-05-26T13:03:58+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
