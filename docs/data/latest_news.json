@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-05-30T12:48:10+00:00",
+  "generated_at_utc": "2026-05-30T14:18:34+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -41,15 +41,6 @@
       "published_utc": "2026-05-28T14:00:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Project Agorá shows how tokenisation can improve wholesale cross-border payments; work will advance to real-value testing",
-      "source": "BIS",
-      "link": "https://www.bis.org/press/p260527.htm",
-      "published_utc": "2026-05-27T13:42:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
