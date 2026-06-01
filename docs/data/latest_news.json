@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-01T06:53:27+00:00",
+  "generated_at_utc": "2026-06-01T12:25:13+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -7,17 +7,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/working-paper/2026/are-the-effects-of-qe-and-tightening-state-contingent",
       "published_utc": "2026-05-29T13:00:00+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Remaining anchored: Monetary Policy in an unpredictable world - speech by Andrew Bailey",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/may/andrew-bailey-speech-at-the-reykjavik-2026-economic-conference",
-      "published_utc": "2026-05-29T09:10:00+00:00",
       "categories": [
         "rates",
         "financial_stability",
