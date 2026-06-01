@@ -1,17 +1,5 @@
 {
-  "generated_at_utc": "2026-06-01T12:25:13+00:00",
+  "generated_at_utc": "2026-06-01T18:20:09+00:00",
   "lookback_hours": 72,
-  "items": [
-    {
-      "title": "Are the effects of quantitative easing and tightening state contingent?",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/are-the-effects-of-qe-and-tightening-state-contingent",
-      "published_utc": "2026-05-29T13:00:00+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    }
-  ]
+  "items": []
 }
