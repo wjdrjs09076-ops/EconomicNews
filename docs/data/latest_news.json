@@ -1,5 +1,15 @@
 {
-  "generated_at_utc": "2026-06-02T06:17:37+00:00",
+  "generated_at_utc": "2026-06-02T10:55:48+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Basel Committee publishes report on information and communication technology risk management",
+      "source": "BIS",
+      "link": "https://www.bis.org/press/p260602.htm",
+      "published_utc": "2026-06-02T08:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    }
+  ]
 }
