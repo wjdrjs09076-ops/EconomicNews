@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-06-02T14:42:25+00:00",
+  "generated_at_utc": "2026-06-02T18:23:49+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Agencies remove additional references to reputation risk",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260602a.htm",
+      "published_utc": "2026-06-02T15:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Here we go again? Assessing the inflation risks of the recent energy shock − speech by Megan Greene",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/june/megan-greene-speech-at-university-of-derby-business-school",
+      "published_utc": "2026-06-02T15:00:00+00:00",
+      "categories": [
+        "inflation",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Basel Committee publishes report on information and communication technology risk management",
       "source": "BIS",
