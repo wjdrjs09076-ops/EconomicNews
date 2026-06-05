@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-05T22:11:43+00:00",
+  "generated_at_utc": "2026-06-05T23:36:14+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -78,16 +78,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-05",
       "published_utc": "2026-06-03T12:47:51+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Public asked to help select UK wildlife to appear on new banknote series",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/june/wildlife-new-banknote-series",
-      "published_utc": "2026-06-02T23:01:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
