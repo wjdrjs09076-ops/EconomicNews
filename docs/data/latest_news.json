@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-06-05T06:10:04+00:00",
+  "generated_at_utc": "2026-06-05T10:13:28+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England and Financial Conduct Authority – Memorandum of Understanding on the supervision of Financial Market Infrastructure",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/june/boe-and-fca-mou-on-supervision-of-financial-market-infrastructures",
+      "published_utc": "2026-06-05T09:25:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Monthly Decision Maker Panel data - May 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/may-2026",
+      "published_utc": "2026-06-05T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England Weekly Report 3 June 2026",
       "source": "Bank of England",
@@ -59,15 +79,6 @@
       "categories": [
         "inflation",
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Basel Committee publishes report on information and communication technology risk management",
-      "source": "BIS",
-      "link": "https://www.bis.org/press/p260602.htm",
-      "published_utc": "2026-06-02T08:00:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
