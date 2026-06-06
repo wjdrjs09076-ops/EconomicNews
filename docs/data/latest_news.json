@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-06T11:44:51+00:00",
+  "generated_at_utc": "2026-06-06T12:54:20+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -68,16 +68,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/minutes/2026/april/synchronisation-thematic-engagement-working-group",
       "published_utc": "2026-06-04T10:45:26+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Statistical Notice 2026/05 - Implementation of Bank of England Statistics Taxonomy v1.3.1",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-05",
-      "published_utc": "2026-06-03T12:47:51+00:00",
       "categories": [
         "financial_stability",
         "institutions"
