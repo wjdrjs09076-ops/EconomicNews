@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-07T12:10:08+00:00",
+  "generated_at_utc": "2026-06-07T14:17:55+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -48,16 +48,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/may-2026",
       "published_utc": "2026-06-05T08:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England Weekly Report 3 June 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/3-june-2026",
-      "published_utc": "2026-06-04T14:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
