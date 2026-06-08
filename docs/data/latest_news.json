@@ -1,37 +1,5 @@
 {
-  "generated_at_utc": "2026-06-08T11:47:35+00:00",
+  "generated_at_utc": "2026-06-08T15:02:10+00:00",
   "lookback_hours": 72,
-  "items": [
-    {
-      "title": "Capital requirements and process innovation",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/capital-requirements-and-process-innovation",
-      "published_utc": "2026-06-05T13:02:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Staying afloat: the impact of flooding on UK firms",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/staying-afloat-the-impact-of-flooding-on-uk-firms",
-      "published_utc": "2026-06-05T13:01:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "How should central banks respond to commodity price shocks? Optimal monetary and exchange rate frameworks for commodity-exposed economies",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/how-should-central-banks-respond-to-commodity-price-shocks",
-      "published_utc": "2026-06-05T13:00:00+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    }
-  ]
+  "items": []
 }
