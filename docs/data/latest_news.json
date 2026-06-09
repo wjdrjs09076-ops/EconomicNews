@@ -1,5 +1,16 @@
 {
-  "generated_at_utc": "2026-06-09T18:34:53+00:00",
+  "generated_at_utc": "2026-06-09T20:33:17+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
+      "published_utc": "2026-06-09T20:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    }
+  ]
 }
