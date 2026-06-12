@@ -1,7 +1,48 @@
 {
-  "generated_at_utc": "2026-06-12T06:45:50+00:00",
+  "generated_at_utc": "2026-06-12T10:52:31+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Governance: recognised payment system operators",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/governance-recognised-payment-system-operators-ps-ss",
+      "published_utc": "2026-06-12T09:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Operational resilience: recognised payment system operators and specified service providers",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/ss/operational-resilience-rpsos-ssps-ss",
+      "published_utc": "2026-06-12T09:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Agents' summary of business conditions - June 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/agents-summary/2026/june-2026",
+      "published_utc": "2026-06-12T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank of England/Ipsos Inflation Attitudes Survey - May 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/may-2026",
+      "published_utc": "2026-06-12T08:30:00+00:00",
+      "categories": [
+        "inflation",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Changes to collateral eligibility in the Sterling Monetary Framework - Market Notice 11 June 2026",
       "source": "Bank of England",
