@@ -1,11 +1,11 @@
 {
-  "generated_at_utc": "2026-06-12T10:52:31+00:00",
+  "generated_at_utc": "2026-06-12T13:54:15+00:00",
   "lookback_hours": 72,
   "items": [
     {
-      "title": "Governance: recognised payment system operators",
+      "title": "Operational resilience: recognised payment system operators and specified service providers",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/ps/governance-recognised-payment-system-operators-ps-ss",
+      "link": "https://www.bankofengland.co.uk/paper/2026/ss/operational-resilience-rpsos-ssps-ss",
       "published_utc": "2026-06-12T09:00:00+00:00",
       "categories": [
         "financial_stability",
@@ -13,9 +13,9 @@
       ]
     },
     {
-      "title": "Operational resilience: recognised payment system operators and specified service providers",
+      "title": "Governance: recognised payment system operators",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/ss/operational-resilience-rpsos-ssps-ss",
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/governance-recognised-payment-system-operators-ps-ss",
       "published_utc": "2026-06-12T09:00:00+00:00",
       "categories": [
         "financial_stability",
