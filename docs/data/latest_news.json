@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-14T14:28:38+00:00",
+  "generated_at_utc": "2026-06-14T16:03:54+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -40,27 +40,6 @@
       "categories": [
         "inflation",
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Changes to collateral eligibility in the Sterling Monetary Framework - Market Notice 11 June 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/june/collateral-eligibility-in-the-smf-11-june-2026",
-      "published_utc": "2026-06-11T16:00:00+00:00",
-      "categories": [
-        "rates",
-        "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
-      "published_utc": "2026-06-11T15:00:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
