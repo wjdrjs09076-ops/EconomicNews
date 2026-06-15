@@ -1,44 +1,53 @@
 {
-  "generated_at_utc": "2026-06-15T07:33:28+00:00",
+  "generated_at_utc": "2026-06-15T13:33:01+00:00",
   "lookback_hours": 72,
   "items": [
     {
-      "title": "Operational resilience: recognised payment system operators and specified service providers",
+      "title": "Banknote imagery advisory group minutes – 15 December 2025",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/ss/operational-resilience-rpsos-ssps-ss",
-      "published_utc": "2026-06-12T09:00:00+00:00",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/december/banknote-advisory-minutes-15-december",
+      "published_utc": "2026-06-15T09:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
       ]
     },
     {
-      "title": "Governance: recognised payment system operators",
+      "title": "Banknote imagery expert panel minutes – 10 March 2026",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/ps/governance-recognised-payment-system-operators-ps-ss",
-      "published_utc": "2026-06-12T09:00:00+00:00",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/march/banknote-expert-minutes-10-march",
+      "published_utc": "2026-06-15T08:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
       ]
     },
     {
-      "title": "Agents' summary of business conditions - June 2026",
+      "title": "Banknote imagery expert panel minutes – 15 April 2026",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/agents-summary/2026/june-2026",
-      "published_utc": "2026-06-12T08:30:00+00:00",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/april/banknote-advisory-minutes-15-april",
+      "published_utc": "2026-06-15T08:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
       ]
     },
     {
-      "title": "Bank of England/Ipsos Inflation Attitudes Survey - May 2026",
+      "title": "Banknote imagery expert panel minutes – 24 April 2026",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/may-2026",
-      "published_utc": "2026-06-12T08:30:00+00:00",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/april/banknote-expert-minutes-24-april",
+      "published_utc": "2026-06-15T08:00:00+00:00",
       "categories": [
-        "inflation",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Banknote imagery advisory group minutes – 29 April 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/april/banknote-advisory-minutes-29-april",
+      "published_utc": "2026-06-15T08:00:00+00:00",
+      "categories": [
         "financial_stability",
         "institutions"
       ]
