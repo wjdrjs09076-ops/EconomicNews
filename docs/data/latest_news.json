@@ -1,7 +1,25 @@
 {
-  "generated_at_utc": "2026-06-17T17:59:13+00:00",
+  "generated_at_utc": "2026-06-17T20:10:35+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+      "published_utc": "2026-06-17T18:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+      "published_utc": "2026-06-17T18:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Index-linked Treasury Stock",
       "source": "Bank of England",
