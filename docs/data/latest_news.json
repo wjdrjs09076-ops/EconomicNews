@@ -1,7 +1,18 @@
 {
-  "generated_at_utc": "2026-06-18T07:01:03+00:00",
+  "generated_at_utc": "2026-06-18T11:10:05+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank Rate maintained at 3.75% - June 2026 Monetary Policy Summary and Minutes",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026",
+      "published_utc": "2026-06-18T11:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve issues FOMC statement",
       "source": "Federal Reserve",
@@ -55,56 +66,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/minutes/2026/june/rtgs-chaps-industry-forum-4-june-2026",
       "published_utc": "2026-06-15T13:15:24+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Banknote imagery advisory group minutes – 15 December 2025",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2025/december/banknote-advisory-minutes-15-december",
-      "published_utc": "2026-06-15T09:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Banknote imagery expert panel minutes – 10 March 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/march/banknote-expert-minutes-10-march",
-      "published_utc": "2026-06-15T08:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Banknote imagery expert panel minutes – 15 April 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/april/banknote-advisory-minutes-15-april",
-      "published_utc": "2026-06-15T08:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Banknote imagery expert panel minutes – 24 April 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/april/banknote-expert-minutes-24-april",
-      "published_utc": "2026-06-15T08:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Banknote imagery advisory group minutes – 29 April 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/april/banknote-advisory-minutes-29-april",
-      "published_utc": "2026-06-15T08:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
