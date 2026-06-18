@@ -1,7 +1,46 @@
 {
-  "generated_at_utc": "2026-06-18T11:10:05+00:00",
+  "generated_at_utc": "2026-06-18T14:19:15+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England Weekly Report 17 June 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/17-june-2026",
+      "published_utc": "2026-06-18T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
+      "published_utc": "2026-06-18T13:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Minutes of the Meeting of the Court of Directors held on 23 April 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/june/court-minutes-23-april-2026",
+      "published_utc": "2026-06-18T13:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Transcript of the Governor's pooled broadcast interview given on 18 June 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/june/the-governor-interview-transcript-18-june-2026",
+      "published_utc": "2026-06-18T12:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank Rate maintained at 3.75% - June 2026 Monetary Policy Summary and Minutes",
       "source": "Bank of England",
@@ -56,16 +95,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/speech/2026/june/shoib-khan-speech-at-the-airmic-annual-conference-2026",
       "published_utc": "2026-06-16T09:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Summary of the RTGS CHAPS Industry Forum",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/june/rtgs-chaps-industry-forum-4-june-2026",
-      "published_utc": "2026-06-15T13:15:24+00:00",
       "categories": [
         "financial_stability",
         "institutions"
