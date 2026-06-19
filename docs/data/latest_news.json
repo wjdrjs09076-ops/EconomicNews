@@ -1,7 +1,28 @@
 {
-  "generated_at_utc": "2026-06-19T11:42:38+00:00",
+  "generated_at_utc": "2026-06-19T14:27:29+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Asymmetric information and capital regulation in SME lending: a structural model of bank and non-bank competition",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/asymmetric-information-and-capita-regulation-in-sme-lending",
+      "published_utc": "2026-06-19T13:01:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Inflation attitudes of large language models",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/inflation-attitudes-of-large-language-models",
+      "published_utc": "2026-06-19T13:00:00+00:00",
+      "categories": [
+        "inflation",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Market Participants Survey results - June 2026",
       "source": "Bank of England",
