@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-06-19T14:27:29+00:00",
+  "generated_at_utc": "2026-06-19T16:56:14+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 19 June 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/june/apf-gilt-sales-market-notice-19-june-2026",
+      "published_utc": "2026-06-19T15:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Asymmetric information and capital regulation in SME lending: a structural model of bank and non-bank competition",
       "source": "Bank of England",
@@ -34,9 +44,9 @@
       ]
     },
     {
-      "title": "Private markets system-wide exploratory scenario: publication of the stress scenario",
+      "title": "Private markets system-wide exploratory scenario",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/publication-of-the-stress-scenario-for-the-private-markets-system-wide-exploratory-scenario",
+      "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario",
       "published_utc": "2026-06-19T07:30:00+00:00",
       "categories": [
         "financial_stability",
@@ -44,9 +54,9 @@
       ]
     },
     {
-      "title": "Private markets system-wide exploratory scenario",
+      "title": "Private markets system-wide exploratory scenario: publication of the stress scenario",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario",
+      "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/publication-of-the-stress-scenario-for-the-private-markets-system-wide-exploratory-scenario",
       "published_utc": "2026-06-19T07:30:00+00:00",
       "categories": [
         "financial_stability",
