@@ -1,7 +1,37 @@
 {
-  "generated_at_utc": "2026-06-19T07:22:10+00:00",
+  "generated_at_utc": "2026-06-19T11:42:38+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Market Participants Survey results - June 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-june-2026",
+      "published_utc": "2026-06-19T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Private markets system-wide exploratory scenario: publication of the stress scenario",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/publication-of-the-stress-scenario-for-the-private-markets-system-wide-exploratory-scenario",
+      "published_utc": "2026-06-19T07:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Private markets system-wide exploratory scenario",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario",
+      "published_utc": "2026-06-19T07:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "2025 CCP Global International Default Simulation: key findings and observations",
       "source": "Bank of England",
@@ -135,16 +165,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/news/2026/june/statement-announcing-governors-interview",
       "published_utc": "2026-06-17T09:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "It’s Coming Home − speech by Shoib Khan",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/june/shoib-khan-speech-at-the-airmic-annual-conference-2026",
-      "published_utc": "2026-06-16T09:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
