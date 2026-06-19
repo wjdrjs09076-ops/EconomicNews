@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-19T18:27:54+00:00",
+  "generated_at_utc": "2026-06-19T20:12:51+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -44,9 +44,9 @@
       ]
     },
     {
-      "title": "Private markets system-wide exploratory scenario: publication of the stress scenario",
+      "title": "Private markets system-wide exploratory scenario",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/publication-of-the-stress-scenario-for-the-private-markets-system-wide-exploratory-scenario",
+      "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario",
       "published_utc": "2026-06-19T07:30:00+00:00",
       "categories": [
         "financial_stability",
@@ -54,9 +54,9 @@
       ]
     },
     {
-      "title": "Private markets system-wide exploratory scenario",
+      "title": "Private markets system-wide exploratory scenario: publication of the stress scenario",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario",
+      "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/publication-of-the-stress-scenario-for-the-private-markets-system-wide-exploratory-scenario",
       "published_utc": "2026-06-19T07:30:00+00:00",
       "categories": [
         "financial_stability",
