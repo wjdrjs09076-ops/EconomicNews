@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-21T20:45:18+00:00",
+  "generated_at_utc": "2026-06-21T22:01:52+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -78,16 +78,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/news/2026/june/pra-adjustments-market-risk-internal-model-approach-under-basel31",
       "published_utc": "2026-06-19T06:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Travel restrictions as border frictions: evidence from the Covid-19 pandemic",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/travel-restrictions-as-border-frictions-evidence-from-the-covid-19-pandemic",
-      "published_utc": "2026-06-18T22:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
