@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-21T12:27:07+00:00",
+  "generated_at_utc": "2026-06-21T14:39:13+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -110,45 +110,6 @@
       "published_utc": "2026-06-18T15:00:00+00:00",
       "categories": [
         "trade",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England Weekly Report 17 June 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/17-june-2026",
-      "published_utc": "2026-06-18T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
-      "published_utc": "2026-06-18T13:00:00+00:00",
-      "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the Meeting of the Court of Directors held on 23 April 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/june/court-minutes-23-april-2026",
-      "published_utc": "2026-06-18T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Transcript of the Governor's pooled broadcast interview given on 18 June 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/june/the-governor-interview-transcript-18-june-2026",
-      "published_utc": "2026-06-18T12:30:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
