@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-21T17:55:10+00:00",
+  "generated_at_utc": "2026-06-21T19:10:58+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -88,16 +88,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/working-paper/2026/travel-restrictions-as-border-frictions-evidence-from-the-covid-19-pandemic",
       "published_utc": "2026-06-18T22:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm",
-      "published_utc": "2026-06-18T19:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
