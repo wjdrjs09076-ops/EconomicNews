@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-21T10:38:13+00:00",
+  "generated_at_utc": "2026-06-21T12:27:07+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -148,17 +148,6 @@
       "link": "https://www.bankofengland.co.uk/news/2026/june/the-governor-interview-transcript-18-june-2026",
       "published_utc": "2026-06-18T12:30:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank Rate maintained at 3.75% - June 2026 Monetary Policy Summary and Minutes",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026",
-      "published_utc": "2026-06-18T11:00:00+00:00",
-      "categories": [
-        "rates",
         "financial_stability",
         "institutions"
       ]
