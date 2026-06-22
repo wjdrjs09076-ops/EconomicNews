@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-22T12:54:55+00:00",
+  "generated_at_utc": "2026-06-22T17:22:37+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -28,37 +28,6 @@
       "published_utc": "2026-06-22T07:30:00+00:00",
       "categories": [
         "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 19 June 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/june/apf-gilt-sales-market-notice-19-june-2026",
-      "published_utc": "2026-06-19T15:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Asymmetric information and capital regulation in SME lending: a structural model of bank and non-bank competition",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/asymmetric-information-and-capita-regulation-in-sme-lending",
-      "published_utc": "2026-06-19T13:01:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Inflation attitudes of large language models",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/inflation-attitudes-of-large-language-models",
-      "published_utc": "2026-06-19T13:00:00+00:00",
-      "categories": [
-        "inflation",
         "financial_stability",
         "institutions"
       ]
