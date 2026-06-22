@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-22T01:43:10+00:00",
+  "generated_at_utc": "2026-06-22T07:03:21+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -44,16 +44,6 @@
       ]
     },
     {
-      "title": "Private markets system-wide exploratory scenario: publication of the stress scenario",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/publication-of-the-stress-scenario-for-the-private-markets-system-wide-exploratory-scenario",
-      "published_utc": "2026-06-19T07:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
       "title": "Private markets system-wide exploratory scenario",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario",
@@ -64,20 +54,10 @@
       ]
     },
     {
-      "title": "2025 CCP Global International Default Simulation: key findings and observations",
+      "title": "Private markets system-wide exploratory scenario: publication of the stress scenario",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/2025-ccp-global-international-default-simulation-key-findings-and-observations",
-      "published_utc": "2026-06-19T07:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "PRA sets out adjustments to its market risk internal model approach under Basel 3.1",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/june/pra-adjustments-market-risk-internal-model-approach-under-basel31",
-      "published_utc": "2026-06-19T06:00:00+00:00",
+      "link": "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/publication-of-the-stress-scenario-for-the-private-markets-system-wide-exploratory-scenario",
+      "published_utc": "2026-06-19T07:30:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
