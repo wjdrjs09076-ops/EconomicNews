@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-06-23T11:46:03+00:00",
+  "generated_at_utc": "2026-06-23T14:05:57+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Central reservations − speech by Alan Taylor",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/june/alan-taylor-speech-at-the-barclays-and-centre-for-economic-policy-research",
+      "published_utc": "2026-06-23T13:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
       "source": "BIS",
