@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-06-24T08:45:37+00:00",
+  "generated_at_utc": "2026-06-24T11:30:00+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Megan Greene's CV and questionnaire for the Treasury Select Committee",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/june/megan-greene-tsc-reappointment",
+      "published_utc": "2026-06-24T08:20:56+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Central reservations − speech by Alan Taylor",
       "source": "Bank of England",
