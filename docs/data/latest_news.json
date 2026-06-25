@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-25T05:46:14+00:00",
+  "generated_at_utc": "2026-06-25T08:39:01+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -60,27 +60,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
       "published_utc": "2026-06-22T12:45:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England launches policy statement and draft rules on regulating systemic stablecoins",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/june/boe-launches-policy-statement-and-draft-rules-on-regulating-systemic-stablecoins",
-      "published_utc": "2026-06-22T07:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Sterling-denominated systemic stablecoins",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/ps/sterling-denominated-systemic-stablecoin",
-      "published_utc": "2026-06-22T07:30:00+00:00",
-      "categories": [
-        "fx",
-        "financial_stability",
         "institutions"
       ]
     }
