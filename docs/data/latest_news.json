@@ -1,7 +1,36 @@
 {
-  "generated_at_utc": "2026-06-25T13:28:24+00:00",
+  "generated_at_utc": "2026-06-25T15:59:49+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
+      "published_utc": "2026-06-25T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
+      "published_utc": "2026-06-25T15:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank of England Weekly Report 24 June 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/24-june-2026",
+      "published_utc": "2026-06-25T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England Annual Report and Accounts - 2026",
       "source": "Bank of England",
@@ -33,6 +62,16 @@
       ]
     },
     {
+      "title": "Annual Reports 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
+      "published_utc": "2026-06-25T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
       "title": "Report on the Bank’s official market operations March 2025–February 2026",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
@@ -46,16 +85,6 @@
       "title": "The Bank of England's climate-related financial disclosure 2026",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/climate-change/the-bank-of-englands-climate-related-financial-disclosure-2026",
-      "published_utc": "2026-06-25T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Annual Reports 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
       "published_utc": "2026-06-25T11:00:00+00:00",
       "categories": [
         "financial_stability",
