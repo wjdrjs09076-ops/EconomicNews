@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-25T15:59:49+00:00",
+  "generated_at_utc": "2026-06-25T18:10:31+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -62,16 +62,6 @@
       ]
     },
     {
-      "title": "Annual Reports 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
-      "published_utc": "2026-06-25T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
       "title": "Report on the Bank’s official market operations March 2025–February 2026",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
@@ -85,6 +75,16 @@
       "title": "The Bank of England's climate-related financial disclosure 2026",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/climate-change/the-bank-of-englands-climate-related-financial-disclosure-2026",
+      "published_utc": "2026-06-25T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Annual Reports 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
       "published_utc": "2026-06-25T11:00:00+00:00",
       "categories": [
         "financial_stability",
