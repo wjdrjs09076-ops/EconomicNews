@@ -1,7 +1,28 @@
 {
-  "generated_at_utc": "2026-06-26T11:16:38+00:00",
+  "generated_at_utc": "2026-06-26T13:21:35+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Developing a house price-at-risk framework for the UK",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/developing-a-house-price-at-risk-framework-for-the-uk",
+      "published_utc": "2026-06-26T13:01:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Monetary transmission to firm-level research and development",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/monetary-transmission-to-firm-level-r-and-d",
+      "published_utc": "2026-06-26T13:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
       "source": "Federal Reserve",
@@ -32,6 +53,26 @@
       ]
     },
     {
+      "title": "Report on the Bank’s official market operations March 2025–February 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
+      "published_utc": "2026-06-25T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "The Bank of England's climate-related financial disclosure 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/climate-change/the-bank-of-englands-climate-related-financial-disclosure-2026",
+      "published_utc": "2026-06-25T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
       "title": "Asset Purchase Facility Annual Report 2025/26",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2025-26",
@@ -55,26 +96,6 @@
       "title": "Bank of England Climate Transition Plan – 2026 update",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/climate-change/bank-of-england-climate-transition-plan-2026-update",
-      "published_utc": "2026-06-25T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Report on the Bank’s official market operations March 2025–February 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
-      "published_utc": "2026-06-25T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The Bank of England's climate-related financial disclosure 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/climate-change/the-bank-of-englands-climate-related-financial-disclosure-2026",
       "published_utc": "2026-06-25T11:00:00+00:00",
       "categories": [
         "financial_stability",
@@ -160,26 +181,6 @@
       "published_utc": "2026-06-24T08:20:56+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Central reservations − speech by Alan Taylor",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/june/alan-taylor-speech-at-the-barclays-and-centre-for-economic-policy-research",
-      "published_utc": "2026-06-23T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
-      "source": "BIS",
-      "link": "https://www.bis.org/press/p260623.htm",
-      "published_utc": "2026-06-23T12:12:00+00:00",
-      "categories": [
-        "rates",
         "institutions"
       ]
     }
