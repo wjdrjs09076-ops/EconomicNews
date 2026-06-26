@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-25T23:05:14+00:00",
+  "generated_at_utc": "2026-06-26T00:19:47+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -26,26 +26,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/24-june-2026",
       "published_utc": "2026-06-25T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Report on the Bank’s official market operations March 2025–February 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
-      "published_utc": "2026-06-25T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The Bank of England's climate-related financial disclosure 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/climate-change/the-bank-of-englands-climate-related-financial-disclosure-2026",
-      "published_utc": "2026-06-25T11:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
@@ -82,9 +62,19 @@
       ]
     },
     {
-      "title": "Bank of England Climate Transition Plan – 2026 update",
+      "title": "Report on the Bank’s official market operations March 2025–February 2026",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/climate-change/bank-of-england-climate-transition-plan-2026-update",
+      "link": "https://www.bankofengland.co.uk/sterling-monetary-framework/report-2025-26",
+      "published_utc": "2026-06-25T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "The Bank of England's climate-related financial disclosure 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/climate-change/the-bank-of-englands-climate-related-financial-disclosure-2026",
       "published_utc": "2026-06-25T11:00:00+00:00",
       "categories": [
         "financial_stability",
@@ -95,6 +85,16 @@
       "title": "Annual Reports 2026",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/annual-report/annual-reports-2026",
+      "published_utc": "2026-06-25T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank of England Climate Transition Plan – 2026 update",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/climate-change/bank-of-england-climate-transition-plan-2026-update",
       "published_utc": "2026-06-25T11:00:00+00:00",
       "categories": [
         "financial_stability",
