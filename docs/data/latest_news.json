@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-27T14:05:07+00:00",
+  "generated_at_utc": "2026-06-27T15:21:54+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -159,17 +159,6 @@
       "published_utc": "2026-06-24T20:00:00+00:00",
       "categories": [
         "growth",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Running on empty: Climate risks and the fragility of global energy and food supply chains − speech by Swati Dhingra",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/june/swati-dhingra-panel-at-the-world-resources-institute-workshop",
-      "published_utc": "2026-06-24T15:00:00+00:00",
-      "categories": [
-        "trade",
         "financial_stability",
         "institutions"
       ]
