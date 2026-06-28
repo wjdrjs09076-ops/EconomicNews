@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-28T12:04:28+00:00",
+  "generated_at_utc": "2026-06-28T14:07:54+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -48,16 +48,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
       "published_utc": "2026-06-25T15:00:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England Weekly Report 24 June 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/24-june-2026",
-      "published_utc": "2026-06-25T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
