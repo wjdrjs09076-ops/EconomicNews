@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-29T11:25:45+00:00",
+  "generated_at_utc": "2026-06-29T14:54:14+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -8,27 +8,6 @@
       "link": "https://www.bis.org/press/p260628.htm",
       "published_utc": "2026-06-28T12:39:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Developing a house price-at-risk framework for the UK",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/developing-a-house-price-at-risk-framework-for-the-uk",
-      "published_utc": "2026-06-26T13:01:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Monetary transmission to firm-level research and development",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/monetary-transmission-to-firm-level-r-and-d",
-      "published_utc": "2026-06-26T13:00:00+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
         "institutions"
       ]
     }
