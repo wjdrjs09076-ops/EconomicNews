@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-06-30T04:35:34+00:00",
+  "generated_at_utc": "2026-06-30T08:06:52+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Statistical Notice 2026/06 - Form PL - updates to definitions",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-06",
+      "published_utc": "2026-06-30T08:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank of England and Financial Conduct Authority’s approach to joint regulation of systemic stablecoin issuers",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/boe-and-fcas-approach-to-joint-regulation-of-systemic-stablecoin-issuers",
+      "published_utc": "2026-06-30T08:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Global economic pressure points call for policy discipline: BIS",
       "source": "BIS",
