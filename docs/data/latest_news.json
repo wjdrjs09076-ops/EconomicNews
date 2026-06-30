@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-06-30T08:06:52+00:00",
+  "generated_at_utc": "2026-06-30T11:17:34+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Agents of change − speech by Sarah Breeden",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/june/sarah-breeden-panel-at-the-european-central-bank-forum-on-central-banking-2026",
+      "published_utc": "2026-06-30T10:40:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Statistical Notice 2026/06 - Form PL - updates to definitions",
       "source": "Bank of England",
