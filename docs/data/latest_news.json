@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-01T06:12:48+00:00",
+  "generated_at_utc": "2026-07-01T10:11:58+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -49,15 +49,6 @@
       "published_utc": "2026-06-30T08:00:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Global economic pressure points call for policy discipline: BIS",
-      "source": "BIS",
-      "link": "https://www.bis.org/press/p260628.htm",
-      "published_utc": "2026-06-28T12:39:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
