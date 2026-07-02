@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-07-02T05:38:33+00:00",
+  "generated_at_utc": "2026-07-02T08:30:48+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank Liabilities Survey - 2026 Q2",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/bank-liabilities-survey/2026/2026-q2",
+      "published_utc": "2026-07-02T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Credit Conditions Survey - 2026 Q2",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-q2",
+      "published_utc": "2026-07-02T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve issues initial findings from its 2025 triennial payments study",
       "source": "Federal Reserve",
