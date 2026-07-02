@@ -1,7 +1,40 @@
 {
-  "generated_at_utc": "2026-07-02T08:30:48+00:00",
+  "generated_at_utc": "2026-07-02T11:08:37+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 17 March 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-legal-sub-committee-meeting-17-march-2026",
+      "published_utc": "2026-07-02T09:26:00+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Minutes of the London FXJSC Main Committee Meeting – 26 March 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-main-committee-meeting-26-march-2026",
+      "published_utc": "2026-07-02T09:26:00+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 18 March 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-operations-sub-committee-meeting-18-march-2026",
+      "published_utc": "2026-07-02T08:48:44+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank Liabilities Survey - 2026 Q2",
       "source": "Bank of England",
