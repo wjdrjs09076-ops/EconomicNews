@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-07-03T07:54:54+00:00",
+  "generated_at_utc": "2026-07-03T10:23:26+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Monthly Decision Maker Panel data - June 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/june-2026",
+      "published_utc": "2026-07-03T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board issues enforcement action with Small Business Bank and announces termination enforcement actions with BNP Paribas S.A., BNP Paribas USA, Inc., BNP Paribas Securities Corp., and Community Bankshares, Inc.",
       "source": "Federal Reserve",
@@ -33,9 +43,9 @@
       ]
     },
     {
-      "title": "Minutes of the London FXJSC Main Committee Meeting – 26 March 2026",
+      "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 17 March 2026",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-main-committee-meeting-26-march-2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-legal-sub-committee-meeting-17-march-2026",
       "published_utc": "2026-07-02T09:26:00+00:00",
       "categories": [
         "fx",
@@ -44,9 +54,9 @@
       ]
     },
     {
-      "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 17 March 2026",
+      "title": "Minutes of the London FXJSC Main Committee Meeting – 26 March 2026",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-legal-sub-committee-meeting-17-march-2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-main-committee-meeting-26-march-2026",
       "published_utc": "2026-07-02T09:26:00+00:00",
       "categories": [
         "fx",
@@ -119,26 +129,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/speech/2026/june/sarah-breeden-panel-at-the-european-central-bank-forum-on-central-banking-2026",
       "published_utc": "2026-06-30T10:40:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Statistical Notice 2026/06 - Form PL - updates to definitions",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-06",
-      "published_utc": "2026-06-30T08:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England and Financial Conduct Authority’s approach to joint regulation of systemic stablecoin issuers",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/boe-and-fcas-approach-to-joint-regulation-of-systemic-stablecoin-issuers",
-      "published_utc": "2026-06-30T08:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
