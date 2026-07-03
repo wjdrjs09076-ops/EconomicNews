@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-03T12:21:35+00:00",
+  "generated_at_utc": "2026-07-03T14:34:26+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -43,9 +43,9 @@
       ]
     },
     {
-      "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 17 March 2026",
+      "title": "Minutes of the London FXJSC Main Committee Meeting – 26 March 2026",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-legal-sub-committee-meeting-17-march-2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-main-committee-meeting-26-march-2026",
       "published_utc": "2026-07-02T09:26:00+00:00",
       "categories": [
         "fx",
@@ -54,9 +54,9 @@
       ]
     },
     {
-      "title": "Minutes of the London FXJSC Main Committee Meeting – 26 March 2026",
+      "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 17 March 2026",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-main-committee-meeting-26-march-2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-legal-sub-committee-meeting-17-march-2026",
       "published_utc": "2026-07-02T09:26:00+00:00",
       "categories": [
         "fx",
@@ -101,26 +101,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm",
       "published_utc": "2026-07-01T18:30:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Agencies release list of distressed or underserved nonmetropolitan middle-income geographies",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260630a.htm",
-      "published_utc": "2026-06-30T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Consolidated balance sheet - 31 March 2025",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/weekly-report/2025/consolidated-balance-sheet-31-march-2025",
-      "published_utc": "2026-06-30T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
