@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-05T14:26:54+00:00",
+  "generated_at_utc": "2026-07-05T15:44:10+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -7,16 +7,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/june-2026",
       "published_utc": "2026-07-03T08:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board issues enforcement action with Small Business Bank and announces termination enforcement actions with BNP Paribas S.A., BNP Paribas USA, Inc., BNP Paribas Securities Corp., and Community Bankshares, Inc.",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
-      "published_utc": "2026-07-02T15:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
