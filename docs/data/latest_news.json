@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-05T12:57:11+00:00",
+  "generated_at_utc": "2026-07-05T14:26:54+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -17,26 +17,6 @@
       "source": "Federal Reserve",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
       "published_utc": "2026-07-02T15:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England Weekly Report 1 July 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/1-july-2026",
-      "published_utc": "2026-07-02T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Mixed signals, research findings, and policy judgements − speech by Catherine L. Mann",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/july/catherine-l-mann-fireside-chat-at-the-natixis-cib-conference-on-private-debt",
-      "published_utc": "2026-07-02T14:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
