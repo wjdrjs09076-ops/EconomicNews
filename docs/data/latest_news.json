@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-05T08:10:38+00:00",
+  "generated_at_utc": "2026-07-05T10:25:16+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -37,59 +37,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/speech/2026/july/catherine-l-mann-fireside-chat-at-the-natixis-cib-conference-on-private-debt",
       "published_utc": "2026-07-02T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the London FXJSC Main Committee Meeting – 26 March 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-main-committee-meeting-26-march-2026",
-      "published_utc": "2026-07-02T09:26:00+00:00",
-      "categories": [
-        "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 17 March 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-legal-sub-committee-meeting-17-march-2026",
-      "published_utc": "2026-07-02T09:26:00+00:00",
-      "categories": [
-        "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 18 March 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/march/fxjsc-operations-sub-committee-meeting-18-march-2026",
-      "published_utc": "2026-07-02T08:48:44+00:00",
-      "categories": [
-        "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank Liabilities Survey - 2026 Q2",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/bank-liabilities-survey/2026/2026-q2",
-      "published_utc": "2026-07-02T08:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Credit Conditions Survey - 2026 Q2",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-q2",
-      "published_utc": "2026-07-02T08:30:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
