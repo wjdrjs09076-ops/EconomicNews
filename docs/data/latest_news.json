@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-07-06T05:40:42+00:00",
+  "generated_at_utc": "2026-07-06T09:40:23+00:00",
   "lookback_hours": 72,
   "items": [
     {
-      "title": "Monthly Decision Maker Panel data - June 2026",
+      "title": "Bank of England appoints Rhys Phillips as the new Chief Cashier",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/june-2026",
-      "published_utc": "2026-07-03T08:30:00+00:00",
+      "link": "https://www.bankofengland.co.uk/news/2026/july/boe-appoints-rhys-phillips-as-the-new-chief-cashier",
+      "published_utc": "2026-07-06T09:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
