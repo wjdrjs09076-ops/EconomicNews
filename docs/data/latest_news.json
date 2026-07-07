@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-07-07T18:10:43+00:00",
+  "generated_at_utc": "2026-07-07T20:10:50+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
+      "published_utc": "2026-07-07T19:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Financial Policy Committee Record – July 2026",
       "source": "Bank of England",
