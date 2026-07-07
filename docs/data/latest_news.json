@@ -1,7 +1,37 @@
 {
-  "generated_at_utc": "2026-07-07T08:48:07+00:00",
+  "generated_at_utc": "2026-07-07T11:31:51+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Financial Policy Committee Record – July 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/july-2026",
+      "published_utc": "2026-07-07T09:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Financial Stability Report - July 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/financial-stability-report/2026/july-2026",
+      "published_utc": "2026-07-07T09:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Financial Stability in Focus: The bank capital framework",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/financial-stability-in-focus/2026/fsif-the-bank-capital-framework",
+      "published_utc": "2026-07-07T09:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England appoints Rhys Phillips as the new Chief Cashier",
       "source": "Bank of England",
