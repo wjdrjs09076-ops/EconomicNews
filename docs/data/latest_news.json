@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-07-08T09:11:51+00:00",
+  "generated_at_utc": "2026-07-08T11:14:55+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Statistical Notice 2026/07 - Bank of England Levy: Notification Document Levy Year 2026/27",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-07",
+      "published_utc": "2026-07-08T10:09:46+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "The Bank of England’s fees regime for financial market infrastructure supervision for CCPs and CSDs 2026/27",
       "source": "Bank of England",
