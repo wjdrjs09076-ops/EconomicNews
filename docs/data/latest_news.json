@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-07-08T16:43:37+00:00",
+  "generated_at_utc": "2026-07-08T18:05:43+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
+      "published_utc": "2026-07-08T18:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the UK Money Markets Code Sub-Committee – June 2026",
       "source": "Bank of England",
