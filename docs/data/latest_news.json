@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-07-08T15:01:48+00:00",
+  "generated_at_utc": "2026-07-08T16:43:37+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes of the UK Money Markets Code Sub-Committee – June 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/june/money-markets-committee-minutes-june-2026",
+      "published_utc": "2026-07-08T14:52:13+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Statistical Notice 2026/07 - Bank of England Levy: Notification Document Levy Year 2026/27",
       "source": "Bank of England",
