@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-07-08T06:41:36+00:00",
+  "generated_at_utc": "2026-07-08T09:11:51+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "The Bank of England’s fees regime for financial market infrastructure supervision for CCPs and CSDs 2026/27",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-fees-regime-for-fmi-supervision-for-ccps-and-csds-2026-27",
+      "published_utc": "2026-07-08T09:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
       "source": "Federal Reserve",
