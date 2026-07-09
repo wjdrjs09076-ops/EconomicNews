@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-07-09T14:05:23+00:00",
+  "generated_at_utc": "2026-07-09T16:33:42+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board issues enforcement action with TS Banking Group, Inc. and TS Contrarian Bancshares, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm",
+      "published_utc": "2026-07-09T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England Weekly Report 8 July 2026",
       "source": "Bank of England",
