@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-09T21:39:29+00:00",
+  "generated_at_utc": "2026-07-09T22:52:39+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -102,9 +102,9 @@
       ]
     },
     {
-      "title": "Financial Stability Report - July 2026",
+      "title": "Financial Stability in Focus: The bank capital framework",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/financial-stability-report/2026/july-2026",
+      "link": "https://www.bankofengland.co.uk/financial-stability-in-focus/2026/fsif-the-bank-capital-framework",
       "published_utc": "2026-07-07T09:30:00+00:00",
       "categories": [
         "financial_stability",
@@ -112,9 +112,9 @@
       ]
     },
     {
-      "title": "Financial Stability in Focus: The bank capital framework",
+      "title": "Financial Stability Report - July 2026",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/financial-stability-in-focus/2026/fsif-the-bank-capital-framework",
+      "link": "https://www.bankofengland.co.uk/financial-stability-report/2026/july-2026",
       "published_utc": "2026-07-07T09:30:00+00:00",
       "categories": [
         "financial_stability",
