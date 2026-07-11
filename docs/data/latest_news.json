@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-11T12:31:20+00:00",
+  "generated_at_utc": "2026-07-11T14:01:31+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -76,16 +76,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/minutes/2026/june/money-markets-committee-minutes-june-2026",
       "published_utc": "2026-07-08T14:52:13+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Letter from the Governor to Joe Powell MP",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/letter/2026/letter-from-the-governor-to-joe-powell",
-      "published_utc": "2026-07-08T14:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
