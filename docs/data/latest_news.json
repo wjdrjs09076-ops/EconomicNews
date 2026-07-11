@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-11T14:01:31+00:00",
+  "generated_at_utc": "2026-07-11T14:59:34+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -68,16 +68,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
       "published_utc": "2026-07-08T18:00:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the UK Money Markets Code Sub-Committee – June 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/june/money-markets-committee-minutes-june-2026",
-      "published_utc": "2026-07-08T14:52:13+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
