@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-12T14:43:40+00:00",
+  "generated_at_utc": "2026-07-12T15:40:59+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -39,16 +39,6 @@
       "published_utc": "2026-07-09T19:00:00+00:00",
       "categories": [
         "rates",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board issues enforcement action with TS Banking Group, Inc. and TS Contrarian Bancshares, Inc.",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm",
-      "published_utc": "2026-07-09T15:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
