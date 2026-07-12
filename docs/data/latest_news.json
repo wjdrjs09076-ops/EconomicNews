@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-12T18:30:06+00:00",
+  "generated_at_utc": "2026-07-12T19:38:41+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -29,16 +29,6 @@
       "published_utc": "2026-07-10T09:15:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-      "published_utc": "2026-07-09T19:00:00+00:00",
-      "categories": [
-        "rates",
         "institutions"
       ]
     }
