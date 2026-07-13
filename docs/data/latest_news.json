@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-13T07:56:53+00:00",
+  "generated_at_utc": "2026-07-13T10:52:34+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -17,16 +17,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/working-paper/2026/central-bank-communications-that-reach-the-public",
       "published_utc": "2026-07-10T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "UK financial regulators to begin overseeing Critical Third Parties announced by HM Treasury",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/july/uk-financial-regulators-to-begin-overseeing-critical-third-parties-announced-by-hmt",
-      "published_utc": "2026-07-10T09:15:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
