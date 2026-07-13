@@ -1,5 +1,16 @@
 {
-  "generated_at_utc": "2026-07-13T13:09:31+00:00",
+  "generated_at_utc": "2026-07-13T15:49:16+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Testing times require time for testing − speech by Ruth Smith",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/july/ruth-smith-speech-at-uk-finance",
+      "published_utc": "2026-07-13T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    }
+  ]
 }
