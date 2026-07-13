@@ -1,26 +1,5 @@
 {
-  "generated_at_utc": "2026-07-13T10:52:34+00:00",
+  "generated_at_utc": "2026-07-13T13:09:31+00:00",
   "lookback_hours": 72,
-  "items": [
-    {
-      "title": "SoS! The overnight bilateral liquidity provision of non-bank financial institutions to banks",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/sos-the-overnight-bilateral-liquidity-provision-of-non-bank-financial-institutions-to-banks",
-      "published_utc": "2026-07-10T13:01:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Central bank communications that reach the public",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/central-bank-communications-that-reach-the-public",
-      "published_utc": "2026-07-10T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    }
-  ]
+  "items": []
 }
