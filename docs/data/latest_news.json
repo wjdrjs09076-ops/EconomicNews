@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-07-14T17:50:26+00:00",
+  "generated_at_utc": "2026-07-14T18:51:34+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260714a.htm",
+      "published_utc": "2026-07-14T18:00:00+00:00",
+      "categories": [
+        "rates",
+        "institutions"
+      ]
+    },
     {
       "title": "PRA and FCA propose new captive insurance regime to drive UK growth and competitiveness",
       "source": "Bank of England",
