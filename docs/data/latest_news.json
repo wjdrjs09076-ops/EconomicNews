@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-14T07:27:15+00:00",
+  "generated_at_utc": "2026-07-14T09:22:20+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -7,6 +7,16 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/speech/2026/july/ruth-smith-speech-at-uk-finance",
       "published_utc": "2026-07-13T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Minutes of the Money Market Committee meeting – June 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/june/money-markets-committee-minutes-june-2026",
+      "published_utc": "2026-07-13T12:32:45+00:00",
       "categories": [
         "financial_stability",
         "institutions"
