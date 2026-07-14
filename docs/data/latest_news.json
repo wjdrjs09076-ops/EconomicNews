@@ -1,7 +1,18 @@
 {
-  "generated_at_utc": "2026-07-14T20:00:05+00:00",
+  "generated_at_utc": "2026-07-14T21:01:23+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Growth and regulation - speech by Andrew Bailey",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/july/andrew-bailey-speech-at-manison-house",
+      "published_utc": "2026-07-14T20:00:00+00:00",
+      "categories": [
+        "growth",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the Board's discount rate meetings on June 8 and June 17, 2026",
       "source": "Federal Reserve",
