@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-07-15T07:22:31+00:00",
+  "generated_at_utc": "2026-07-15T09:24:07+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "The role of research in Prudential Regulation − speech by David Bailey",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/july/david-bailey-speech-at-the-international-finance-and-banking-society-conference",
+      "published_utc": "2026-07-15T09:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Growth and regulation - speech by Andrew Bailey",
       "source": "Bank of England",
