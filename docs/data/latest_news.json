@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-07-16T13:24:51+00:00",
+  "generated_at_utc": "2026-07-16T15:15:21+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
+      "published_utc": "2026-07-16T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank of England Weekly Report 15 July 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/15-july-2026",
+      "published_utc": "2026-07-16T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "The role of research in Prudential Regulation − speech by David Bailey",
       "source": "Bank of England",
@@ -40,16 +60,6 @@
       "published_utc": "2026-07-14T14:00:00+00:00",
       "categories": [
         "growth",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Testing times require time for testing − speech by Ruth Smith",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/july/ruth-smith-speech-at-uk-finance",
-      "published_utc": "2026-07-13T15:00:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
