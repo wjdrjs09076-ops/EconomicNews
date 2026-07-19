@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-19T17:10:11+00:00",
+  "generated_at_utc": "2026-07-19T18:05:17+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -28,16 +28,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/working-paper/2026/anchors-aweigh-the-effect-of-communicating-forecast-uncertainty",
       "published_utc": "2026-07-17T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Agencies issue joint statement on handling of highly sensitive information during bank examinations",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260716a.htm",
-      "published_utc": "2026-07-16T18:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
