@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2026-07-20T08:29:07+00:00",
+  "generated_at_utc": "2026-07-20T11:21:32+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "PRA fines HDI Global SE £4,165,000 for inaccurate reporting of FSCS Liabilities and FSCS Fee Tariff data",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/july/pra-fines-hdi-global-se-4165000-for-inaccurate-reporting",
+      "published_utc": "2026-07-20T09:00:00+00:00",
+      "categories": [
+        "rates",
+        "trade",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "A flexible deviation from FIRE in the sequence space",
       "source": "Bank of England",
