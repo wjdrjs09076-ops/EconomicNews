@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-20T11:21:32+00:00",
+  "generated_at_utc": "2026-07-20T13:20:03+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -10,37 +10,6 @@
       "categories": [
         "rates",
         "trade",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "A flexible deviation from FIRE in the sequence space",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/a-flexible-deviation-from-fire-in-the-sequence-space",
-      "published_utc": "2026-07-17T13:01:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Inflation thresholds and oil shock transmission in the UK: a self-exciting threshold VAR approach",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/macro-technical-paper/2026/inflation-thresholds-and-oil-shock-transmission-in-the-uk",
-      "published_utc": "2026-07-17T13:00:00+00:00",
-      "categories": [
-        "inflation",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Anchors aweigh? The effect of communicating forecast uncertainty",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/anchors-aweigh-the-effect-of-communicating-forecast-uncertainty",
-      "published_utc": "2026-07-17T13:00:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
