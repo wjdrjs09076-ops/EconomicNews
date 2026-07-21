@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-07-21T08:43:53+00:00",
+  "generated_at_utc": "2026-07-21T10:48:36+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "It’s all about the role of money - speech by Nathanaël Benjamin",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/july/nathanael-benjamin-speech-at-omfif",
+      "published_utc": "2026-07-21T10:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "PRA fines HDI Global SE £4,165,000 for inaccurate reporting of FSCS Liabilities and FSCS Fee Tariff data",
       "source": "Bank of England",
