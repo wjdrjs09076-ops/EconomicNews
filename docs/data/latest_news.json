@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-07-24T12:04:11+00:00",
+  "generated_at_utc": "2026-07-24T14:04:03+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital buffer using a parsimonious agent-based framework",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects",
+      "published_utc": "2026-07-24T13:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Agents' summary of business conditions - July 2026",
       "source": "Bank of England",
