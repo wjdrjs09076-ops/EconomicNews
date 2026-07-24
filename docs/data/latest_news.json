@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-07-24T06:11:04+00:00",
+  "generated_at_utc": "2026-07-24T08:39:28+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Agents' summary of business conditions - July 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/agents-summary/2026/july-2026",
+      "published_utc": "2026-07-24T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Monthly Decision Maker Panel data - July 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/july-2026",
+      "published_utc": "2026-07-24T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Letter from the Governor to the Daily Mail",
       "source": "Bank of England",
