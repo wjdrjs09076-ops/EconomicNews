@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-26T15:20:03+00:00",
+  "generated_at_utc": "2026-07-26T16:16:30+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -27,16 +27,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/july-2026",
       "published_utc": "2026-07-24T08:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Letter from the Governor to the Daily Mail",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/letter/2026/letter-from-the-governor-to-the-daily-mail",
-      "published_utc": "2026-07-23T16:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
