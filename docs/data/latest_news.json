@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-27T08:15:12+00:00",
+  "generated_at_utc": "2026-07-27T11:39:34+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -7,26 +7,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects",
       "published_utc": "2026-07-24T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Agents' summary of business conditions - July 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/agents-summary/2026/july-2026",
-      "published_utc": "2026-07-24T08:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Monthly Decision Maker Panel data - July 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/july-2026",
-      "published_utc": "2026-07-24T08:30:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
