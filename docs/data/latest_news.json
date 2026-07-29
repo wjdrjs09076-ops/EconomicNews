@@ -1,5 +1,15 @@
 {
-  "generated_at_utc": "2026-07-29T17:53:56+00:00",
+  "generated_at_utc": "2026-07-29T18:44:54+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "published_utc": "2026-07-29T18:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    }
+  ]
 }
