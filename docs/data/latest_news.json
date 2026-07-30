@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-07-30T12:13:29+00:00",
+  "generated_at_utc": "2026-07-30T14:30:26+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England Weekly Report 29 July 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/29-july-2026",
+      "published_utc": "2026-07-30T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Minutes of the Meeting of the Court of Directors held on 4 June 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-4-june-2026",
+      "published_utc": "2026-07-30T13:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes",
       "source": "Bank of England",
