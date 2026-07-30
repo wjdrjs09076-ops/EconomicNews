@@ -1,7 +1,29 @@
 {
-  "generated_at_utc": "2026-07-30T10:38:08+00:00",
+  "generated_at_utc": "2026-07-30T12:13:29+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026",
+      "published_utc": "2026-07-30T11:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Monetary Policy Report - July 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-report/2026/july-2026",
+      "published_utc": "2026-07-30T11:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve issues FOMC statement",
       "source": "Federal Reserve",
