@@ -1,7 +1,28 @@
 {
-  "generated_at_utc": "2026-07-31T12:04:42+00:00",
+  "generated_at_utc": "2026-07-31T14:27:52+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
+      "published_utc": "2026-07-31T14:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
+      "published_utc": "2026-07-31T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Market Participants Survey results - July 2026",
       "source": "Bank of England",
@@ -13,9 +34,9 @@
       ]
     },
     {
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
       "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
       "published_utc": "2026-07-30T15:00:00+00:00",
       "categories": [
         "financial_stability",
@@ -23,9 +44,9 @@
       ]
     },
     {
-      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
       "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
       "published_utc": "2026-07-30T15:00:00+00:00",
       "categories": [
         "financial_stability",
