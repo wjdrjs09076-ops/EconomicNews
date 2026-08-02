@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-02T10:17:58+00:00",
+  "generated_at_utc": "2026-08-02T11:35:38+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -69,28 +69,6 @@
       "link": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-4-june-2026",
       "published_utc": "2026-07-30T13:00:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026",
-      "published_utc": "2026-07-30T11:00:00+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Monetary Policy Report - July 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-report/2026/july-2026",
-      "published_utc": "2026-07-30T11:00:00+00:00",
-      "categories": [
-        "rates",
         "financial_stability",
         "institutions"
       ]
