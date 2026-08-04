@@ -1,7 +1,34 @@
 {
-  "generated_at_utc": "2026-08-04T20:14:47+00:00",
+  "generated_at_utc": "2026-08-04T21:35:26+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
+      "published_utc": "2026-08-04T20:30:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
+      "published_utc": "2026-08-04T20:30:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
+      "published_utc": "2026-08-04T20:30:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Asset Purchase Facility Quarterly Report - 2026 Q2",
       "source": "Bank of England",
