@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-08-04T09:28:59+00:00",
+  "generated_at_utc": "2026-08-04T11:38:32+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Asset Purchase Facility Quarterly Report - 2026 Q2",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2",
+      "published_utc": "2026-08-04T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)",
       "source": "Bank of England",
