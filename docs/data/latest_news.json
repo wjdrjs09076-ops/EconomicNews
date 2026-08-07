@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-07T20:07:54+00:00",
+  "generated_at_utc": "2026-08-07T20:53:22+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -29,33 +29,6 @@
       "published_utc": "2026-08-05T10:51:26+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
-      "published_utc": "2026-08-04T20:30:00+00:00",
-      "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
-      "published_utc": "2026-08-04T20:30:00+00:00",
-      "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
-      "published_utc": "2026-08-04T20:30:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
