@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-07T10:28:37+00:00",
+  "generated_at_utc": "2026-08-07T11:20:31+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -56,16 +56,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
       "published_utc": "2026-08-04T20:30:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Asset Purchase Facility Quarterly Report - 2026 Q2",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q2",
-      "published_utc": "2026-08-04T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
