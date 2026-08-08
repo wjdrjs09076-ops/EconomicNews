@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-08T10:50:20+00:00",
+  "generated_at_utc": "2026-08-08T11:13:27+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -17,16 +17,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-02",
       "published_utc": "2026-08-06T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Artificial Intelligence Consortium minutes – June 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/june/ai-consortium-minutes-3-june-2026",
-      "published_utc": "2026-08-05T10:51:26+00:00",
       "categories": [
         "financial_stability",
         "institutions"
