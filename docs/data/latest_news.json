@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-09T10:43:11+00:00",
+  "generated_at_utc": "2026-08-09T11:05:46+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -7,16 +7,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/5-august-2026",
       "published_utc": "2026-08-06T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Green notice 2026/02",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/green-notice-2026-02",
-      "published_utc": "2026-08-06T11:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
