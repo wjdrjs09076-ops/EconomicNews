@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-16T14:55:17+00:00",
+  "generated_at_utc": "2026-08-16T15:09:35+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -7,16 +7,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/working-paper/2026/outsourcing-and-competition-in-the-banking-sector-the-rise-of-csps",
       "published_utc": "2026-08-14T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
-      "published_utc": "2026-08-13T15:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
