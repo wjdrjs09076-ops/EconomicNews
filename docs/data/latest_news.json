@@ -1,16 +1,5 @@
 {
-  "generated_at_utc": "2026-08-17T12:56:12+00:00",
+  "generated_at_utc": "2026-08-17T13:32:33+00:00",
   "lookback_hours": 72,
-  "items": [
-    {
-      "title": "Outsourcing and competition in the banking sector: the rise of Cloud Service Providers",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/outsourcing-and-competition-in-the-banking-sector-the-rise-of-csps",
-      "published_utc": "2026-08-14T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    }
-  ]
+  "items": []
 }
