@@ -1,5 +1,15 @@
 {
-  "generated_at_utc": "2026-08-19T17:51:48+00:00",
+  "generated_at_utc": "2026-08-19T18:12:01+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+      "published_utc": "2026-08-19T18:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    }
+  ]
 }
