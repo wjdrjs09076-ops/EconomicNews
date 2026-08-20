@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-08-20T13:56:43+00:00",
+  "generated_at_utc": "2026-08-20T14:26:56+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England Weekly Report 19 August 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/19-august-2026",
+      "published_utc": "2026-08-20T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
       "source": "Federal Reserve",
