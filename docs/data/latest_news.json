@@ -1,7 +1,28 @@
 {
-  "generated_at_utc": "2026-08-21T12:16:23+00:00",
+  "generated_at_utc": "2026-08-21T13:11:30+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Productivity and inflation dynamics",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/productivity-and-inflation-dynamics",
+      "published_utc": "2026-08-21T13:01:00+00:00",
+      "categories": [
+        "inflation",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Capital gains taxation and asset price volatility",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/capital-gains-taxation-and-asset-price-volatility",
+      "published_utc": "2026-08-21T13:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
       "source": "Federal Reserve",
