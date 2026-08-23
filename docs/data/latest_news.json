@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-23T19:56:32+00:00",
+  "generated_at_utc": "2026-08-23T20:12:34+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -18,16 +18,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/working-paper/2026/capital-gains-taxation-and-asset-price-volatility",
       "published_utc": "2026-08-21T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
-      "published_utc": "2026-08-20T20:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
