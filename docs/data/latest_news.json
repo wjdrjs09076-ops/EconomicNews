@@ -1,27 +1,5 @@
 {
-  "generated_at_utc": "2026-08-24T12:34:33+00:00",
+  "generated_at_utc": "2026-08-24T13:32:16+00:00",
   "lookback_hours": 72,
-  "items": [
-    {
-      "title": "Productivity and inflation dynamics",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/productivity-and-inflation-dynamics",
-      "published_utc": "2026-08-21T13:01:00+00:00",
-      "categories": [
-        "inflation",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Capital gains taxation and asset price volatility",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/capital-gains-taxation-and-asset-price-volatility",
-      "published_utc": "2026-08-21T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    }
-  ]
+  "items": []
 }
