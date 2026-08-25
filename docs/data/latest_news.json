@@ -1,5 +1,16 @@
 {
-  "generated_at_utc": "2026-08-25T17:58:57+00:00",
+  "generated_at_utc": "2026-08-25T18:36:34+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+      "published_utc": "2026-08-25T18:00:00+00:00",
+      "categories": [
+        "rates",
+        "institutions"
+      ]
+    }
+  ]
 }
