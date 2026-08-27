@@ -1,7 +1,36 @@
 {
-  "generated_at_utc": "2026-08-27T04:37:43+00:00",
+  "generated_at_utc": "2026-08-27T15:27:51+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+      "published_utc": "2026-08-27T15:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank of England Weekly Report 26 August 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/26-august-2026",
+      "published_utc": "2026-08-27T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Delay to the November 2026 RTGS standards release",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/august/delay-to-the-november-2026-rtgs-standards-release",
+      "published_utc": "2026-08-27T13:16:29+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
       "source": "Federal Reserve",
