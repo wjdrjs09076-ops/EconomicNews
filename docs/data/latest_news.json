@@ -1,7 +1,38 @@
 {
-  "generated_at_utc": "2026-08-28T11:38:17+00:00",
+  "generated_at_utc": "2026-08-28T21:30:28+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "How do firms cope with economic shocks in real time?",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/how-do-firms-cope-with-economic-shocks-in-real-time",
+      "published_utc": "2026-08-28T13:02:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Locking in the rate or staying flexible? Mortgage refinancing around an interest rate shock",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/locking-in-the-rate-or-staying-flexible-mortgage-refinancing-around-an-interest-rate-shock",
+      "published_utc": "2026-08-28T13:01:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "A welfare analysis of the central bank balance sheet",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/a-welfare-analysis-of-the-central-bank-balance-sheet",
+      "published_utc": "2026-08-28T13:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
       "source": "Federal Reserve",
@@ -28,16 +59,6 @@
       "published_utc": "2026-08-27T13:16:29+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
-      "published_utc": "2026-08-25T18:00:00+00:00",
-      "categories": [
-        "rates",
         "institutions"
       ]
     }
