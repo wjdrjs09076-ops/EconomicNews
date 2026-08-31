@@ -1,37 +1,5 @@
 {
-  "generated_at_utc": "2026-08-31T07:32:41+00:00",
+  "generated_at_utc": "2026-08-31T15:19:13+00:00",
   "lookback_hours": 72,
-  "items": [
-    {
-      "title": "How do firms cope with economic shocks in real time?",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/how-do-firms-cope-with-economic-shocks-in-real-time",
-      "published_utc": "2026-08-28T13:02:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Locking in the rate or staying flexible? Mortgage refinancing around an interest rate shock",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/locking-in-the-rate-or-staying-flexible-mortgage-refinancing-around-an-interest-rate-shock",
-      "published_utc": "2026-08-28T13:01:00+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "A welfare analysis of the central bank balance sheet",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/a-welfare-analysis-of-the-central-bank-balance-sheet",
-      "published_utc": "2026-08-28T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    }
-  ]
+  "items": []
 }
