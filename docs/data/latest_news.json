@@ -1,5 +1,16 @@
 {
-  "generated_at_utc": "2026-09-02T09:07:04+00:00",
+  "generated_at_utc": "2026-09-02T13:34:14+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Frontier AI: Harness engineering",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/research/fintech/frontier-ai-information-sharing-forum/frontier-ai-harness-engineering",
+      "published_utc": "2026-09-02T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    }
+  ]
 }
