@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-09-03T11:25:52+00:00",
+  "generated_at_utc": "2026-09-03T15:04:03+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Homophones – Remarks by Huw Pill",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/september/remarks-at-the-edinburgh-chamber-of-commerce",
+      "published_utc": "2026-09-03T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank of England Weekly Report 2 September 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/2-september-2026",
+      "published_utc": "2026-09-03T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Frontier AI: Harness engineering",
       "source": "Bank of England",
