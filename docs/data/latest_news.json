@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-09-04T05:38:43+00:00",
+  "generated_at_utc": "2026-09-04T09:54:41+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "The institutional form of independent central banks: from history to contemporary challenges - speech by Andrew Bailey",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/september/andrew-bailey-keynote-speech-at-lse-trium-anniversary-conference",
+      "published_utc": "2026-09-04T08:50:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Monthly Decision Maker Panel data - August 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/august-2026",
+      "published_utc": "2026-09-04T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Homophones – Remarks by Huw Pill",
       "source": "Bank of England",
