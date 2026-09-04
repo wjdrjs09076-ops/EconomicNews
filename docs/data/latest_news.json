@@ -1,7 +1,28 @@
 {
-  "generated_at_utc": "2026-09-04T09:54:41+00:00",
+  "generated_at_utc": "2026-09-04T13:49:33+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Macroeconomic dynamics of the output floor",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/macroeconomic-dynamics-of-the-output-floor",
+      "published_utc": "2026-09-04T13:01:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Innovation, financial frictions, and persistent effects of monetary policy",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/innovation-financial-frictions-and-persistent-effects-of-monetary-policy",
+      "published_utc": "2026-09-04T13:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "The institutional form of independent central banks: from history to contemporary challenges - speech by Andrew Bailey",
       "source": "Bank of England",
