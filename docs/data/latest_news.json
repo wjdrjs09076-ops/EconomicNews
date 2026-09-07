@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-07T05:17:44+00:00",
+  "generated_at_utc": "2026-09-07T10:24:30+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -29,26 +29,6 @@
       "published_utc": "2026-09-04T13:00:00+00:00",
       "categories": [
         "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The institutional form of independent central banks: from history to contemporary challenges - speech by Andrew Bailey",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/september/andrew-bailey-keynote-speech-at-lse-trium-anniversary-conference",
-      "published_utc": "2026-09-04T08:50:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Monthly Decision Maker Panel data - August 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/august-2026",
-      "published_utc": "2026-09-04T08:30:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
