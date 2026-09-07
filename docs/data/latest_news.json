@@ -1,37 +1,5 @@
 {
-  "generated_at_utc": "2026-09-07T10:24:30+00:00",
+  "generated_at_utc": "2026-09-07T15:56:06+00:00",
   "lookback_hours": 72,
-  "items": [
-    {
-      "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
-      "published_utc": "2026-09-04T15:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Macroeconomic dynamics of the output floor",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/macroeconomic-dynamics-of-the-output-floor",
-      "published_utc": "2026-09-04T13:01:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Innovation, financial frictions, and persistent effects of monetary policy",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/innovation-financial-frictions-and-persistent-effects-of-monetary-policy",
-      "published_utc": "2026-09-04T13:00:00+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    }
-  ]
+  "items": []
 }
