@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-13T04:59:09+00:00",
+  "generated_at_utc": "2026-09-13T10:00:33+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -48,16 +48,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/9-september-2026",
       "published_utc": "2026-09-10T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Announcement of the publication of the Governor's interview transcript",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/september/statement-announcing-governors-interview",
-      "published_utc": "2026-09-10T09:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
