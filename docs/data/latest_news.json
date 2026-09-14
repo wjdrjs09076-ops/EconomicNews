@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-14T06:23:05+00:00",
+  "generated_at_utc": "2026-09-14T13:02:58+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -8,27 +8,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
       "published_utc": "2026-09-11T14:00:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Agents' summary of business conditions - September 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/agents-summary/2026/september-2026",
-      "published_utc": "2026-09-11T08:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England/Savanta Inflation Attitudes Survey - August 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/inflation-attitudes-survey/2026/august-2026",
-      "published_utc": "2026-09-11T08:30:00+00:00",
-      "categories": [
-        "inflation",
         "financial_stability",
         "institutions"
       ]
