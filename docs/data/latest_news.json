@@ -1,5 +1,16 @@
 {
-  "generated_at_utc": "2026-09-15T04:48:00+00:00",
+  "generated_at_utc": "2026-09-15T09:37:10+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Minutes of the Securities Lending Committee meeting – March 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/march/minutes-of-the-securities-lending-committee-meeting-march-2026",
+      "published_utc": "2026-09-15T08:09:58+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    }
+  ]
 }
