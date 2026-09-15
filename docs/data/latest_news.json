@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-09-15T09:37:10+00:00",
+  "generated_at_utc": "2026-09-15T14:25:50+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Statistical Notice 2026/08 - Changes to the criteria for monthly form BT reporting",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-08",
+      "published_utc": "2026-09-15T09:21:31+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the Securities Lending Committee meeting – March 2026",
       "source": "Bank of England",
