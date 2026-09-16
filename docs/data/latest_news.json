@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-09-16T12:00:07+00:00",
+  "generated_at_utc": "2026-09-16T16:21:36+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Chancellor announces Bank of England appointments",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments",
+      "published_utc": "2026-09-16T14:03:08+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Money and power: lessons from history for stablecoins and US dollar dominance – speech by Carolyn Wilkins",
       "source": "Bank of England",
