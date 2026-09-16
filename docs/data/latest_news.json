@@ -1,7 +1,25 @@
 {
-  "generated_at_utc": "2026-09-16T16:21:36+00:00",
+  "generated_at_utc": "2026-09-16T19:36:00+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "published_utc": "2026-09-16T18:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+      "published_utc": "2026-09-16T18:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Chancellor announces Bank of England appointments",
       "source": "Bank of England",
