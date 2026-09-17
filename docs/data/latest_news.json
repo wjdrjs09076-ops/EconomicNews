@@ -1,7 +1,80 @@
 {
-  "generated_at_utc": "2026-09-17T10:00:02+00:00",
+  "generated_at_utc": "2026-09-17T14:44:01+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England Weekly Report 16 September 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/16-september-2026",
+      "published_utc": "2026-09-17T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Transcript of the Governor's pooled broadcast interview given on 17 September 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/september/the-governor-interview-transcript-17-september-2026",
+      "published_utc": "2026-09-17T13:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Monetary Policy Committee dates for 2027",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027",
+      "published_utc": "2026-09-17T13:30:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
+      "published_utc": "2026-09-17T11:00:00+00:00",
+      "categories": [
+        "inflation",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding QT and the APF - September 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
+      "published_utc": "2026-09-17T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "published_utc": "2026-09-17T11:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
+      "published_utc": "2026-09-17T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve issues FOMC statement",
       "source": "Federal Reserve",
