@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-09-18T14:56:49+00:00",
+  "generated_at_utc": "2026-09-18T17:59:09+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+      "published_utc": "2026-09-18T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+      "published_utc": "2026-09-18T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "One dollar, many prices: dealer-specific pricing of synthetic dollar funding",
       "source": "Bank of England",
@@ -67,17 +87,6 @@
       ]
     },
     {
-      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
-      "published_utc": "2026-09-17T11:00:00+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
@@ -109,6 +118,17 @@
       ]
     },
     {
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "published_utc": "2026-09-17T11:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
       "title": "Federal Reserve issues FOMC statement",
       "source": "Federal Reserve",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
@@ -132,17 +152,6 @@
       "link": "https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments",
       "published_utc": "2026-09-16T14:03:08+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Money and power: lessons from history for stablecoins and US dollar dominance – speech by Carolyn Wilkins",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/september/carolyn-wilkins-speech-at-queens-university-belfast",
-      "published_utc": "2026-09-15T15:00:00+00:00",
-      "categories": [
-        "fx",
         "financial_stability",
         "institutions"
       ]
