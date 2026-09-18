@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2026-09-18T11:09:54+00:00",
+  "generated_at_utc": "2026-09-18T14:56:49+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "One dollar, many prices: dealer-specific pricing of synthetic dollar funding",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/one-dollar-many-prices-dealer-specific-pricing-of-synthetic-dollar-funding",
+      "published_utc": "2026-09-18T13:00:00+00:00",
+      "categories": [
+        "inflation",
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
       "source": "Bank of England",
@@ -55,6 +67,17 @@
       ]
     },
     {
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "published_utc": "2026-09-17T11:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
@@ -71,17 +94,6 @@
       "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
       "published_utc": "2026-09-17T11:00:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
-      "published_utc": "2026-09-17T11:00:00+00:00",
-      "categories": [
-        "rates",
         "financial_stability",
         "institutions"
       ]
