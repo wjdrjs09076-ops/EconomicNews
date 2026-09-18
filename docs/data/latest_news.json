@@ -1,7 +1,28 @@
 {
-  "generated_at_utc": "2026-09-18T06:11:44+00:00",
+  "generated_at_utc": "2026-09-18T11:09:54+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026",
+      "published_utc": "2026-09-18T11:00:00+00:00",
+      "categories": [
+        "trade",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Market Participants Survey results – September 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-september-2026",
+      "published_utc": "2026-09-18T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England Weekly Report 16 September 2026",
       "source": "Bank of England",
@@ -110,26 +131,6 @@
       "published_utc": "2026-09-15T15:00:00+00:00",
       "categories": [
         "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Statistical Notice 2026/08 - Changes to the criteria for monthly form BT reporting",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-08",
-      "published_utc": "2026-09-15T09:21:31+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the Securities Lending Committee meeting – March 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/march/minutes-of-the-securities-lending-committee-meeting-march-2026",
-      "published_utc": "2026-09-15T08:09:58+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
