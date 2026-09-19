@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-19T16:23:50+00:00",
+  "generated_at_utc": "2026-09-19T18:39:20+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -87,6 +87,17 @@
       ]
     },
     {
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "published_utc": "2026-09-17T11:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
@@ -114,35 +125,6 @@
       "published_utc": "2026-09-17T11:00:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
-      "published_utc": "2026-09-17T11:00:00+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve issues FOMC statement",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-      "published_utc": "2026-09-16T18:00:00+00:00",
-      "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-      "published_utc": "2026-09-16T18:00:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
