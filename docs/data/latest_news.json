@@ -1,7 +1,28 @@
 {
-  "generated_at_utc": "2026-09-21T06:25:47+00:00",
+  "generated_at_utc": "2026-09-21T13:04:12+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England announces new office space in Leeds",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
+      "published_utc": "2026-09-21T12:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
+      "published_utc": "2026-09-21T11:30:00+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
       "source": "Federal Reserve",
@@ -17,39 +38,6 @@
       "source": "Federal Reserve",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
       "published_utc": "2026-09-18T15:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "One dollar, many prices: dealer-specific pricing of synthetic dollar funding",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/one-dollar-many-prices-dealer-specific-pricing-of-synthetic-dollar-funding",
-      "published_utc": "2026-09-18T13:00:00+00:00",
-      "categories": [
-        "inflation",
-        "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026",
-      "published_utc": "2026-09-18T11:00:00+00:00",
-      "categories": [
-        "trade",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Market Participants Survey results – September 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-september-2026",
-      "published_utc": "2026-09-18T11:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
