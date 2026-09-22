@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-09-22T10:08:00+00:00",
+  "generated_at_utc": "2026-09-22T14:46:01+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "The Bank of England’s fees regime for recognised payment systems and specified service providers supervision 2026/27",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/cp/the-boes-fees-regime-for-recognised-payment-systems-and-ssps-supervision-2026-27",
+      "published_utc": "2026-09-22T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England announces new office space in Leeds",
       "source": "Bank of England",
