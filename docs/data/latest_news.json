@@ -1,7 +1,18 @@
 {
-  "generated_at_utc": "2026-09-24T05:26:02+00:00",
+  "generated_at_utc": "2026-09-24T10:16:12+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "The outlook for inflation − speech by Clare Lombardelli",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/september/clare-lombardelli-speech-at-the-sixth-biennial-conference-poland",
+      "published_utc": "2026-09-24T08:00:00+00:00",
+      "categories": [
+        "inflation",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "No bank too big to fail, and none too small to resolve − speech by Ruth Smith",
       "source": "Bank of England",
