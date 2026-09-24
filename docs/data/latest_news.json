@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-09-24T10:16:12+00:00",
+  "generated_at_utc": "2026-09-24T15:08:28+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+      "published_utc": "2026-09-24T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank of England Weekly Report 23 September 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/23-september-2026",
+      "published_utc": "2026-09-24T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "The outlook for inflation − speech by Clare Lombardelli",
       "source": "Bank of England",
@@ -59,27 +79,6 @@
       "link": "https://www.bankofengland.co.uk/paper/2026/cp/the-boes-fees-regime-for-recognised-payment-systems-and-ssps-supervision-2026-27",
       "published_utc": "2026-09-22T11:00:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England announces new office space in Leeds",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
-      "published_utc": "2026-09-21T12:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
-      "published_utc": "2026-09-21T11:30:00+00:00",
-      "categories": [
-        "fx",
         "financial_stability",
         "institutions"
       ]
