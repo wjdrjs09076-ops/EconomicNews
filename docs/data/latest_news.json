@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-25T15:15:14+00:00",
+  "generated_at_utc": "2026-09-25T19:15:09+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -90,17 +90,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
       "published_utc": "2026-09-22T20:30:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Foreign Currency Reserves 2026 – Market Notice 22 September 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-22-september-2026",
-      "published_utc": "2026-09-22T15:30:00+00:00",
-      "categories": [
-        "fx",
-        "financial_stability",
         "institutions"
       ]
     }
