@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-09-25T05:16:34+00:00",
+  "generated_at_utc": "2026-09-25T10:13:27+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes of the Market Participants Group meeting – 24 September 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
+      "published_utc": "2026-09-25T06:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
       "source": "Federal Reserve",
