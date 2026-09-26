@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-26T05:26:36+00:00",
+  "generated_at_utc": "2026-09-26T10:00:59+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -69,16 +69,6 @@
       "published_utc": "2026-09-24T08:00:00+00:00",
       "categories": [
         "inflation",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "No bank too big to fail, and none too small to resolve − speech by Ruth Smith",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/september/ruth-smith-speech-florence-school-of-banking-and-finance-european-university-institute-florence",
-      "published_utc": "2026-09-23T09:00:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
