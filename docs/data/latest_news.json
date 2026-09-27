@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-27T05:52:56+00:00",
+  "generated_at_utc": "2026-09-27T10:50:54+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -58,17 +58,6 @@
       "link": "https://www.bankofengland.co.uk/weekly-report/2026/23-september-2026",
       "published_utc": "2026-09-24T14:00:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The outlook for inflation − speech by Clare Lombardelli",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/september/clare-lombardelli-speech-at-the-sixth-biennial-conference-poland",
-      "published_utc": "2026-09-24T08:00:00+00:00",
-      "categories": [
-        "inflation",
         "financial_stability",
         "institutions"
       ]
