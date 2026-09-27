@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-27T15:21:24+00:00",
+  "generated_at_utc": "2026-09-27T19:02:46+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -30,15 +30,6 @@
       "published_utc": "2026-09-25T06:30:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
-      "published_utc": "2026-09-24T18:30:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
