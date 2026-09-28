@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-28T11:54:56+00:00",
+  "generated_at_utc": "2026-09-28T18:46:32+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -19,18 +19,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
       "published_utc": "2026-09-25T20:30:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Inflation composition and monetary stabilization",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/inflation-composition-and-monetary-stabilization",
-      "published_utc": "2026-09-25T13:00:00+00:00",
-      "categories": [
-        "rates",
-        "inflation",
-        "financial_stability",
         "institutions"
       ]
     }
