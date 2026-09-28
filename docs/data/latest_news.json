@@ -1,7 +1,18 @@
 {
-  "generated_at_utc": "2026-09-28T05:30:54+00:00",
+  "generated_at_utc": "2026-09-28T11:54:56+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Quantitative tightening: the next chapter − speech by Dave Ramsden",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/september/dave-ramsden-speech-on-quantitative-tightening",
+      "published_utc": "2026-09-28T10:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
       "source": "Federal Reserve",
@@ -19,16 +30,6 @@
       "categories": [
         "rates",
         "inflation",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the Market Participants Group meeting – 24 September 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
-      "published_utc": "2026-09-25T06:30:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
