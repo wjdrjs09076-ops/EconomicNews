@@ -1,7 +1,57 @@
 {
-  "generated_at_utc": "2026-10-01T09:06:21+00:00",
+  "generated_at_utc": "2026-10-01T16:19:53+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England Weekly Report 30 September 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/30-september-2026",
+      "published_utc": "2026-10-01T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Scottish and Northern Ireland Banknote Issuance Annual Report 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/banknotes/scottish-and-northern-ireland-banknotes/2026-annual-report",
+      "published_utc": "2026-10-01T13:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "New horizons: the legal and commercial frontier of digital assets − speech by Sasha Mills",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/october/sasha-mills-speech-at-hogan-lovells-and-global-digital-finance-digital-assets-summit",
+      "published_utc": "2026-10-01T13:10:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-16-july-2026",
+      "published_utc": "2026-10-01T13:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Financial conditions: what’s priced in? − speech by Catherine L. Mann",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/october/catherine-mann-nomura-investor-conference",
+      "published_utc": "2026-10-01T12:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "A unique vantage point − speech by Nathanaël Benjamin",
       "source": "Bank of England",
@@ -78,17 +128,6 @@
       "link": "https://www.bankofengland.co.uk/speech/2026/september/searching-for-signposts-speech-by-alan-taylor",
       "published_utc": "2026-09-29T15:30:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Quantitative tightening: the next chapter − speech by Dave Ramsden",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/september/dave-ramsden-speech-on-quantitative-tightening",
-      "published_utc": "2026-09-28T10:00:00+00:00",
-      "categories": [
-        "rates",
         "financial_stability",
         "institutions"
       ]
