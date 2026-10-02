@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-10-02T12:26:19+00:00",
+  "generated_at_utc": "2026-10-02T17:56:21+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+      "published_utc": "2026-10-02T15:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Monthly Decision Maker Panel data - September 2026",
       "source": "Bank of England",
@@ -137,16 +146,6 @@
       "source": "Federal Reserve",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
       "published_utc": "2026-09-29T20:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Searching for signposts − speech by Alan Taylor",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/september/searching-for-signposts-speech-by-alan-taylor",
-      "published_utc": "2026-09-29T15:30:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
