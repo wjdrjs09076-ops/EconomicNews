@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-10-02T06:10:30+00:00",
+  "generated_at_utc": "2026-10-02T12:26:19+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Monthly Decision Maker Panel data - September 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/september-2026",
+      "published_utc": "2026-10-02T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
+      "published_utc": "2026-10-02T08:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England Weekly Report 30 September 2026",
       "source": "Bank of England",
