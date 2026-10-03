@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-03T10:37:50+00:00",
+  "generated_at_utc": "2026-10-03T14:52:43+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -124,16 +124,6 @@
       "source": "BIS",
       "link": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
       "published_utc": "2026-10-01T00:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-      "published_utc": "2026-09-30T13:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
