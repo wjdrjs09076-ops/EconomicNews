@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-03T05:44:15+00:00",
+  "generated_at_utc": "2026-10-03T10:37:50+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -134,26 +134,6 @@
       "source": "Federal Reserve",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
       "published_utc": "2026-09-30T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Financial Policy Committee Record – September 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
-      "published_utc": "2026-09-30T09:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Systemic Risk Survey Results - 2026 H2",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/systemic-risk-survey/2026/2026-h2",
-      "published_utc": "2026-09-30T09:30:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
