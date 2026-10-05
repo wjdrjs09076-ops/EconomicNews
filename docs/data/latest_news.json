@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-10-05T05:43:34+00:00",
+  "generated_at_utc": "2026-10-05T12:39:25+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Basel III applicable in almost all member jurisdictions by 2027",
+      "source": "BIS",
+      "link": "https://www.bis.org/media-releases/20261005-basel-iii-applicable-almost-all-member-jurisdictions-2027",
+      "published_utc": "2026-10-05T00:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
       "source": "Federal Reserve",
@@ -26,26 +35,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
       "published_utc": "2026-10-02T15:00:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Monthly Decision Maker Panel data - September 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/september-2026",
-      "published_utc": "2026-10-02T08:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
-      "published_utc": "2026-10-02T08:00:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
