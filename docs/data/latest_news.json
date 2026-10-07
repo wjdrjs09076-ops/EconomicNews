@@ -1,7 +1,50 @@
 {
-  "generated_at_utc": "2026-10-07T08:55:03+00:00",
+  "generated_at_utc": "2026-10-07T15:51:52+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
+      "published_utc": "2026-10-07T13:36:25+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 16 June 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-operations-sub-committee-meeting-16-june-2026",
+      "published_utc": "2026-10-07T09:49:25+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Minutes of the London FXJSC Main Committee Meeting – 24 June 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-main-committee-meeting-24-june-2026",
+      "published_utc": "2026-10-07T09:08:40+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Regulatory thresholds set to shift to automatic increases",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases",
+      "published_utc": "2026-10-07T09:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
       "source": "Bank of England",
