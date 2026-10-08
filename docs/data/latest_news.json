@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-10-07T20:49:16+00:00",
+  "generated_at_utc": "2026-10-08T00:26:59+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
+      "published_utc": "2026-10-07T23:01:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
       "source": "Federal Reserve",
@@ -91,15 +101,6 @@
       "published_utc": "2026-10-05T15:00:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Basel III applicable in almost all member jurisdictions by 2027",
-      "source": "BIS",
-      "link": "https://www.bis.org/media-releases/20261005-basel-iii-applicable-almost-all-member-jurisdictions-2027",
-      "published_utc": "2026-10-05T00:00:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
