@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-10-08T19:28:21+00:00",
+  "generated_at_utc": "2026-10-08T23:50:17+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+      "published_utc": "2026-10-08T20:30:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England Weekly Report 7 October 2026",
       "source": "Bank of England",
@@ -119,16 +128,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/weekly-report/2025/consolidated-balance-sheet-30-june-2025",
       "published_utc": "2026-10-06T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-      "published_utc": "2026-10-05T20:30:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
