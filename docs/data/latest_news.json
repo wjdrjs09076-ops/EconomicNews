@@ -1,7 +1,37 @@
 {
-  "generated_at_utc": "2026-10-08T06:24:44+00:00",
+  "generated_at_utc": "2026-10-08T13:45:42+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Financial resilience in an age of repeated shocks - speech by Andrew Bailey",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/october/andrew-bailey-speech-at-the-istanbul-economic-forum-central-bank-of-the-republic-of-turkey-istanbul",
+      "published_utc": "2026-10-08T12:15:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank Liabilities Survey - 2026 Q3",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/bank-liabilities-survey/2026/2026-q3",
+      "published_utc": "2026-10-08T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Credit Conditions Survey - 2026 Q3",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-q3",
+      "published_utc": "2026-10-08T08:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
       "source": "Bank of England",
