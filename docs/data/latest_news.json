@@ -1,7 +1,48 @@
 {
-  "generated_at_utc": "2026-10-09T10:25:26+00:00",
+  "generated_at_utc": "2026-10-09T17:05:11+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "published_utc": "2026-10-09T14:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Navigating climate policy shocks: optimal monetary policy responses",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/navigating-climate-policy-shocks-optimal-monetary-policy-responses",
+      "published_utc": "2026-10-09T13:02:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Domestic and foreign insurer corporate bond demand and monetary policy",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/domestic-and-foreign-insurer-corporate-bond-demand-and-monetary-policy",
+      "published_utc": "2026-10-09T13:01:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Sorting into entrepreneurial teams",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/sorting-into-entrepreneurial-teams",
+      "published_utc": "2026-10-09T13:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "CMORG holds sector-wide cloud outage simulation exercise",
       "source": "Bank of England",
@@ -118,26 +159,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/news/2026/october/regulatory-thresholds-set-to-shift-to-automatic-increases",
       "published_utc": "2026-10-07T09:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
-      "published_utc": "2026-10-06T13:07:03+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Consolidated balance sheet - 30 June 2025",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/weekly-report/2025/consolidated-balance-sheet-30-june-2025",
-      "published_utc": "2026-10-06T13:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
