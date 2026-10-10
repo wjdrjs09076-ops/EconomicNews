@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-10T13:27:45+00:00",
+  "generated_at_utc": "2026-10-10T17:55:34+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -118,17 +118,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
       "published_utc": "2026-10-07T18:00:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
-      "published_utc": "2026-10-07T13:36:25+00:00",
-      "categories": [
-        "fx",
-        "financial_stability",
         "institutions"
       ]
     }
