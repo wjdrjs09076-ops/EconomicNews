@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-10T17:55:34+00:00",
+  "generated_at_utc": "2026-10-10T20:50:42+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -109,15 +109,6 @@
       "published_utc": "2026-10-07T23:01:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-      "published_utc": "2026-10-07T18:00:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
