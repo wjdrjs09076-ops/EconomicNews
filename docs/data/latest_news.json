@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-10T20:50:42+00:00",
+  "generated_at_utc": "2026-10-10T23:54:28+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -97,16 +97,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-q3",
       "published_utc": "2026-10-08T08:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
-      "published_utc": "2026-10-07T23:01:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
