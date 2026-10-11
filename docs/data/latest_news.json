@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-11T19:38:57+00:00",
+  "generated_at_utc": "2026-10-11T23:07:35+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -50,15 +50,6 @@
       "published_utc": "2026-10-09T09:00:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
-      "published_utc": "2026-10-08T20:30:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
