@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-11T09:01:36+00:00",
+  "generated_at_utc": "2026-10-11T15:30:20+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -59,26 +59,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
       "published_utc": "2026-10-08T20:30:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England Weekly Report 7 October 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/weekly-report/2026/7-october-2026",
-      "published_utc": "2026-10-08T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Financial resilience in an age of repeated shocks - speech by Andrew Bailey",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/october/andrew-bailey-speech-at-the-istanbul-economic-forum-central-bank-of-the-republic-of-turkey-istanbul",
-      "published_utc": "2026-10-08T12:15:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
