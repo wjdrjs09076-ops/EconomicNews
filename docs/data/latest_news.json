@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-12T02:17:54+00:00",
+  "generated_at_utc": "2026-10-12T09:19:25+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -38,16 +38,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/working-paper/2026/sorting-into-entrepreneurial-teams",
       "published_utc": "2026-10-09T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "CMORG holds sector-wide cloud outage simulation exercise",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
-      "published_utc": "2026-10-09T09:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
