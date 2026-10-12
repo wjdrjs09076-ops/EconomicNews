@@ -1,47 +1,5 @@
 {
-  "generated_at_utc": "2026-10-12T09:19:25+00:00",
+  "generated_at_utc": "2026-10-12T19:07:27+00:00",
   "lookback_hours": 72,
-  "items": [
-    {
-      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-      "published_utc": "2026-10-09T14:00:00+00:00",
-      "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Navigating climate policy shocks: optimal monetary policy responses",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/navigating-climate-policy-shocks-optimal-monetary-policy-responses",
-      "published_utc": "2026-10-09T13:02:00+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Domestic and foreign insurer corporate bond demand and monetary policy",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/domestic-and-foreign-insurer-corporate-bond-demand-and-monetary-policy",
-      "published_utc": "2026-10-09T13:01:00+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Sorting into entrepreneurial teams",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/sorting-into-entrepreneurial-teams",
-      "published_utc": "2026-10-09T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    }
-  ]
+  "items": []
 }
