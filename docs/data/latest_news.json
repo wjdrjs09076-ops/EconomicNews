@@ -1,7 +1,38 @@
 {
-  "generated_at_utc": "2026-10-15T06:33:27+00:00",
+  "generated_at_utc": "2026-10-15T11:58:59+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "David Roberts CV and questionnaire for the Treasury Select Committee",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
+      "published_utc": "2026-10-15T09:52:41+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Review of CCP collateral rules - letters of credit",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/cp/review-of-ccp-collateral-rules-letters-of-credit",
+      "published_utc": "2026-10-15T09:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "The importance of public engagement in maintaining trust in banknotes - Speech by Victoria Cleland",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/october/victoria-cleland-intergraf-currency-identity-conference-demark",
+      "published_utc": "2026-10-15T07:50:00+00:00",
+      "categories": [
+        "trade",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
       "source": "BIS",
