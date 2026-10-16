@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-10-16T05:06:13+00:00",
+  "generated_at_utc": "2026-10-16T09:40:39+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
+      "source": "BIS",
+      "link": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
+      "published_utc": "2026-10-16T00:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England Weekly Report 14 October 2026",
       "source": "Bank of England",
@@ -59,6 +68,16 @@
       "link": "https://www.bis.org/media-releases/20261014-global-standard-setting-bodies-publish-final-report-guidance-fmis-general-business-risks-and",
       "published_utc": "2026-10-14T00:00:00+00:00",
       "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "published_utc": "2026-10-13T18:00:00+00:00",
+      "categories": [
+        "rates",
         "institutions"
       ]
     },
