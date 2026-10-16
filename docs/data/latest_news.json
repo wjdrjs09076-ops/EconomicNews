@@ -1,7 +1,19 @@
 {
-  "generated_at_utc": "2026-10-16T18:02:50+00:00",
+  "generated_at_utc": "2026-10-16T20:54:15+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Financial innovation, dollar dominance and their UK monetary policy implications",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/october/financial-innovation-dollar-dominance-and-their-uk-monetary-policy-implications",
+      "published_utc": "2026-10-16T20:00:00+00:00",
+      "categories": [
+        "rates",
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
       "source": "Federal Reserve",
