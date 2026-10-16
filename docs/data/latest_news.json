@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-10-16T14:13:39+00:00",
+  "generated_at_utc": "2026-10-16T18:02:50+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+      "published_utc": "2026-10-16T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Banknote imagery advisory group minutes – 15 July 2026",
       "source": "Bank of England",
@@ -78,26 +88,6 @@
       "link": "https://www.bis.org/media-releases/20261014-global-standard-setting-bodies-publish-final-report-guidance-fmis-general-business-risks-and",
       "published_utc": "2026-10-14T00:00:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-      "published_utc": "2026-10-13T18:00:00+00:00",
-      "categories": [
-        "rates",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the Money Market Committee meeting – September 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/september/money-markets-committee-minutes-september-2026",
-      "published_utc": "2026-10-13T15:04:27+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
