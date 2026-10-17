@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-16T23:03:40+00:00",
+  "generated_at_utc": "2026-10-17T01:13:57+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -91,15 +91,6 @@
       "categories": [
         "trade",
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Global standard-setting bodies publish final report on guidance for FMIs on general business risks and general business losses",
-      "source": "BIS",
-      "link": "https://www.bis.org/media-releases/20261014-global-standard-setting-bodies-publish-final-report-guidance-fmis-general-business-risks-and",
-      "published_utc": "2026-10-14T00:00:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
