@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-18T04:43:44+00:00",
+  "generated_at_utc": "2026-10-18T09:05:30+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -59,37 +59,6 @@
       "link": "https://www.bankofengland.co.uk/news/2026/october/david-roberts-tsc-reappointment",
       "published_utc": "2026-10-15T09:52:41+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Review of CCP collateral rules - letters of credit",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/cp/review-of-ccp-collateral-rules-letters-of-credit",
-      "published_utc": "2026-10-15T09:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the SONIA Stakeholder Advisory Group - 25 September 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/september/sonia-stakeholder-advisory-group-25-september-2026",
-      "published_utc": "2026-10-15T08:27:59+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The importance of public engagement in maintaining trust in banknotes - Speech by Victoria Cleland",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/october/victoria-cleland-intergraf-currency-identity-conference-demark",
-      "published_utc": "2026-10-15T07:50:00+00:00",
-      "categories": [
-        "trade",
         "financial_stability",
         "institutions"
       ]
