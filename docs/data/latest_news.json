@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-19T10:57:44+00:00",
+  "generated_at_utc": "2026-10-19T17:17:58+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -10,26 +10,6 @@
       "categories": [
         "rates",
         "fx",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-      "published_utc": "2026-10-16T15:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Banknote imagery advisory group minutes – 15 July 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/july/banknote-advisory-minutes-15-july",
-      "published_utc": "2026-10-16T11:00:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
