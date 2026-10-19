@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-18T22:59:12+00:00",
+  "generated_at_utc": "2026-10-19T00:50:18+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -31,15 +31,6 @@
       "published_utc": "2026-10-16T11:00:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Basel Committee finalises measures to address window-dressing in the G-SIB framework and consults on G-SIB methodology review",
-      "source": "BIS",
-      "link": "https://www.bis.org/media-releases/20261016-basel-committee-finalises-measures-address-window-dressing-g-sib-framework-and-consults-g-sib",
-      "published_utc": "2026-10-16T00:00:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
