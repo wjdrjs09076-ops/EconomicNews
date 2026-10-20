@@ -1,5 +1,16 @@
 {
-  "generated_at_utc": "2026-10-20T14:42:15+00:00",
+  "generated_at_utc": "2026-10-20T18:43:38+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Learning about earnings: Can we rely on labour market slack to mitigate the latest supply shock? − speech by Megan Greene",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/october/megan-greene-speech-at-lse-economics-society-london",
+      "published_utc": "2026-10-20T17:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    }
+  ]
 }
