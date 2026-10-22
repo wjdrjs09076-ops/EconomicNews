@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-10-22T10:06:28+00:00",
+  "generated_at_utc": "2026-10-22T15:08:05+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England Weekly Report 21 October 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/21-october-2026",
+      "published_utc": "2026-10-22T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Learning about earnings: Can we rely on labour market slack to mitigate the latest supply shock? − speech by Megan Greene",
       "source": "Bank of England",
