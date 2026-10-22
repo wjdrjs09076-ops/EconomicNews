@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-10-22T19:10:41+00:00",
+  "generated_at_utc": "2026-10-22T22:16:27+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
+      "published_utc": "2026-10-22T20:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "The PRA’s second decade − speech by Katharine Braddick",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/speech/2026/october/katharine-braddick-mansion-house-city-regulators-dinner-london",
+      "published_utc": "2026-10-22T20:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England Weekly Report 21 October 2026",
       "source": "Bank of England",
