@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-10-23T10:12:35+00:00",
+  "generated_at_utc": "2026-10-23T15:02:19+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Lighting the shadows: central bank policy transmission through banks and non-banks",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/lighting-the-shadows-central-bank-policy-transmission-through-banks-and-non-banks",
+      "published_utc": "2026-10-23T13:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Global-to-UK SVAR",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/macro-technical-paper/2026/global-to-uk-svar",
+      "published_utc": "2026-10-23T13:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Physical shocks and economic resilience: a central bank perspective − speech by James Talbot",
       "source": "Bank of England",
