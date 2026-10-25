@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-25T18:10:42+00:00",
+  "generated_at_utc": "2026-10-25T20:46:17+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -27,26 +27,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/speech/2026/october/physical-shocks-and-economic-resilience-speech-by-james-talbot",
       "published_utc": "2026-10-23T09:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Regulators unveil plans to simplify Senior Manager and Certification Regime",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/october/regulators-unveil-plans-to-simplify-senior-manager-and-certification-regime",
-      "published_utc": "2026-10-22T20:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The PRA’s second decade − speech by Katharine Braddick",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/october/katharine-braddick-mansion-house-city-regulators-dinner-london",
-      "published_utc": "2026-10-22T20:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
