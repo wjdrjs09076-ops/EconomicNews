@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-10-26T05:20:23+00:00",
+  "generated_at_utc": "2026-10-26T11:15:00+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Artificial intelligence in UK financial services - 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/report/2026/artificial-intelligence-in-uk-financial-services-2026",
+      "published_utc": "2026-10-26T10:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Lighting the shadows: central bank policy transmission through banks and non-banks",
       "source": "Bank of England",
@@ -17,16 +27,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/macro-technical-paper/2026/global-to-uk-svar",
       "published_utc": "2026-10-23T13:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Physical shocks and economic resilience: a central bank perspective − speech by James Talbot",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/october/physical-shocks-and-economic-resilience-speech-by-james-talbot",
-      "published_utc": "2026-10-23T09:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
