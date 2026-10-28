@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-10-28T16:32:40+00:00",
+  "generated_at_utc": "2026-10-28T21:15:12+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "published_utc": "2026-10-28T18:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Remit for the Monetary Policy Committee - October 2026",
       "source": "Bank of England",
