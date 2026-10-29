@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-10-29T13:42:33+00:00",
+  "generated_at_utc": "2026-10-29T19:12:27+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England Weekly Report 28 October 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/28-october-2026",
+      "published_utc": "2026-10-29T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Minutes of the Meeting of the Court of Directors held on 17 September 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/september/court-minutes-17-september-2026",
+      "published_utc": "2026-10-29T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Bank of England sets out approach to tokenised collateral in central clearing",
       "source": "Bank of England",
