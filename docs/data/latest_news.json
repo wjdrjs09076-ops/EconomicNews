@@ -1,7 +1,37 @@
 {
-  "generated_at_utc": "2026-10-29T06:41:37+00:00",
+  "generated_at_utc": "2026-10-29T13:42:33+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Bank of England sets out approach to tokenised collateral in central clearing",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing",
+      "published_utc": "2026-10-29T10:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Consultation on supervisory expectations for central counterparties seeking to accept tokenised collateral",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/cp/supervisory-expectations-for-ccps-seeking-to-accept-tokenised-collateral",
+      "published_utc": "2026-10-29T10:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem",
+      "source": "BIS",
+      "link": "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
+      "published_utc": "2026-10-29T00:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve issues FOMC statement",
       "source": "Federal Reserve",
@@ -18,16 +48,6 @@
       "published_utc": "2026-10-28T14:16:49+00:00",
       "categories": [
         "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Artificial intelligence in UK financial services - 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/report/2026/artificial-intelligence-in-uk-financial-services-2026",
-      "published_utc": "2026-10-26T10:00:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
