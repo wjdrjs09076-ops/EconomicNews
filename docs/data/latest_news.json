@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-30T19:58:29+00:00",
+  "generated_at_utc": "2026-10-30T23:26:53+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -67,6 +67,16 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/paper/2026/cp/supervisory-expectations-for-ccps-seeking-to-accept-tokenised-collateral",
       "published_utc": "2026-10-29T10:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "CPMI publishes analysis on how central banks support payment system safety and efficiency and trust in money in the rapidly changing payments ecosystem",
+      "source": "BIS",
+      "link": "https://www.bis.org/media-releases/20261029-cpmi-publishes-analysis-how-central-banks-support-payment-system-safety-and-efficiency-and",
+      "published_utc": "2026-10-29T00:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
