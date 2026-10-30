@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-10-30T08:56:34+00:00",
+  "generated_at_utc": "2026-10-30T15:26:55+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Agents' summary of business conditions - October 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/agents-summary/2026/october-2026",
+      "published_utc": "2026-10-30T09:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Monthly Decision Maker Panel data - October 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/october-2026",
+      "published_utc": "2026-10-30T09:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
       "source": "Federal Reserve",
