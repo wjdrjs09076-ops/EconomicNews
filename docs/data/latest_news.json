@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-31T08:48:17+00:00",
+  "generated_at_utc": "2026-10-31T14:48:28+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -88,17 +88,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
       "published_utc": "2026-10-28T18:00:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Remit for the Monetary Policy Committee - October 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/letter/2026/mpc-remit-2026",
-      "published_utc": "2026-10-28T14:16:49+00:00",
-      "categories": [
-        "rates",
-        "financial_stability",
         "institutions"
       ]
     }
