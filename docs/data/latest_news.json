@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-31T14:48:28+00:00",
+  "generated_at_utc": "2026-10-31T18:49:00+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -79,15 +79,6 @@
       "published_utc": "2026-10-29T00:00:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve issues FOMC statement",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-      "published_utc": "2026-10-28T18:00:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
