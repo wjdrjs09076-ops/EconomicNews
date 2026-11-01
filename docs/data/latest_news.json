@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-01T18:34:52+00:00",
+  "generated_at_utc": "2026-11-01T22:18:09+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -17,16 +17,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/decision-maker-panel/2026/october-2026",
       "published_utc": "2026-10-30T09:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-      "published_utc": "2026-10-29T20:30:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
