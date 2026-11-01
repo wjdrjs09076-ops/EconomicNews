@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-01T06:37:37+00:00",
+  "generated_at_utc": "2026-11-01T13:44:24+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -47,26 +47,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/minutes/2026/september/court-minutes-17-september-2026",
       "published_utc": "2026-10-29T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Bank of England sets out approach to tokenised collateral in central clearing",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/october/bank-of-england-sets-out-approach-to-tokenised-collateral-in-central-clearing",
-      "published_utc": "2026-10-29T10:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Consultation on supervisory expectations for central counterparties seeking to accept tokenised collateral",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/cp/supervisory-expectations-for-ccps-seeking-to-accept-tokenised-collateral",
-      "published_utc": "2026-10-29T10:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
