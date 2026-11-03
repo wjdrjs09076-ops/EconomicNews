@@ -1,5 +1,17 @@
 {
-  "generated_at_utc": "2026-11-03T07:27:54+00:00",
+  "generated_at_utc": "2026-11-03T15:24:00+00:00",
   "lookback_hours": 72,
-  "items": []
+  "items": [
+    {
+      "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
+      "published_utc": "2026-11-03T10:00:00+00:00",
+      "categories": [
+        "growth",
+        "financial_stability",
+        "institutions"
+      ]
+    }
+  ]
 }
