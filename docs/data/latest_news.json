@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-11-04T15:40:07+00:00",
+  "generated_at_utc": "2026-11-04T21:28:26+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Summary of the RTGS CHAPS Industry Forum - 13 October 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026",
+      "published_utc": "2026-11-04T14:51:45+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Data and analytics transformation at the Bank of England to enable, equip and empower − speech by Ben Martin",
       "source": "Bank of England",
