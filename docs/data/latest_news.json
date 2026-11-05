@@ -1,7 +1,48 @@
 {
-  "generated_at_utc": "2026-11-05T08:26:13+00:00",
+  "generated_at_utc": "2026-11-05T16:37:33+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+      "published_utc": "2026-11-05T16:00:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank of England Weekly Report 4 November 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/4-november-2026",
+      "published_utc": "2026-11-05T15:17:30+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "published_utc": "2026-11-05T12:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Monetary Policy Report - November 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-report/2026/november-2026",
+      "published_utc": "2026-11-05T12:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Summary of the RTGS CHAPS Industry Forum - 13 October 2026",
       "source": "Bank of England",
