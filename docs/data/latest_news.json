@@ -1,7 +1,37 @@
 {
-  "generated_at_utc": "2026-11-06T09:32:34+00:00",
+  "generated_at_utc": "2026-11-06T16:53:46+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Price efficiency in securities lending",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/price-efficiency-in-securities-lending",
+      "published_utc": "2026-11-06T14:01:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "The aggregate and distributional implications of credit shocks on housing and rental markets",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/the-aggregate-and-distributional-implications-of-credit-shocks-on-housing-and-rental-markets",
+      "published_utc": "2026-11-06T14:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Market Participants Survey results - November 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-november-2026",
+      "published_utc": "2026-11-06T12:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
       "source": "Federal Reserve",
@@ -69,17 +99,6 @@
       "link": "https://www.bankofengland.co.uk/paper/2026/cp/response-to-the-rpib-consultation",
       "published_utc": "2026-11-04T10:00:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
-      "published_utc": "2026-11-03T10:00:00+00:00",
-      "categories": [
-        "growth",
         "financial_stability",
         "institutions"
       ]
