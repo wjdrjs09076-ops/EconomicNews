@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-07T07:12:55+00:00",
+  "generated_at_utc": "2026-11-07T13:59:17+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -78,26 +78,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/minutes/2026/october/rtgs-chaps-industry-forum-13-october-2026",
       "published_utc": "2026-11-04T14:51:45+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Data and analytics transformation at the Bank of England to enable, equip and empower − speech by Ben Martin",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/november/ben-martin-speech-at-data-ai-conference-europe-2026",
-      "published_utc": "2026-11-04T11:35:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Response to the RPIB consultation on the Design of the Future Retail Payments Infrastructure",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/cp/response-to-the-rpib-consultation",
-      "published_utc": "2026-11-04T10:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
