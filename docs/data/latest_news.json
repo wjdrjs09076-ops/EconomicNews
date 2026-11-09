@@ -1,32 +1,12 @@
 {
-  "generated_at_utc": "2026-11-09T08:44:01+00:00",
+  "generated_at_utc": "2026-11-09T19:09:09+00:00",
   "lookback_hours": 72,
   "items": [
     {
-      "title": "Price efficiency in securities lending",
+      "title": "Central Bank independence in today’s world - Speech by Andrew Bailey",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/price-efficiency-in-securities-lending",
-      "published_utc": "2026-11-06T14:01:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The aggregate and distributional implications of credit shocks on housing and rental markets",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/the-aggregate-and-distributional-implications-of-credit-shocks-on-housing-and-rental-markets",
-      "published_utc": "2026-11-06T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Market Participants Survey results - November 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-november-2026",
-      "published_utc": "2026-11-06T12:00:00+00:00",
+      "link": "https://www.bankofengland.co.uk/speech/2026/november/andrew-bailey-speech-at-swiss-institute-international-studies-lecture-series",
+      "published_utc": "2026-11-09T17:25:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
