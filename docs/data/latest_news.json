@@ -1,7 +1,36 @@
 {
-  "generated_at_utc": "2026-11-12T11:48:34+00:00",
+  "generated_at_utc": "2026-11-12T19:10:24+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "published_utc": "2026-11-12T18:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "published_utc": "2026-11-12T17:45:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+      "published_utc": "2026-11-12T16:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Principals and Agents – speech by Jonathan Hall",
       "source": "Bank of England",
@@ -67,16 +96,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
       "published_utc": "2026-11-09T21:00:00+00:00",
       "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Central Bank independence in today’s world - Speech by Andrew Bailey",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/november/andrew-bailey-speech-at-swiss-institute-international-studies-lecture-series",
-      "published_utc": "2026-11-09T17:25:00+00:00",
-      "categories": [
-        "financial_stability",
         "institutions"
       ]
     }
