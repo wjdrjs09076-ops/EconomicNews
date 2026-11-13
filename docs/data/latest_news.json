@@ -1,7 +1,53 @@
 {
-  "generated_at_utc": "2026-11-13T06:48:39+00:00",
+  "generated_at_utc": "2026-11-13T14:56:03+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/november/the-boe-monetary-authority-of-singapore-and-bank-of-thailand-media-release",
+      "published_utc": "2026-11-13T09:00:00+00:00",
+      "categories": [
+        "rates",
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Project Meridian FX APAC: Policy Report",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/payments/payments-innovation/wholesale-experiments-programme/project-meridian-fx-apac-policy-report",
+      "published_utc": "2026-11-13T09:00:00+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Project Meridian FX APAC: Executive summary and introduction",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/payments/payments-innovation/wholesale-experiments-programme/project-meridian-fx-apac-executive-summary-and-introduction",
+      "published_utc": "2026-11-13T09:00:00+00:00",
+      "categories": [
+        "rates",
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Project Meridian FX APAC: Technical Report",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/payments/payments-innovation/wholesale-experiments-programme/project-meridian-fx-apac-technical-report",
+      "published_utc": "2026-11-13T09:00:00+00:00",
+      "categories": [
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
       "source": "Federal Reserve",
@@ -32,6 +78,16 @@
       ]
     },
     {
+      "title": "Bank of England Weekly Report 11 November 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/11-november-2026",
+      "published_utc": "2026-11-12T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
       "title": "Principals and Agents – speech by Jonathan Hall",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/speech/2026/november/jon-hall-speech-at-cf-imperial-workshop",
@@ -46,36 +102,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/speech/2026/november/victoria-cleland-panel-at-the-ftt-fintech-festival-2026-london",
       "published_utc": "2026-11-11T10:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The low-gear labour market − speech by Clare Lombardelli",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/november/clare-lombardelli-speech-at-the-bank-watchers-conference",
-      "published_utc": "2026-11-10T12:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Exchange of letters between the Governor and the Chancellor on the Asset Purchase Facility - November 2026",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/letter/2026/asset-purchase-facility-november-2026",
-      "published_utc": "2026-11-10T12:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Asset Purchase Facility Quarterly Report - 2026 Q3",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/asset-purchase-facility/2026/2026-q3",
-      "published_utc": "2026-11-10T12:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
