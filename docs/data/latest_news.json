@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-12T19:10:24+00:00",
+  "generated_at_utc": "2026-11-13T00:15:58+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -78,24 +78,6 @@
       "published_utc": "2026-11-10T12:00:00+00:00",
       "categories": [
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Appointments to BIS global payments standard-setting body and Consultative Council for the Americas",
-      "source": "BIS",
-      "link": "https://www.bis.org/media-releases/20261110-appointments-bis-global-payments-standard-setting-body-and-consultative-council-americas",
-      "published_utc": "2026-11-10T00:00:00+00:00",
-      "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-      "published_utc": "2026-11-09T21:00:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
