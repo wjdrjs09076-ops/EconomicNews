@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-11-13T21:04:55+00:00",
+  "generated_at_utc": "2026-11-14T01:23:58+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Agencies extend comment period for proposed third-party risk management guidance",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+      "published_utc": "2026-11-13T21:15:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand: Project Meridian FX APAC",
       "source": "Bank of England",
