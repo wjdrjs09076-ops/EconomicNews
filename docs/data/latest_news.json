@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-15T16:38:10+00:00",
+  "generated_at_utc": "2026-11-15T21:13:44+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -54,25 +54,6 @@
       "categories": [
         "fx",
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-      "published_utc": "2026-11-12T18:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-      "published_utc": "2026-11-12T17:45:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
