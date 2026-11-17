@@ -1,27 +1,7 @@
 {
-  "generated_at_utc": "2026-11-16T17:26:58+00:00",
+  "generated_at_utc": "2026-11-17T00:55:24+00:00",
   "lookback_hours": 72,
   "items": [
-    {
-      "title": "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/sop/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps",
-      "published_utc": "2026-11-16T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The Bank of England’s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps-ps",
-      "published_utc": "2026-11-16T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
     {
       "title": "Near-final statement of policy: The Bank of England’s approach to tiering non-UK CCPs",
       "source": "Bank of England",
@@ -36,6 +16,36 @@
       "title": "Near-final supervisory statement on CCP margin",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/paper/2026/ss/near-final-supervisory-statement-on-ccp-margin",
+      "published_utc": "2026-11-16T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "The impact of default waterfall positioning on pro-rata second skin-in-the-game requirements for central counterparties",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/the-impact-of-default-waterfall-positioning-on-pro-rata-second-ssitg-requirements-for-ccp",
+      "published_utc": "2026-11-16T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Ensuring the resilience of CCPs: near-final policy statement",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/ensuring-the-resilience-of-ccps-near-final-policy-statement",
+      "published_utc": "2026-11-16T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps",
       "published_utc": "2026-11-16T11:00:00+00:00",
       "categories": [
         "financial_stability",
@@ -93,19 +103,9 @@
       ]
     },
     {
-      "title": "The impact of default waterfall positioning on pro-rata second skin-in-the-game requirements for central counterparties",
+      "title": "The Bank of England’s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
       "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/the-impact-of-default-waterfall-positioning-on-pro-rata-second-ssitg-requirements-for-ccp",
-      "published_utc": "2026-11-16T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Ensuring the resilience of CCPs: near-final policy statement",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/ps/ensuring-the-resilience-of-ccps-near-final-policy-statement",
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps-ps",
       "published_utc": "2026-11-16T11:00:00+00:00",
       "categories": [
         "financial_stability",
@@ -120,15 +120,6 @@
       "categories": [
         "rates",
         "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Agencies extend comment period for proposed third-party risk management guidance",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-      "published_utc": "2026-11-13T21:15:00+00:00",
-      "categories": [
         "institutions"
       ]
     }
