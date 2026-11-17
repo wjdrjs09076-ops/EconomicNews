@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-17T08:38:57+00:00",
+  "generated_at_utc": "2026-11-17T17:51:18+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -83,6 +83,16 @@
       ]
     },
     {
+      "title": "The Bank of England’s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps-ps",
+      "published_utc": "2026-11-16T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
       "title": "Near-final statement of policy: The Bank of England’s approach to tiering non-UK CCPs",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-tiering-non-uk-ccps",
@@ -106,16 +116,6 @@
       "title": "The impact of default waterfall positioning on pro-rata second skin-in-the-game requirements for central counterparties",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/paper/2026/the-impact-of-default-waterfall-positioning-on-pro-rata-second-ssitg-requirements-for-ccp",
-      "published_utc": "2026-11-16T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The Bank of England’s approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs: Policy statement",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps-ps",
       "published_utc": "2026-11-16T11:00:00+00:00",
       "categories": [
         "financial_stability",
