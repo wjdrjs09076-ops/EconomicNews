@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-18T00:00:40+00:00",
+  "generated_at_utc": "2026-11-18T06:35:38+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -13,9 +13,69 @@
       ]
     },
     {
+      "title": "Ensuring the resilience of CCPs: near-final policy statement",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/ensuring-the-resilience-of-ccps-near-final-policy-statement",
+      "published_utc": "2026-11-16T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps",
+      "published_utc": "2026-11-16T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
       "title": "Near-final statement of policy: The Bank of England’s approach to supervisory processes (model changes, recognition orders and variations of recognition orders) and margin permissions",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-supervisory-processes-and-margin-permissions",
+      "published_utc": "2026-11-16T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Near-final Statement of Policy: The Bank of England’s approach to permissions in relation to CCP rules (disclosure, outsourcing and interoperability arrangements permissions)",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-sop-boes-approach-to-permissions-in-relation-to-ccp-rules",
+      "published_utc": "2026-11-16T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "The Bank of England’s approach to rule permissions and waivers: Policy statement",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-rule-permissions-and-waivers-ps",
+      "published_utc": "2026-11-16T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Near-final statement of policy: The Bank of England’s approach to comparable compliance permissions",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-comparable-compliance",
+      "published_utc": "2026-11-16T11:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Statement of policy: The Bank of England’s approach to rule permissions and waivers",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/paper/2026/sop/statement-of-policy-the-boes-approach-to-rule-permissions-waivers",
       "published_utc": "2026-11-16T11:00:00+00:00",
       "categories": [
         "financial_stability",
@@ -56,66 +116,6 @@
       "title": "The impact of default waterfall positioning on pro-rata second skin-in-the-game requirements for central counterparties",
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/paper/2026/the-impact-of-default-waterfall-positioning-on-pro-rata-second-ssitg-requirements-for-ccp",
-      "published_utc": "2026-11-16T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Ensuring the resilience of CCPs: near-final policy statement",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/ps/ensuring-the-resilience-of-ccps-near-final-policy-statement",
-      "published_utc": "2026-11-16T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Statement of Policy: The Bank of England's approach to using its requirements and permissions powers to facilitate mobilisation of new CCPs",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/sop/the-boes-approach-to-requirements-and-permissions-to-facilitate-mobilisation-of-new-ccps",
-      "published_utc": "2026-11-16T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Near-final statement of policy: The Bank of England’s approach to comparable compliance permissions",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-statement-of-policy-the-boes-approach-to-comparable-compliance",
-      "published_utc": "2026-11-16T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Near-final Statement of Policy: The Bank of England’s approach to permissions in relation to CCP rules (disclosure, outsourcing and interoperability arrangements permissions)",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/sop/near-final-sop-boes-approach-to-permissions-in-relation-to-ccp-rules",
-      "published_utc": "2026-11-16T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "The Bank of England’s approach to rule permissions and waivers: Policy statement",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/ps/the-boes-approach-to-rule-permissions-and-waivers-ps",
-      "published_utc": "2026-11-16T11:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Statement of policy: The Bank of England’s approach to rule permissions and waivers",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/paper/2026/sop/statement-of-policy-the-boes-approach-to-rule-permissions-waivers",
       "published_utc": "2026-11-16T11:00:00+00:00",
       "categories": [
         "financial_stability",
