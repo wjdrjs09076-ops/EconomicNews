@@ -1,7 +1,16 @@
 {
-  "generated_at_utc": "2026-11-20T17:47:51+00:00",
+  "generated_at_utc": "2026-11-20T23:22:56+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Federal Reserve announces College Fed Challenge winners",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+      "published_utc": "2026-11-20T21:15:00+00:00",
+      "categories": [
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
       "source": "Federal Reserve",
