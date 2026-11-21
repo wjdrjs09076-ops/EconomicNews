@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-21T12:25:58+00:00",
+  "generated_at_utc": "2026-11-21T19:34:23+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -66,36 +66,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
       "published_utc": "2026-11-19T07:30:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-      "published_utc": "2026-11-18T19:00:00+00:00",
-      "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "The UK’s regional growth: unlocking the economy’s full potential - speech by Andrew Bailey",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/november/andrew-bailey-speech-at-the-annual-institute-of-economic-development-conference-london",
-      "published_utc": "2026-11-18T15:00:00+00:00",
-      "categories": [
-        "growth",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Transparency and predictability: a foundation for future resilience − speech by Katharine Braddick",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/speech/2026/november/katharine-braddick-speech-at-the-uk-finance-annual-dinner",
-      "published_utc": "2026-11-18T14:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
