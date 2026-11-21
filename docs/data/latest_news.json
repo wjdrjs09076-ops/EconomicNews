@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-20T23:22:56+00:00",
+  "generated_at_utc": "2026-11-21T04:03:26+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -96,16 +96,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/speech/2026/november/katharine-braddick-speech-at-the-uk-finance-annual-dinner",
       "published_utc": "2026-11-18T14:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Basel Committee discusses risks and vulnerabilities faced by global banking system",
-      "source": "BIS",
-      "link": "https://www.bis.org/media-releases/20261118-basel-committee-discusses-risks-and-vulnerabilities-faced-global-banking-system",
-      "published_utc": "2026-11-18T00:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
