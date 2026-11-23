@@ -1,7 +1,17 @@
 {
-  "generated_at_utc": "2026-11-23T04:02:57+00:00",
+  "generated_at_utc": "2026-11-23T14:21:34+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "General insurance stress test highlights value of rehearsing crisis response and recovery",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
+      "published_utc": "2026-11-23T10:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Federal Reserve announces College Fed Challenge winners",
       "source": "Federal Reserve",
@@ -18,16 +28,6 @@
       "published_utc": "2026-11-20T15:00:00+00:00",
       "categories": [
         "rates",
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "When vacancies become cheap: vacancy posting costs and equilibrium labour market tightness",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/working-paper/2026/when-vacancies-become-cheap-vacancy-posting-costs-and-equilibrium-labour-market-tightness",
-      "published_utc": "2026-11-20T14:00:00+00:00",
-      "categories": [
         "financial_stability",
         "institutions"
       ]
