@@ -1,7 +1,27 @@
 {
-  "generated_at_utc": "2026-11-24T11:37:29+00:00",
+  "generated_at_utc": "2026-11-24T21:28:55+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+      "published_utc": "2026-11-24T19:00:00+00:00",
+      "categories": [
+        "rates",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Daniel E. Pinto appointed to the Bank of England’s Financial Policy Committee",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
+      "published_utc": "2026-11-24T16:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "General insurance stress test highlights value of rehearsing crisis response and recovery",
       "source": "Bank of England",
