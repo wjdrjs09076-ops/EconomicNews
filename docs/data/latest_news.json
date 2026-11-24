@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-23T14:21:34+00:00",
+  "generated_at_utc": "2026-11-24T01:44:19+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -8,26 +8,6 @@
       "link": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
       "published_utc": "2026-11-23T10:00:00+00:00",
       "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve announces College Fed Challenge winners",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-      "published_utc": "2026-11-20T21:15:00+00:00",
-      "categories": [
-        "institutions"
-      ]
-    },
-    {
-      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
-      "published_utc": "2026-11-20T15:00:00+00:00",
-      "categories": [
-        "rates",
         "financial_stability",
         "institutions"
       ]
