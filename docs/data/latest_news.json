@@ -1,7 +1,29 @@
 {
-  "generated_at_utc": "2026-11-25T14:45:09+00:00",
+  "generated_at_utc": "2026-11-25T23:19:59+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+      "published_utc": "2026-11-25T20:00:00+00:00",
+      "categories": [
+        "rates",
+        "fx",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+      "published_utc": "2026-11-25T20:00:00+00:00",
+      "categories": [
+        "fx",
+        "institutions"
+      ]
+    },
     {
       "title": "Regulators implement growth-friendly securitisation reforms",
       "source": "Bank of England",
@@ -9,6 +31,17 @@
       "published_utc": "2026-11-25T10:00:00+00:00",
       "categories": [
         "growth",
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Basel Committee publishes more details on the 2026 assessment of global systemically important banks",
+      "source": "BIS",
+      "link": "https://www.bis.org/media-releases/20261125-basel-committee-publishes-more-details-2026-assessment-global-systemically-important-banks",
+      "published_utc": "2026-11-25T00:00:00+00:00",
+      "categories": [
+        "trade",
         "financial_stability",
         "institutions"
       ]
