@@ -1,7 +1,67 @@
 {
-  "generated_at_utc": "2026-11-26T05:09:33+00:00",
+  "generated_at_utc": "2026-11-26T15:04:21+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Payments systems Memorandum of Understanding",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2024/march/payment-systems-memorandum-of-understanding",
+      "published_utc": "2026-11-26T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Bank of England Weekly Report 25 November 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/weekly-report/2026/25-november-2026",
+      "published_utc": "2026-11-26T15:00:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Statistical Notice 2026/09 - Update to the classification of accounts guide",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-09",
+      "published_utc": "2026-11-26T12:33:57+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Financial Policy Committee Record – November 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/november-2026",
+      "published_utc": "2026-11-26T10:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Financial Stability in Focus: Outcomes of the FPC’s review of the bank capital framework",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/financial-stability-in-focus/2026/fsif-outcomes-of-the-fpcs-review-of-the-bank-capital-framework",
+      "published_utc": "2026-11-26T10:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
+    {
+      "title": "Financial Stability Report - November 2026",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/financial-stability-report/2026/november-2026",
+      "published_utc": "2026-11-26T10:30:00+00:00",
+      "categories": [
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
       "source": "Federal Reserve",
@@ -61,16 +121,6 @@
       "source": "Bank of England",
       "link": "https://www.bankofengland.co.uk/news/2026/november/daniel-pinto-appointment-fpc",
       "published_utc": "2026-11-24T16:00:00+00:00",
-      "categories": [
-        "financial_stability",
-        "institutions"
-      ]
-    },
-    {
-      "title": "General insurance stress test highlights value of rehearsing crisis response and recovery",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/november/general-insurance-stress-test-highlights-value-of-rehearsing-crisis-response-and-recovery",
-      "published_utc": "2026-11-23T10:00:00+00:00",
       "categories": [
         "financial_stability",
         "institutions"
