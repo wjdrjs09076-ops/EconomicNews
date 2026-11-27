@@ -1,7 +1,18 @@
 {
-  "generated_at_utc": "2026-11-27T05:21:19+00:00",
+  "generated_at_utc": "2026-11-27T15:17:07+00:00",
   "lookback_hours": 72,
   "items": [
+    {
+      "title": "Government bond issuance surprises and the term structure of interest rates in the UK",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/working-paper/2026/government-bond-issuance-surprises-and-the-term-structure-of-interest-rates-in-the-uk",
+      "published_utc": "2026-11-27T14:00:00+00:00",
+      "categories": [
+        "rates",
+        "financial_stability",
+        "institutions"
+      ]
+    },
     {
       "title": "Payments systems Memorandum of Understanding",
       "source": "Bank of England",
