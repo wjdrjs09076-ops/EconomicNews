@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-28T04:52:19+00:00",
+  "generated_at_utc": "2026-11-28T13:42:23+00:00",
   "lookback_hours": 72,
   "items": [
     {
@@ -92,17 +92,6 @@
       "published_utc": "2026-11-25T20:00:00+00:00",
       "categories": [
         "fx",
-        "institutions"
-      ]
-    },
-    {
-      "title": "Regulators implement growth-friendly securitisation reforms",
-      "source": "Bank of England",
-      "link": "https://www.bankofengland.co.uk/news/2026/november/regulators-implement-growth-friendly-securitisation-reforms",
-      "published_utc": "2026-11-25T10:00:00+00:00",
-      "categories": [
-        "growth",
-        "financial_stability",
         "institutions"
       ]
     }
